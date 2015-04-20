@@ -19,3 +19,23 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+*.swc
+*.swf
+*.actionScriptProperties
+*.project
+*.iws
+*.apk
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+NewProject/TestProject/build/TestProject-app.xml
+Unity/TestProjectUnity/Library/
+Unity/TestProjectUnity/obj/
+Unity/TestProjectUnity/Temp/
