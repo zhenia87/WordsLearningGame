@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-public class GameManager : MonoBehaviour 
+public class TestSceneController : MonoBehaviour 
 {
     public Text logTxt;
     public InputField englishWordInputField;
