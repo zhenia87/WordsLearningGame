@@ -8,23 +8,21 @@ public class TestSceneController : MonoBehaviour
     public Text logTxt;
     public InputField englishWordInputField;
     public InputField translatedWordInputField;
-    private DataService ds;
+
     void Awake()
     {
         logTxt.text = "";
-
     }
 	// Use this for initialization
 	void Start () 
     {
-        ds = new DataService("words.bytes");
+        
 	}
-	
-	// Update is called once per frame
-	void Update () 
+
+    public void SelectUnit()
     {
-	
-	}
+        Application.LoadLevel(Scenes.MAIN);
+    }
 
     public void OnButtonClick(int id)
     {
@@ -57,12 +55,12 @@ public class TestSceneController : MonoBehaviour
 
     private void AddWord(string englishWord, string translatedWord)
     {
-        ds.CreateWordItem(englishWord, translatedWord);
+        DataService.Instance.CreateWordItem(englishWord, translatedWord);
     }
 
     private void UpdateWords()
     {
-        var words = ds.GetWordItems();
+        var words = DataService.Instance.GetAllWordItems();
         ToConsole(words);
     }
 }

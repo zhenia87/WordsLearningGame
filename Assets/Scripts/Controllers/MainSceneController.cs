@@ -15,13 +15,7 @@ public class MainSceneController : MonoBehaviour {
 
     public void OnUnitSelected(int id)
     {
-        if (id <= 0)
-        {
-            Application.LoadLevel("WordSelecting");
-        }
-        else
-        {
-            Application.LoadLevel("WordSelecting");
-        }
+        AppModel.selectedUnit = id;
+        Application.LoadLevel(Scenes.WORD_SELECTING);
     }
 }
