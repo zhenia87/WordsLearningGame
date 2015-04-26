@@ -1,0 +1,530 @@
+﻿<?xml version="1.0"?>
+<exercise template="glossary">
+ <audioPath>data/content/glossary/audio/</audioPath>
+
+	<word str="addiction" type="n">
+		<phonetics><![CDATA[/ə ˈdɪkʃ ən/]]></phonetics>
+		<example><![CDATA[He had a gambling <b>addiction</b> and lost a lot of money.]]></example>
+	</word> 
+
+	<word str="advance" type="n">
+		<phonetics><![CDATA[/ədˈvɑːns/]]></phonetics>
+		<example><![CDATA[This is a major scientific <b>advance</b>.]]></example>
+	</word>
+
+	<word str="alien" type="adj">
+		<phonetics><![CDATA[/ˈeɪliən/]]></phonetics>
+		<example><![CDATA[They believe they saw an <b>alien</b> spaceship.]]></example>
+	</word>	
+	
+	<word str="amateur" type="adj">
+		<phonetics><![CDATA[/ˈæmətə[r]/]]></phonetics>
+		<example><![CDATA[He’s an <b>amateur</b> artist – he just paints for fun.]]></example>
+	</word>
+
+	<word str="astronaut" type="n">
+		<phonetics><![CDATA[/ˈæstrənɔːt/]]></phonetics>
+		<example><![CDATA[The <b>astronauts</b> spent three weeks in space.]]></example>
+	</word>		
+	
+    <word str="awareness" type="n">
+		<phonetics><![CDATA[/əˈweənəs/]]></phonetics>
+		<example><![CDATA[We now have more <b>awareness</b> of the importance of exercise.]]></example>
+	</word>
+
+	<word str="beyond your wildest dreams" type="">
+		<phonetics><![CDATA[/bɪˌjɒnd jɔː ˌwaɪldɪst ˈdriːmz/]]></phonetics>
+		<example><![CDATA[Starring in a Hollywood film was <b>beyond my wildest dreams</b>.]]></example>
+	</word>
+
+	<word str="blackness" type="n">
+		<phonetics><![CDATA[/ˈblæknəs/]]></phonetics>
+		<example><![CDATA[They looked out into the <b>blackness</b> outside.]]></example>
+	</word>	
+	
+	<word str="breakthrough" type="n">
+		<phonetics><![CDATA[/ˈbreɪkθruː/]]></phonetics>
+		<example><![CDATA[This was a major <b>breakthrough</b> in medicine.]]></example>
+	</word>
+
+	<word str="cause for concern" type="">
+		<phonetics><![CDATA[/ˌkɔːz fə kənˈsɜːn/]]></phonetics>
+		<example><![CDATA[The doctor said that her sudden weight loss was a <b>cause for concern</b>.]]></example>
+	</word>	
+
+    <word str="cell" type="n">
+		<phonetics><![CDATA[/sel/]]></phonetics>
+		<example><![CDATA[Your body is made up of <b>cells</b>.]]></example>
+	</word>
+
+	<word str="centenarian" type="n">
+		<phonetics><![CDATA[/ˌsentɪˈneəriən/]]></phonetics>
+		<example><![CDATA[Someone who lives to 100 is a <b>centenarian</b>.]]></example>
+	</word>
+
+	<word str="confidently" type="adv">
+		<phonetics><![CDATA[/ˈkɒnfɪdəntli/]]></phonetics>
+		<example><![CDATA[She smiled <b>confidently</b>.]]></example>
+	</word>	
+	
+    <word str="confirmation" type="n">
+		<phonetics><![CDATA[/ˌkɒnfəˈmeɪʃn/]]></phonetics>
+		<example><![CDATA[We will send <b>confirmation</b> of your booking.]]></example>
+	</word>
+
+	<word str="consciousness" type="n">
+		<phonetics><![CDATA[/ˈkɒnʃəsnəs/]]></phonetics>
+		<example><![CDATA[She lost <b>consciousness</b> when she hit her head.]]></example>
+	</word>
+	
+	<word str="controversial" type="adj">
+		<phonetics><![CDATA[/ˌkɒntrəˈvɜːʃl/]]></phonetics>
+		<example><![CDATA[Abortion is a very <b>controversial</b> issue.]]></example>
+	</word>
+	
+	<word str="cookery" type="n">
+		<phonetics><![CDATA[/ˈkʊkəri/]]></phonetics>
+		<example><![CDATA[All children are taught <b>cookery</b> at school.]]></example>
+	</word>
+	
+	<word str="current" type="adj">
+		<phonetics><![CDATA[/ˈkʌrənt/]]></phonetics>
+		<example><![CDATA[What is your <b>current</b> address?]]></example>
+	</word>	
+	
+	<word str="curvature" type="n">
+		<phonetics><![CDATA[/ˈkɜːvətʃə(r)/]]></phonetics>
+		<example><![CDATA[He suffers from <b>curvature</b> of the spine.]]></example>
+	</word>
+
+	<word str="cyber-" type="">
+		<phonetics><![CDATA[/ˈsaɪbə(r)/]]></phonetics>
+		<example><![CDATA[The pictures travel through <b>cyber-</b>space.]]></example>
+	</word>	
+	
+	<word str="damage" type="n">
+		<phonetics><![CDATA[/ˈdæmɪdʒ/]]></phonetics>
+		<example><![CDATA[The wind caused <b>damage</b> to some buildings.]]></example>
+	</word>
+
+	<word str="diseased" type="adj">
+		<phonetics><![CDATA[/dɪˈziːzd/]]></phonetics>
+		<example><![CDATA[Doctors replaced his <b>diseased</b> heart.]]></example>
+	</word>	
+
+    <word str="disorder" type="n">
+		<phonetics><![CDATA[/dɪsˈɔːdə(r)/]]></phonetics>
+		<example><![CDATA[Some teenage girls suffer from eating <b>disorders</b>.]]></example>
+	</word>
+
+	<word str="distribute" type="v">
+		<phonetics><![CDATA[/dɪˈstrɪbjuːt/]]></phonetics>
+		<example><![CDATA[They <b>distribute</b> food to homeless people.]]></example>
+	</word>
+
+	<word str="drought" type="n">
+		<phonetics><![CDATA[/draʊt/]]></phonetics>
+		<example><![CDATA[Many trees died during the <b>drought</b>.]]></example>
+	</word>	
+	
+	<word str="emotion" type="n">
+		<phonetics><![CDATA[/ɪˈməʊʃn/]]></phonetics>
+		<example><![CDATA[He never cries or shows his <b>emotions</b>.]]></example>
+	</word>
+
+	<word str="evacuate" type="v">
+		<phonetics><![CDATA[/ɪˈvækjueɪt/]]></phonetics>
+		<example><![CDATA[Some people were <b>evacuated</b> from their homes during the floods.]]></example>
+	</word>		
+
+    <word str="evidence" type="n">
+		<phonetics><![CDATA[/ˈevɪdəns/]]></phonetics>
+		<example><![CDATA[The police have <b>evidence</b> that she is guilty.]]></example>
+	</word>
+
+	<word str="existence" type="n">
+		<phonetics><![CDATA[/ɪgˈzɪstəns/]]></phonetics>
+		<example><![CDATA[Do you believe in the <b>existence</b> of ghosts?]]></example>
+	</word>
+
+	<word str="expand" type="v">
+		<phonetics><![CDATA[/ɪkˈspænd/]]></phonetics>
+		<example><![CDATA[The company will <b>expand</b> into Asia next year.]]></example>
+	</word>	
+	
+	<word str="expect (a baby)" type="v">
+		<phonetics><![CDATA[/ɪkˈspekt/]]></phonetics>
+		<example><![CDATA[She’s <b>expecting</b> a baby in May.]]></example>
+	</word>
+
+	<word str="expense" type="n">
+		<phonetics><![CDATA[/ɪkˈspens/]]></phonetics>
+		<example><![CDATA[We booked the holiday without thinking about the <b>expense</b>.]]></example>
+	</word>		
+
+    <word str="extend" type="v">
+		<phonetics><![CDATA[/ɪkˈstend/]]></phonetics>
+		<example><![CDATA[We loved the hotel, so decided to <b>extend</b> our stay.]]></example>
+	</word>
+
+	<word str="fiction" type="n">
+		<phonetics><![CDATA[/ˈfɪkʃn/]]></phonetics>
+		<example><![CDATA[Do you like reading facts or <b>fiction</b>?]]></example>
+	</word>
+
+	<word str="fingers crossed" type="">
+		<phonetics><![CDATA[/ˈfɪŋgəz ˈkrɒst/]]></phonetics>
+		<example><![CDATA[I’ve got my driving test tomorrow, so <b>fingers crossed</b> that I’ll pass.]]></example>
+	</word>	
+
+	<word str="flood" type="n">
+		<phonetics><![CDATA[/flʌd/]]></phonetics>
+		<example><![CDATA[Heavy rain often causes <b>floods</b>.]]></example>
+	</word>
+
+	<word str="forecast" type="n">
+		<phonetics><![CDATA[/ˈfɔːkɑːst/]]></phonetics>
+		<example><![CDATA[The <b>forecast</b> said it’s going to rain.]]></example>
+	</word>		
+
+    <word str="form" type="v">
+		<phonetics><![CDATA[/fɔːm]]></phonetics>
+		<example><![CDATA[The rock band <b>formed</b> two years ago.]]></example>
+	</word>
+
+	<word str="galaxy" type="n">
+		<phonetics><![CDATA[/ˈgæləksi/]]></phonetics>
+		<example><![CDATA[The Milky Way is a <b>galaxy</b>.]]></example>
+	</word>  
+
+	<word str="generate" type="v">
+		<phonetics><![CDATA[/ˈdʒenəreɪt/]]></phonetics>
+		<example><![CDATA[The idea <b>generated </b>a lot of excitement.]]></example>
+	</word>	
+
+	<word str="generation" type="n">
+		<phonetics><![CDATA[/ˌdʒenəˈreɪʃn/]]></phonetics>
+		<example><![CDATA[What will life be like for future <b>generations</b>?]]></example>
+	</word>
+
+	<word str="get in" type="v">
+		<phonetics><![CDATA[/ˌget ˈɪn/]]></phonetics>
+		<example><![CDATA[The train <b>gets in</b> to York at 14.30.]]></example>
+	</word>		
+
+    <word str="give birth" type="v">
+		<phonetics><![CDATA[/ˌgɪv ˈbɜːθ/]]></phonetics>
+		<example><![CDATA[She <b>gave birth</b> to a baby boy.]]></example>
+	</word>
+
+	<word str="glow" type="v">
+		<phonetics><![CDATA[/gləʊ/]]></phonetics>
+		<example><![CDATA[A light <b>glowed</b> in the distance.]]></example>
+	</word>
+
+	<word str="half-time" type="n">
+		<phonetics><![CDATA[/ˌhɑːf ˈtaɪm/]]></phonetics>
+		<example><![CDATA[The manager changed the team at <b>half-time</b>.]]></example>
+	</word>	
+	
+	<word str="heatwave" type="n">
+		<phonetics><![CDATA[/ˈhiːtweɪv/]]></phonetics>
+		<example><![CDATA[The temperature reached 43 degrees during the <b>heatwave</b>.]]></example>
+	</word>
+
+	<word str="hopeless" type="adj">
+		<phonetics><![CDATA[/ˈhəʊpləs/]]></phonetics>
+		<example><![CDATA[I tried playing tennis, but I was <b>hopeless</b>!]]></example>
+	</word>		
+	
+    <word str="hurricane" type="n">
+		<phonetics><![CDATA[/ˈhʌrɪkən/]]></phonetics>
+		<example><![CDATA[The <b>hurricane</b> damaged many buildings.]]></example>
+	</word>
+
+	<word str="infinite" type="adj">
+		<phonetics><![CDATA[/ˈɪnfɪnət/]]></phonetics>
+		<example><![CDATA[Space is <b>infinite</b> – it doesn’t end.]]></example>
+	</word>
+
+	<word str="injection" type="n">
+		<phonetics><![CDATA[/ɪnˈdʒekʃn/]]></phonetics>
+		<example><![CDATA[I had an <b>injection</b> to help with the pain.]]></example>
+	</word>	
+
+	<word str="knowledge" type="n">
+		<phonetics><![CDATA[/ˈnɒlɪdʒ/]]></phonetics>
+		<example><![CDATA[Scientists are always trying to improve their <b>knowledge</b>.]]></example>
+	</word>
+
+	<word str="laboratory" type="n">
+		<phonetics><![CDATA[/ləˈbɒrətri/]]></phonetics>
+		<example><![CDATA[The tests are carried out in our <b>laboratories</b>.]]></example>
+	</word>		
+
+    <word str="limb" type="n">
+		<phonetics><![CDATA[/lɪm/]]></phonetics>
+		<example><![CDATA[Some people lost <b>limbs</b> in the explosion.]]></example>
+	</word>
+
+	<word str="major" type="adj">
+		<phonetics><![CDATA[/ˈmeɪdʒə(r)/]]></phonetics>
+		<example><![CDATA[Pollution is a <b>major</b> problem in many cities.]]></example>
+	</word>
+
+	<word str="mammal" type="n">
+		<phonetics><![CDATA[/ˈmæml/]]></phonetics>
+		<example><![CDATA[Dogs and cats are <b>mammals</b>.]]></example>
+	</word>	
+
+	<word str="mankind" type="n">
+		<phonetics><![CDATA[/mænˈkaɪnd/]]></phonetics>
+		<example><![CDATA[This problem will affect all <b>mankind</b>.]]></example>
+	</word>
+
+	<word str="marvel" type="n">
+		<phonetics><![CDATA[/ˈmɑːvl/]]></phonetics>
+		<example><![CDATA[The film shows the <b>marvels</b> of nature.]]></example>
+	</word>		
+	
+    <word str="melt" type="v">
+		<phonetics><![CDATA[/melt/]]></phonetics>
+		<example><![CDATA[The chocolate had <b>melted</b> in the sun.]]></example>
+	</word>
+
+	<word str="meteorologist" type="n">
+		<phonetics><![CDATA[/ˌmiːtiəˈrɒlədʒɪst/]]></phonetics>
+		<example><![CDATA[<b>Meteorologists</b> study the weather.]]></example>
+	</word>
+
+	<word str="mission" type="n">
+		<phonetics><![CDATA[/ˈmɪʃn/]]></phonetics>
+		<example><![CDATA[They are planning a <b>mission</b> to Venus.]]></example>
+	</word>	
+	
+	<word str="nuclear energy" type="n">
+		<phonetics><![CDATA[/ˌnjuːklɪə(r) ˈenədʒi/]]></phonetics>
+		<example><![CDATA[Some electricity is produced by <b>nuclear energy</b>.]]></example>
+	</word>
+
+	<word str="orbit" type="n">
+		<phonetics><![CDATA[/ˈɔːbɪt/]]></phonetics>
+		<example><![CDATA[There are many satellites in <b>orbit</b> around the Earth.]]></example>
+	</word>	
+
+    <word str="organ" type="n">
+		<phonetics><![CDATA[/ˈɔːgən/]]></phonetics>
+		<example><![CDATA[Doctors can transplant <b>organs</b> such as the heart and liver.]]></example>
+	</word>
+
+	<word str="parallel" type="adj">
+		<phonetics><![CDATA[/ˈpærəlel/]]></phonetics>
+		<example><![CDATA[A square has two pairs of <b>parallel</b> lines.]]></example>
+	</word>
+
+	<word str="permafrost" type="n">
+		<phonetics><![CDATA[/ˈpɜːməfrɒst/]]></phonetics>
+		<example><![CDATA[<b>Permafrost</b> is ground that is always frozen.]]></example>
+	</word>	
+
+	<word str="pill" type="n">
+		<phonetics><![CDATA[/pɪl/]]></phonetics>
+		<example><![CDATA[The doctor gave me some <b>pills</b>.]]></example>
+	</word>
+
+	<word str="presence" type="n">
+		<phonetics><![CDATA[/ˈprezəns/]]></phonetics>
+		<example><![CDATA[We require your <b>presence</b> at the meeting.]]></example>
+	</word>		
+	
+    <word str="primate" type="n">
+		<phonetics><![CDATA[/ˈpraɪmeɪt/]]></phonetics>
+		<example><![CDATA[Monkeys are <b>primates</b>.]]></example>
+	</word>
+
+	<word str="prove" type="v">
+		<phonetics><![CDATA[/pruːv/]]></phonetics>
+		<example><![CDATA[The evidence <b>proved</b> that he was guilty.]]></example>
+	</word>    
+
+	<word str="quote" type="n">
+		<phonetics><![CDATA[/kwəʊt/]]></phonetics>
+		<example><![CDATA[Her favourite <b>quote</b> was from <i>Hamlet</i>.]]></example>
+	</word>	
+	
+	<word str="rainfall" type="n">
+		<phonetics><![CDATA[/ˈreɪnfɔːl/]]></phonetics>
+		<example><![CDATA[What’s the average <b>rainfall</b> in your country?]]></example>
+	</word>
+
+	<word str="rapidly" type="adv">
+		<phonetics><![CDATA[/ˈræpɪdli/]]></phonetics>
+		<example><![CDATA[Paul looked at his watch and left <b>rapidly</b>.]]></example>
+	</word>		
+
+    <word str="realist" type="n">
+		<phonetics><![CDATA[/ˈrɪəlɪst/]]></phonetics>
+		<example><![CDATA[I’m a <b>realist</b>, so I know we might not win.]]></example>
+	</word>
+
+	<word str="reassure" type="v">
+		<phonetics><![CDATA[/ˌriːəˈʃʊə(r)/]]></phonetics>
+		<example><![CDATA[She <b>reassured</b> me that everything was OK.]]></example>
+	</word>
+
+	<word str="reduce" type="v">
+		<phonetics><![CDATA[/rɪˈdjuːs/]]></phonetics>
+		<example><![CDATA[The government must <b>reduce</b> unemployment.]]></example>
+	</word>	
+	
+	<word str="regenerate" type="v">
+		<phonetics><![CDATA[/ˌriːˈdʒenəreɪt/]]></phonetics>
+		<example><![CDATA[If you cut off one of its legs, a new one will <b>regenerate</b>.]]></example>
+	</word>
+
+	<word str="regrow" type="v">
+		<phonetics><![CDATA[/ˌriːˈgrəʊ/]]></phonetics>
+		<example><![CDATA[The plant will <b>regrow</b> if you cut it down.]]></example>
+	</word>		
+	
+    <word str="replace" type="v">
+		<phonetics><![CDATA[/rɪˈpleɪs/]]></phonetics>
+		<example><![CDATA[I need to <b>replace</b> my old computer.]]></example>
+	</word>
+
+	<word str="research" type="v">
+		<phonetics><![CDATA[/rɪˈsɜːtʃ/]]></phonetics>
+		<example><![CDATA[The journalist <b>researched</b> her article extremely thoroughly.]]></example>
+	</word>
+
+	<word str="resource" type="n">
+		<phonetics><![CDATA[/rɪˈzɔːs/]]></phonetics>
+		<example><![CDATA[The country has natural <b>resources</b> such as oil and coal.]]></example>
+	</word>	
+	
+	<word str="revulsion" type="n">
+		<phonetics><![CDATA[/rɪˈvʌlʃn/]]></phonetics>
+		<example><![CDATA[She feels <b>revulsion</b> at the idea of eating meat.]]></example>
+	</word>
+
+	<word str="science fiction" type="n">
+		<phonetics><![CDATA[/ˌsaɪəns ˈfɪkʃn/]]></phonetics>
+		<example><![CDATA[She loves reading <b>science fiction</b>.]]></example>
+	</word>	
+
+	<word str="sensational" type="adj">
+		<phonetics><![CDATA[/senˈseɪʃənl/]]></phonetics>
+		<example><![CDATA[Some newspapers are full of <b>sensational</b> stories.]]></example>
+	</word>
+
+	<word str="sensor" type="n">
+		<phonetics><![CDATA[/ˈsensə(r)/]]></phonetics>
+		<example><![CDATA[The machine has light <b>sensors</b> to detect light.]]></example>
+	</word>	
+
+	<word str="sink into" type="v">
+		<phonetics><![CDATA[/ˌsɪŋk ˈɪntu/]]></phonetics>
+		<example><![CDATA[The wheels <b>sank into</b> the mud.]]></example>
+	</word>
+
+	<word str="skydiving" type="n">
+		<phonetics><![CDATA[/ˈskaɪdaɪvɪŋ/]]></phonetics>
+		<example><![CDATA[I don’t like flying, so I would hate <b>skydiving</b>!]]></example>
+	</word>		
+	
+    <word str="snowstorm" type="n">
+		<phonetics><![CDATA[/ˈsnəʊstɔːm/]]></phonetics>
+		<example><![CDATA[Many roads were blocked by snow during the <b>snowstorm</b>.]]></example>
+	</word>
+
+	<word str="spine" type="n">
+		<phonetics><![CDATA[/spaɪn/]]></phonetics>
+		<example><![CDATA[He broke his <b>spine</b>, so he can’t walk now.]]></example>
+	</word>
+
+	<word str="status" type="n">
+		<phonetics><![CDATA[/ˈsteɪtəs/]]></phonetics>
+		<example><![CDATA[Although he has been there for five years, he still has the <b>status</b> of an illegal immigrant.]]></example>
+	</word>	
+
+	<word str="study" type="n">
+		<phonetics><![CDATA[/ˈstʌdi/]]></phonetics>
+		<example><![CDATA[He did his work in the <b>study</b>.]]></example>
+	</word>
+
+	<word str="suitable" type="adj">
+		<phonetics><![CDATA[/ˈsuːtəbl/]]></phonetics>
+		<example><![CDATA[Those jeans aren’t <b>suitable</b> for an interview.]]></example>
+	</word>	
+
+	<word str="supply" type="n">
+		<phonetics><![CDATA[/səˈplaɪ/]]></phonetics>
+		<example><![CDATA[<b>Supplies</b> of food were flown to the area.]]></example>
+	</word>
+
+	<word str="take for granted" type="">
+		<phonetics><![CDATA[/ˌteɪk fə ˈgrɑːntɪd/]]></phonetics>
+		<example><![CDATA[Children nowadays <b>take</b> modern technology <b>for granted</b>. ]]></example>
+	</word>
+
+	<word str="task" type="n">
+		<phonetics><![CDATA[/tɑːsk/]]></phonetics>
+		<example><![CDATA[Cleaning is a very boring <b>task</b>.]]></example>
+	</word>	
+
+	<word str="technical" type="adj">
+		<phonetics><![CDATA[/ˈteknɪkl/]]></phonetics>
+		<example><![CDATA[I need <b>technical</b> advice on my computer.]]></example>
+	</word>
+
+	<word str="the norm" type="n">
+		<phonetics><![CDATA[/ðə nɔːm/]]></phonetics>
+		<example><![CDATA[Having a home computer is now <b>the norm</b>.]]></example>
+	</word>
+
+	<word str="throughout" type="prep">
+		<phonetics><![CDATA[/θruːˈaʊt/]]></phonetics>
+		<example><![CDATA[It is very cold <b>throughout</b> the winter.]]></example>
+	</word>		
+	
+    <word str="thunderstorm" type="n">
+		<phonetics><![CDATA[/ˈθʌndəstɔːm/]]></phonetics>
+		<example><![CDATA[There was a <b>thunderstorm</b> with thunder and heavy rain.]]></example>
+	</word>
+
+	<word str="transplantation" type="n">
+		<phonetics><![CDATA[/ˌtrænsplɑːnˈteɪʃn/]]></phonetics>
+		<example><![CDATA[There are not enough hearts available for <b>transplantation</b>.]]></example>
+	</word>
+
+	<word str="tropical" type="adj">
+		<phonetics><![CDATA[/ˈtrɒpɪkl/]]></phonetics>
+		<example><![CDATA[Barbados has a <b>tropical</b> climate.]]></example>
+	</word>	
+	
+	<word str="universe" type="n">
+		<phonetics><![CDATA[/ˈjuːnɪvɜːs/]]></phonetics>
+		<example><![CDATA[Scientists believe the <b>universe</b> started with a Big Bang.]]></example>
+	</word>
+	<word str="vertebrate" type="n">
+		<phonetics><![CDATA[/ˈvɜːtɪbrət/]]></phonetics>
+		<example><![CDATA[All <b>vertebrates</b> have a backbone.]]></example>
+	</word>	
+	
+    <word str="vigorous" type="adj">
+		<phonetics><![CDATA[/ˈvɪgərəs/]]></phonetics>
+		<example><![CDATA[He gave the door a <b>vigorous</b> push.]]></example>
+	</word>
+
+	<word str="virtual" type="adj">
+		<phonetics><![CDATA[/ˈvɜːtʃuəl/]]></phonetics>
+		<example><![CDATA[The government was so oppressive that it was a <b>virtual</b> dictatorship.]]></example>
+	</word>
+
+	<word str="weightlessness" type="n">
+		<phonetics><![CDATA[/ˈweɪtləsnəs/]]></phonetics>
+		<example><![CDATA[They experienced the feeling of <b>weightlessness</b> in space.]]></example>
+	</word>	
+
+</exercise>
+<!--etc -->

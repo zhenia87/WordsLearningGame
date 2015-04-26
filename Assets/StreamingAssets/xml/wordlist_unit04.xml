@@ -1,0 +1,531 @@
+﻿<?xml version="1.0"?>
+<exercise template="glossary">
+ <audioPath>data/content/glossary/audio/</audioPath>
+
+	<word str="access" type="n">
+		<phonetics><![CDATA[/ˈækses/]]></phonetics>
+		<example><![CDATA[Students have <b>access</b> to the whole library.]]></example>
+	</word>
+
+	<word str="accessory" type="n"> 
+		<phonetics><![CDATA[/ækˈsesəri/]]></phonetics>
+		<example><![CDATA[She has different <b>accessories</b> to go with different clothes.]]></example>
+	</word>
+
+	<word str="adjust" type="v">
+		<phonetics><![CDATA[/əˈdʒʌst/]]></phonetics>
+		<example><![CDATA[She soon <b>adjusted</b> to university life.]]></example>
+	</word>	
+	
+	<word str="apparently" type="adv">
+		<phonetics><![CDATA[/əˈpærəntli/]]></phonetics>
+		<example><![CDATA[<b>Apparently</b>, they’re going to close the swimming pool.]]></example>
+	</word>
+
+	<word str="appreciate" type="v">
+		<phonetics><![CDATA[/əˈpriːʃieɪt/]]></phonetics>
+		<example><![CDATA[Thanks for your help – I really <b>appreciate</b> it.]]></example>
+	</word>		
+	
+    <word str="bargain" type="n">
+		<phonetics><![CDATA[/ˈbɑːgən/]]></phonetics>
+		<example><![CDATA[These shoes are only £10 – a <b>bargain</b>!]]></example>
+	</word>
+
+	<word str="battered" type="adj">
+		<phonetics><![CDATA[/ˈbætəd/]]></phonetics>
+		<example><![CDATA[He was carrying a <b>battered</b> old suitcase.]]></example>
+	</word>
+
+	<word str="benefit" type="n">
+		<phonetics><![CDATA[/ˈbenɪfɪt/]]></phonetics>
+		<example><![CDATA[You can claim <b>benefit</b> if you are too ill to work.]]></example>
+	</word>	
+	
+	<word str="borrow" type="v">
+		<phonetics><![CDATA[/ˈbɒrəʊ/]]></phonetics>
+		<example><![CDATA[Can I <b>borrow</b> your pen for a moment?]]></example>
+	</word>
+
+	<word str="bottle bank" type="n">
+		<phonetics><![CDATA[/ˈbɒtl ˌbæŋk/]]></phonetics>
+		<example><![CDATA[Take the old bottles to the <b>bottle bank</b>.]]></example>
+	</word>	
+
+    <word str="bring up" type="v">
+		<phonetics><![CDATA[/ˌbrɪŋ ˈʌp/]]></phonetics>
+		<example><![CDATA[You should <b>bring</b> this <b>up</b> at the next meeting.]]></example>
+	</word>
+
+	<word str="chore" type="n">
+		<phonetics><![CDATA[/tʃɔː(r)/]]></phonetics>
+		<example><![CDATA[Cooking and cleaning are <b>chores</b>.]]></example>
+	</word>
+
+	<word str="claim" type="v">
+		<phonetics><![CDATA[/kleɪm/]]></phonetics>
+		<example><![CDATA[She stepped forward to <b>claim</b> her prize.]]></example>
+	</word>	
+	
+    <word str="code " type="n">
+		<phonetics><![CDATA[/kəʊd/]]></phonetics>
+		<example><![CDATA[What’s the international <b>code</b> for Germany?]]></example>
+	</word>
+
+	<word str="confront" type="v">
+		<phonetics><![CDATA[/kənˈfrʌnt/]]></phonetics>
+		<example><![CDATA[They <b>confronted</b> him with all the evidence.]]></example>
+	</word>
+	
+	<word str="consider" type="v">
+		<phonetics><![CDATA[/kənˈsɪdə(r)/]]></phonetics>
+		<example><![CDATA[She made an offer on the house and the owners said they would <b>consider</b> it.]]></example>
+	</word>
+	
+	<word str="council house" type="n">
+		<phonetics><![CDATA[/ˈkaʊnsl ˌhaʊs/]]></phonetics>
+		<example><![CDATA[The government owns <b>council houses</b>, and rents them to people.]]></example>
+	</word>
+	
+	<word str="cuddly" type="adj">
+		<phonetics><![CDATA[/ˈkʌdli/]]></phonetics>
+		<example><![CDATA[The kitten was soft and <b>cuddly</b>.]]></example>
+	</word>	
+	
+	<word str="cut off" type="v">
+		<phonetics><![CDATA[/ˌkʌt ˈɒf/]]></phonetics>
+		<example><![CDATA[The operator <b>cut</b> us <b>off</b>.]]></example>
+	</word>
+
+	<word str="deal with" type="v">
+		<phonetics><![CDATA[/ˈdiːl wɪð/]]></phonetics>
+		<example><![CDATA[I don’t know how to <b>deal with</b> this problem.]]></example>
+	</word>	
+	
+	<word str="decorate" type="v">
+		<phonetics><![CDATA[/ˈdekəreɪt/]]></phonetics>
+		<example><![CDATA[We need to <b>decorate</b> the kitchen.]]></example>
+	</word>
+
+	<word str="demand " type="n">
+		<phonetics><![CDATA[/dɪˈmɑːnd/]]></phonetics>
+		<example><![CDATA[I support nurses’ <b>demands</b> for higher pay.]]></example>
+	</word>	
+
+    <word str="dig" type="v">
+		<phonetics><![CDATA[/dɪg/]]></phonetics>
+		<example><![CDATA[He <b>dug</b> a hole in the sand.]]></example>
+	</word>
+
+	<word str="dilemma" type="n">
+		<phonetics><![CDATA[/daɪˈlemə/]]></phonetics>
+		<example><![CDATA[We face a difficult <b>dilemma</b>, and must make a decision.]]></example>
+	</word>
+
+	<word str="disagreeable" type="adj">
+		<phonetics><![CDATA[/ˌdɪsəˈgriːəbl/]]></phonetics>
+		<example><![CDATA[There was a <b>disagreeable</b> smell in the kitchen.]]></example>
+	</word>	
+	
+	<word str="discipline" type="n">
+		<phonetics><![CDATA[/ˈdɪsɪplɪn/]]></phonetics>
+		<example><![CDATA[Good <b>discipline</b> is important in schools.]]></example>
+	</word>
+
+	<word str="disqualify" type="v">
+		<phonetics><![CDATA[/dɪsˈkwɒlɪfaɪ/]]></phonetics>
+		<example><![CDATA[She’s been <b>disqualified</b> from the competition.]]></example>
+	</word>		
+
+    <word str="domestic" type="adj">
+		<phonetics><![CDATA[/dəˈmestɪk/]]></phonetics>
+		<example><![CDATA[This equipment is not for <b>domestic</b> use.]]></example>
+	</word>
+
+	<word str="drink-driving" type="n">
+		<phonetics><![CDATA[/ˌdrɪŋkˈdraɪvɪŋ/]]></phonetics>
+		<example><![CDATA[A lot of accidents are caused by <b>drink-driving</b>.]]></example>
+	</word>
+
+	<word str="dump" type="v">
+		<phonetics><![CDATA[/dʌmp/]]></phonetics>
+		<example><![CDATA[They shouldn’t <b>dump </b> chemicals in the river.]]></example>
+	</word>	
+	
+	<word str="electronic" type="adj">
+		<phonetics><![CDATA[/ɪˌlekˈtrɒnɪk/]]></phonetics>
+		<example><![CDATA[You can buy some books in <b>electronic</b> form.]]></example>
+	</word>
+
+	<word str="enter" type="v">
+		<phonetics><![CDATA[/ˈentə(r)/]]></phonetics>
+		<example><![CDATA[We <b>entered</b> the building.]]></example>
+	</word>		
+
+    <word str="equipment" type="n">
+		<phonetics><![CDATA[/ɪˈkwɪpmənt/]]></phonetics>
+		<example><![CDATA[You need expensive <b>equipment</b> for some sports.]]></example>
+	</word>
+
+	<word str="era" type="n">
+		<phonetics><![CDATA[/ˈiərə/]]></phonetics>
+		<example><![CDATA[She lived during the Victorian <b>era</b>.]]></example>
+	</word>
+
+	<word str="fair" type="adj">
+		<phonetics><![CDATA[/feə(r)/]]></phonetics>
+		<example><![CDATA[He’s got more than me – it’s not <b>fair</b>!]]></example>
+	</word>	
+
+	<word str="fairground ride" type="n">
+		<phonetics><![CDATA[/ˈfeəgraʊnd raɪd/]]></phonetics>
+		<example><![CDATA[I hate going on <b>fairground rides</b> where you get turned upside down.]]></example>
+	</word>
+
+	<word str="fiancée" type="n">
+		<phonetics><![CDATA[/fiˈɒnseɪ/]]></phonetics>
+		<example><![CDATA[Sara is his <b>fiancée</b> – he’s going to marry her next year.]]></example>
+	</word>		
+	
+    <word str="footpath" type="n">
+		<phonetics><![CDATA[/ˈfʊtpɑːθ/]]></phonetics>
+		<example><![CDATA[The <b>footpath</b> goes through this field.]]></example>
+	</word>
+
+	<word str="freeze" type="v">
+		<phonetics><![CDATA[/friːz/]]></phonetics>
+		<example><![CDATA[The screen <b>freezes</b> when I try to use the Internet.]]></example>
+	</word>  
+
+	<word str="fuss" type="n">
+		<phonetics><![CDATA[/fʌs/]]></phonetics>
+		<example><![CDATA[He made a terrible <b>fuss</b> when I told him he couldn’t come with us.]]></example>
+	</word>	
+
+	<word str="gadget" type="n">
+		<phonetics><![CDATA[/ˈgædʒɪt/]]></phonetics>
+		<example><![CDATA[You can get a clever <b>gadget</b> for opening tins.]]></example>
+	</word>
+
+	<word str="gain" type="v">
+		<phonetics><![CDATA[/geɪn/]]></phonetics>
+		<example><![CDATA[We couldn’t <b>gain</b> entry to the building.]]></example>
+	</word>		
+
+    <word str="get through" type="v">
+		<phonetics><![CDATA[/ˌget ˈθruː/]]></phonetics>
+		<example><![CDATA[I couldn’t <b>get through</b> to Max last night.]]></example>
+	</word>
+
+	<word str="gift-wrap" type="v">
+		<phonetics><![CDATA[/ˈgɪft ˌræp/]]></phonetics>
+		<example><![CDATA[Could you <b>gift-wrap</b> these flowers, please?]]></example>
+	</word>
+
+	<word str="give in" type="v">
+		<phonetics><![CDATA[/ˌgɪv ˈɪn/]]></phonetics>
+		<example><![CDATA[The government will not <b>give in</b> to terrorists.]]></example>
+	</word>	
+	
+	<word str="go with the flow" type="">
+		<phonetics><![CDATA[/ˌgəʊ wɪð ðə ˈfləʊ/]]></phonetics>
+		<example><![CDATA[I don’t mind what we do – I’ll <b>go with the flow</b>.]]></example>
+	</word>
+
+	<word str="great-grandmother" type="n">
+		<phonetics><![CDATA[/ˌgreɪtˈgrænmʌðə(r)/]]></phonetics>
+		<example><![CDATA[Your <b>great-grandmother</b> is the mother of a grandparent.]]></example>
+	</word>		
+	
+    <word str="greet" type="v">
+		<phonetics><![CDATA[/griːt/]]></phonetics>
+		<example><![CDATA[He <b>greeted</b> me with a cheerful ’Hello’.]]></example>
+	</word>
+
+	<word str="hi-tech" type="adj">
+		<phonetics><![CDATA[/ˌhaɪˈtek/]]></phonetics>
+		<example><![CDATA[Our new washing machine is very <b>hi-tech</b>.]]></example>
+	</word>
+
+	<word str="in spite of" type="prep">
+		<phonetics><![CDATA[/ɪnˈspaɪt əv/]]></phonetics>
+		<example><![CDATA[We swam in the sea <b>in spite of</b> the cold.]]></example>
+	</word>	
+	
+	<word str="iron" type="v">
+		<phonetics><![CDATA[/ˈaɪən/]]></phonetics>
+		<example><![CDATA[My shirt is clean, but it needs to be <b>ironed</b>.]]></example>
+	</word>
+
+	<word str="keep quiet" type="v">
+		<phonetics><![CDATA[/ˌkiːp ˈkwaɪət/]]></phonetics>
+		<example><![CDATA[He asked me to <b>keep quiet</b> about his plans.]]></example>
+	</word>		
+
+    <word str="lift" type="n">
+		<phonetics><![CDATA[/lɪft/]]></phonetics>
+		<example><![CDATA[The <b>lift</b> wasn't working so we took the stairs.]]></example>
+	</word>
+
+	<word str="make" type="n">
+		<phonetics><![CDATA[/meɪk/]]></phonetics>
+		<example><![CDATA[The police asked him if he could remember the <b>make</b> and model of the car.]]></example>
+	</word>
+
+	<word str="match" type="n">
+		<phonetics><![CDATA[/mætʃ/]]></phonetics>
+		<example><![CDATA[Did you see the Chelsea <b>match</b> last night?]]></example>
+	</word>	
+
+	<word str="medical" type="adj">
+		<phonetics><![CDATA[/ˈmedɪkl/]]></phonetics>
+		<example><![CDATA[She’s studying for a <b>medical</b> degree.]]></example>
+	</word>
+
+	<word str="menace" type="n">
+		<phonetics><![CDATA[/ˈmenɪs/]]></phonetics>
+		<example><![CDATA[Bad drivers are a <b>menace</b> on the roads!]]></example>
+	</word>		
+	
+    <word str="military service" type="n">
+		<phonetics><![CDATA[/ˌmɪlətri ˈsɜːvɪs/]]></phonetics>
+		<example><![CDATA[He had to do a year’s <b>military service</b> in the army.]]></example>
+	</word>
+
+	<word str="missionary" type="n">
+		<phonetics><![CDATA[/ˈmɪʃənri/]]></phonetics>
+		<example><![CDATA[Saint Patrick was a Christian <b>missionary</b>.]]></example>
+	</word>
+
+	<word str="morals" type="pl n">
+		<phonetics><![CDATA[/ˈmɒrəlz/]]></phonetics>
+		<example><![CDATA[This behaviour was not acceptable to the <b>morals</b> of that time.]]></example>
+	</word>	
+	
+	<word str="naïve" type="adj">
+		<phonetics><![CDATA[/naɪˈiːv/]]></phonetics>
+		<example><![CDATA[She’s very <b>naïve</b> and will trust anyone.]]></example>
+	</word>
+
+	<word str="open" type="adj">
+		<phonetics><![CDATA[/ˈəʊpən/]]></phonetics>
+		<example><![CDATA[He didn't think he would enjoy it, but he tried to keep an <b>open</b> mind.]]></example>
+	</word>	
+
+    <word str="optimist" type="n">
+		<phonetics><![CDATA[/ˈɒptɪmɪst/]]></phonetics>
+		<example><![CDATA[He’s an <b>optimist</b> – he’s always cheerful.]]></example>
+	</word>
+
+	<word str="out of work" type="">
+		<phonetics><![CDATA[/ˌaʊt əv ˈwɜːk/]]></phonetics>
+		<example><![CDATA[There are no jobs, so a lot of people are <b>out of work</b>.]]></example>
+	</word>
+
+	<word str="permissible" type="adj">
+		<phonetics><![CDATA[/pəˈmɪsəbl/]]></phonetics>
+		<example><![CDATA[It is not <b>permissible</b> to use mobile phones during exams.]]></example>
+	</word>	
+
+	<word str="pessimist" type="n">
+		<phonetics><![CDATA[/ˈpesɪmɪst/]]></phonetics>
+		<example><![CDATA[Don’t be such a <b>pessimist</b> – it will be fine!]]></example>
+	</word>
+
+	<word str="pick up" type="v">
+		<phonetics><![CDATA[/ˌpɪk ˈʌp/]]></phonetics>
+		<example><![CDATA[I <b>picked up</b> some interesting information.]]></example>
+	</word>		
+	
+    <word str="point of view" type="n">
+		<phonetics><![CDATA[/ˌpɔɪnt əv ˈvjuː/]]></phonetics>
+		<example><![CDATA[Everyone has a different <b>point of view</b> on this issue.]]></example>
+	</word>
+
+	<word str="pump" type="n">
+		<phonetics><![CDATA[/pʌmp/]]></phonetics>
+		<example><![CDATA[All the <b>pumps</b> at the petrol station were busy.]]></example>
+	</word>    
+
+	<word str="punk" type="n">
+		<phonetics><![CDATA[/pʌŋk/]]></phonetics>
+		<example><![CDATA[<b>Punk</b> is a type of loud rock music.]]></example>
+	</word>	
+	
+	<word str="push up" type="v">
+		<phonetics><![CDATA[/ˌpʊʃ ˈʌp/]]></phonetics>
+		<example><![CDATA[The war will <b>push up</b> the price of oil.]]></example>
+	</word>
+
+	<word str="put up with" type="v">
+		<phonetics><![CDATA[/ˌpʊt ˈʌp wɪð/]]></phonetics>
+		<example><![CDATA[He has to <b>put up with</b> a lot of pain.]]></example>
+	</word>		
+
+    <word str="qualify" type="v">
+		<phonetics><![CDATA[/ˈkwɒlɪfaɪ/]]></phonetics>
+		<example><![CDATA[He has just <b>qualified</b> as a lawyer.]]></example>
+	</word>
+
+	<word str="react" type="v">
+		<phonetics><![CDATA[/riːˈækt/]]></phonetics>
+		<example><![CDATA[How did Sara <b>react</b> when you told her the news?]]></example>
+	</word>
+
+	<word str="regard" type="n">
+		<phonetics><![CDATA[/rɪˈgɑːd/]]></phonetics>
+		<example><![CDATA[He has no <b>regard</b> for other people’s feelings!]]></example>
+	</word>	
+	
+	<word str="remove" type="v">
+		<phonetics><![CDATA[/rɪˈmuːv/]]></phonetics>
+		<example><![CDATA[Cut the fruit in half and <b>remove</b> the stone.]]></example>
+	</word>
+
+	<word str="retell" type="v">
+		<phonetics><![CDATA[/ˌriːˈtel/]]></phonetics>
+		<example><![CDATA[He <b>retold</b> the joke to all his friends.]]></example>
+	</word>		
+	
+    <word str="row" type="n">
+		<phonetics><![CDATA[/raʊ/]]></phonetics>
+		<example><![CDATA[They’re always having <b>rows </b>about money.]]></example>
+	</word>
+
+	<word str="scary" type="adj">
+		<phonetics><![CDATA[/ˈskeəri/]]></phonetics>
+		<example><![CDATA[It was <b>scary</b> being in that house alone.]]></example>
+	</word>
+
+	<word str="schooling" type="n">
+		<phonetics><![CDATA[/ˈskuːlɪŋ/]]></phonetics>
+		<example><![CDATA[She finished her <b>schooling</b> at 16.]]></example>
+	</word>	
+	
+	<word str="servant" type="n">
+		<phonetics><![CDATA[/ˈsɜːvənt/]]></phonetics>
+		<example><![CDATA[They’re very rich – they’ve got <b>servants</b> to do everything for them!]]></example>
+	</word>
+
+	<word str="set an example" type="">
+		<phonetics><![CDATA[/ˌset ən ɪgˈzɑːmpl/]]></phonetics>
+		<example><![CDATA[You should <b>set a good example</b> for the children.]]></example>
+	</word>	
+
+	<word str="set up" type="v">
+		<phonetics><![CDATA[/ˌset ˈʌp/]]></phonetics>
+		<example><![CDATA[They <b>set up</b> a charity to help children in need.]]></example>
+	</word>
+
+	<word str="share" type="v">
+		<phonetics><![CDATA[/ˈʃeə/]]></phonetics>
+		<example><![CDATA[We <b>shared</b> the food between us.]]></example>
+	</word>	
+
+	<word str="spread" type="v">
+		<phonetics><![CDATA[/spred/]]></phonetics>
+		<example><![CDATA[He <b>spread</b> his toast with butter.]]></example>
+	</word>
+
+	<word str="space station" type="n">
+		<phonetics><![CDATA[/ˈspeɪs ˌsteɪʃn/]]></phonetics>
+		<example><![CDATA[The astronauts spent a week in the <b>space station</b>.]]></example>
+	</word>		
+	
+    <word str="stepfather" type="n">
+		<phonetics><![CDATA[/ˈstepfɑːðə(r)/]]></phonetics>
+		<example><![CDATA[My mother has remarried, so I have a <b>stepfather</b>.]]></example>
+	</word>
+
+	<word str="strict" type="adj">
+		<phonetics><![CDATA[/strɪkt/]]></phonetics>
+		<example><![CDATA[My parents were very <b>strict</b> – I wasn’t allowed out after dark.]]></example>
+	</word>
+
+	<word str="strip" type="v">
+		<phonetics><![CDATA[/strɪp/]]></phonetics>
+		<example><![CDATA[He was <b>stripped</b> of his prize because he had cheated.]]></example>
+	</word>	
+
+	<word str="stuck" type="adj">
+		<phonetics><![CDATA[/stʌk/]]></phonetics>
+		<example><![CDATA[Her car was <b>stuck</b> in the mud and wouldn't move.]]></example>
+	</word>
+
+	<word str="suit" type="v">
+		<phonetics><![CDATA[/suːt/]]></phonetics>
+		<example><![CDATA[I don’t think this dress <b>suits</b> me.]]></example>
+	</word>	
+
+	<word str="take after" type="v">
+		<phonetics><![CDATA[/ˌteɪk ˈɑːftə(r)/]]></phonetics>
+		<example><![CDATA[I <b>take after</b> my father.]]></example>
+	</word>
+
+	<word str="take up" type="v">
+		<phonetics><![CDATA[/ˌteɪk ˈʌp/]]></phonetics>
+		<example><![CDATA[She <b>took up</b> dancing, and found she really enjoyed it.]]></example>
+	</word>
+
+	<word str="tear" type="n">
+		<phonetics><![CDATA[/tɪə(r)/]]></phonetics>
+		<example><![CDATA[A few <b>tears</b> rolled down her cheeks.]]></example>
+	</word>	
+
+	<word str="thrift" type="n">
+		<phonetics><![CDATA[/θrɪft/]]></phonetics>
+		<example><![CDATA[She believes in <b>thrift</b>, so she never wastes money.]]></example>
+	</word>
+
+	<word str="token" type="n">
+		<phonetics><![CDATA[/ˈtəʊkən/]]></phonetics>
+		<example><![CDATA[You need a <b>token</b> for the machine.]]></example>
+	</word>
+
+	<word str="tonic" type="n">
+		<phonetics><![CDATA[/ˈtɒnɪk/]]></phonetics>
+		<example><![CDATA[Drink this <b>tonic</b> – it will help you feel better.]]></example>
+	</word>		
+	
+    <word str="transform" type="v">
+		<phonetics><![CDATA[/trænsˈfɔːm/]]></phonetics>
+		<example><![CDATA[They <b>transformed</b> the old school into a house.]]></example>
+	</word>
+
+	<word str="transport" type="v">
+		<phonetics><![CDATA[/ˌtrænsˈpɔːt/]]></phonetics>
+		<example><![CDATA[The goods are <b>transported</b> by sea.]]></example>
+	</word>
+
+	<word str="treat" type="n">
+		<phonetics><![CDATA[/triːt/]]></phonetics>
+		<example><![CDATA[We’re going out for a meal as a special <b>treat</b>.]]></example>
+	</word>	
+	
+	<word str="valuable" type="adj">
+		<phonetics><![CDATA[/ˈvæljʊb(ə)l/]]></phonetics>
+		<example><![CDATA[Some of the paintings are quite <b>valuable</b>.]]></example>
+	</word>
+	
+    <word str="Victorian" type="adj">
+		<phonetics><![CDATA[/vɪkˈtɔːriən/]]></phonetics>
+		<example><![CDATA[Life was very different in <b>Victorian</b> times.]]></example>
+	</word>
+
+	<word str="wardrobe" type="n">
+		<phonetics><![CDATA[/ˈwɔːdrəʊb/]]></phonetics>
+		<example><![CDATA[I hung my coat in the <b>wardrobe</b>.]]></example>
+	</word>
+
+	<word str="wireless" type="adj">
+		<phonetics><![CDATA[/ˈwaɪələs/]]></phonetics>
+		<example><![CDATA[We’ve got a <b>wireless</b> mouse for the computer.]]></example>
+	</word>	
+	
+	<word str="woodwork" type="n">
+		<phonetics><![CDATA[/ˈwʊdwɜːk/]]></phonetics>
+		<example><![CDATA[In <b>woodwork</b> classes, you learn how to make things out of wood.]]></example>
+	</word>
+
+</exercise>
+<!--etc -->

@@ -1,0 +1,1192 @@
+﻿<?xml version="1.0"?>
+<exercise template="glossary">
+ <audioPath>data/content/glossary/audio/</audioPath>
+
+
+
+<word str="a shame" type=""><phonetics>/ə ˈʃeɪm/</phonetics><example>It’s &lt;b&gt;a shame&lt;/b&gt; you can’t come to the party.</example></word>
+<word str="abandon " type="v"><phonetics>/əˈbændən/</phonetics><example>The car was &lt;b&gt;abandoned&lt;/b&gt; by the river.</example></word>
+<word str="absurd " type="adj"><phonetics>/əbˈsɜːd/</phonetics><example>That is an &lt;b&gt;absurd&lt;/b&gt; and stupid suggestion.</example></word>
+<word str="access" type="n"><phonetics>/ˈækses/</phonetics><example>Students have &lt;b&gt;access&lt;/b&gt; to the whole library.</example></word>
+<word str="accessory" type="n"><phonetics>/ækˈsesəri/</phonetics><example>She has different &lt;b&gt;accessories&lt;/b&gt; to go with different clothes.</example></word>
+<word str="accomplish" type="v"><phonetics>/əˈkʌmplɪʃ/</phonetics><example>She finally &lt;b&gt;accomplished&lt;/b&gt; her plan.</example></word>
+<word str="according to" type="prep"><phonetics>/əˈkɔːdɪŋ tə/</phonetics><example>It’s going to be hot tomorrow, &lt;b&gt;according to&lt;/b&gt; the weather forecast.</example></word>
+<word str="accuse " type="v"><phonetics>/əˈkjuːz/</phonetics><example>Rob &lt;b&gt;accused&lt;/b&gt; me of stealing the money.</example></word>
+<word str="accustomed " type="adj"><phonetics>/əˈkʌstəmd/</phonetics><example>We&apos;re not &lt;b&gt;accustomed&lt;/b&gt; to such hot weather.</example></word>
+<word str="acquaintance " type="n"><phonetics>/əˈkweɪntəns/</phonetics><example>Paul is an &lt;b&gt;acquaintance&lt;/b&gt; of mine – we work in the same office.</example></word>
+<word str="action-packed " type="adj"><phonetics>/ˈakʃən pækt/</phonetics><example>The film was really &lt;b&gt;action-packed&lt;/b&gt;.</example></word>
+<word str="actually" type="adv"><phonetics>/ˈæktʃuəli/</phonetics><example>No, &lt;b&gt;actually&lt;/b&gt; he’s not Spanish, he’s Portuguese.</example></word>
+<word str="adapt " type="v"><phonetics>/əˈdæpt/</phonetics><example>Our business must &lt;b&gt;adapt&lt;/b&gt; to the changing economy.</example></word>
+<word str="addict " type="n"><phonetics>/ˈædɪkt/</phonetics><example>A lot of criminals are drug &lt;b&gt;addicts&lt;/b&gt;.</example></word>
+<word str="addiction" type="n"><phonetics>/ə ˈdɪkʃ ən/</phonetics><example>He had a gambling &lt;b&gt;addiction&lt;/b&gt; and lost a lot of money.</example></word>
+<word str="adjust" type="v"><phonetics>/əˈdʒʌst/</phonetics><example>She soon &lt;b&gt;adjusted&lt;/b&gt; to university life.</example></word>
+<word str="adolescent " type="adj"><phonetics>/ˌædəˈlesənt/</phonetics><example>The magazine is popular with &lt;b&gt;adolescent&lt;/b&gt; girls.</example></word>
+<word str="advance" type="n"><phonetics>/ədˈvɑːns/</phonetics><example>This is a major scientific &lt;b&gt;advance&lt;/b&gt;.</example></word>
+<word str="afford " type="v"><phonetics>/əˈfɔːd/</phonetics><example>I can&apos;t &lt;b&gt;afford&lt;/b&gt; to go out tonight – I haven&apos;t got any money.</example></word>
+<word str="ages " type="pl n"><phonetics>/ˈeɪdʒɪz/</phonetics><example>We had to wait for &lt;b&gt;ages&lt;/b&gt;!</example></word>
+<word str="agitated " type="adj"><phonetics>/ˈædʒɪteɪtɪd/</phonetics><example>She seemed &lt;b&gt;agitated&lt;/b&gt; and couldn&apos;t sit still.</example></word>
+<word str="agnostic " type="n"><phonetics>/ægˈnɒstɪk/</phonetics><example>An &lt;b&gt;agnostic&lt;/b&gt; is someone who does not know if God exists.</example></word>
+<word str="agreement " type="n"><phonetics>/əˈgriːmənt/</phonetics><example>We finally reached &lt;b&gt;agreement&lt;/b&gt;.</example></word>
+<word str="alien" type="adj"><phonetics>/ˈeɪliən/</phonetics><example>They believe they saw an &lt;b&gt;alien&lt;/b&gt; spaceship.</example></word>
+<word str="alienate " type="v"><phonetics>/ˈeɪliəneɪt/</phonetics><example>Some young people feel &lt;b&gt;alienated&lt;/b&gt; from society.</example></word>
+<word str="alleyway" type="n"><phonetics>/ˈæliweɪ/</phonetics><example>The shop is in a tiny &lt;b&gt;alleyway&lt;/b&gt;.</example></word>
+<word str="alliance" type="n"><phonetics>/əˈlaɪəns/</phonetics><example>The two countries formed an &lt;b&gt;alliance&lt;/b&gt;, and promised to fight for each other.</example></word>
+<word str="amateur" type="adj"><phonetics>/ˈæmətə(r)/</phonetics><example>He’s an &lt;b&gt;amateur&lt;/b&gt; artist – he just paints for fun.</example></word>
+<word str="amazing" type="adj"><phonetics>/əˈmeɪzɪŋ/</phonetics><example>The hotel was great, and the food was &lt;b&gt;amazing&lt;/b&gt;!</example></word>
+<word str="ambassador" type="n"><phonetics>/æmˈbæsədə(r)/</phonetics><example>He works as the German &lt;b&gt;ambassador&lt;/b&gt; in London.</example></word>
+<word str="amenity " type="n"><phonetics>/əˈmiːnəti/</phonetics><example>The house does not have basic &lt;b&gt;amenities&lt;/b&gt; like a shower.</example></word>
+<word str="ancestor " type="n"><phonetics>/ˈæncestə(r)/</phonetics><example>200 years ago my &lt;b&gt;ancestors&lt;/b&gt; lived in Scotland.</example></word>
+<word str="angle " type="n"><phonetics>/ˈæŋgl/</phonetics><example>He wanted to tell the story from a different &lt;b&gt;angle&lt;/b&gt;.</example></word>
+<word str="anniversary " type="n"><phonetics>/ˌænɪˈvɜːsəri/</phonetics><example>It&apos;s our &lt;b&gt;anniversary&lt;/b&gt; today – we&apos;ve been married for ten years.</example></word>
+<word str="annual" type="adj"><phonetics>/ˈænjuəl/</phonetics><example>He has an &lt;b&gt;annual&lt;/b&gt; salary of £35,000.</example></word>
+<word str="apothecary" type="n"><phonetics>/əˈpɒθəkəri/</phonetics><example>She went to the &lt;b&gt;apothecary&lt;/b&gt; for some medicine.</example></word>
+<word str="apparently" type="adv"><phonetics>/əˈpærəntli/</phonetics><example>&lt;b&gt;Apparently&lt;/b&gt;, they’re going to close the swimming pool.</example></word>
+<word str="appear " type="v"><phonetics>/əˈpɪə(r)/</phonetics><example>She &lt;b&gt;appeared&lt;/b&gt; to be upset.</example></word>
+<word str="appliance" type="n"><phonetics>/əˈplaɪəns/</phonetics><example>They sell kitchen &lt;b&gt;appliances&lt;/b&gt; such as kettles.</example></word>
+<word str="apply for " type="v"><phonetics>/əˈplaɪ fɔː/</phonetics><example>Are you going to &lt;b&gt;apply for&lt;/b&gt; that job?</example></word>
+<word str="appreciate" type="v"><phonetics>/əˈpriːʃieɪt/</phonetics><example>Thanks for your help – I really &lt;b&gt;appreciate&lt;/b&gt; it.</example></word>
+<word str="approach" type="v"><phonetics>/əˈprəʊtʃ/</phonetics><example>I felt nervous as I &lt;b&gt;approached&lt;/b&gt; his office.</example></word>
+<word str="arch " type="n"><phonetics>/ɑːtʃ/</phonetics><example>The window was in the shape of an &lt;b&gt;arch&lt;/b&gt;.</example></word>
+<word str="archaeology" type="n"><phonetics>/ˌɑ:kiˈɒlədʒi/</phonetics><example>He’s interested in history and &lt;b&gt;archaeology&lt;/b&gt;.</example></word>
+<word str="area" type="n"><phonetics>/ˈeəriə/</phonetics><example>She lives in a poor &lt;b&gt;area&lt;/b&gt; of the city.</example></word>
+<word str="arrest " type="v"><phonetics>/əˈrest/</phonetics><example>The police &lt;b&gt;arrested&lt;/b&gt; two men for the crime.</example></word>
+<word str="art dealer" type="n"><phonetics>/ˈɑːtˌdiːlə(r)/</phonetics><example>&lt;b&gt;Art dealers&lt;/b&gt; buy and sell works of art.</example></word>
+<word str="ascent " type="n"><phonetics>/əˈsent/</phonetics><example>The plane took off and began its &lt;b&gt;ascent&lt;/b&gt; to 6,000 metres.</example></word>
+<word str="ashamed " type="adj"><phonetics>/əˈʃeɪmd/</phonetics><example>I was &lt;b&gt;ashamed&lt;/b&gt; when I realized what I had done.</example></word>
+<word str="associate" type="v"><phonetics>/əˈsəʊʃieɪt/</phonetics><example>I &lt;b&gt;associate&lt;/b&gt; wine with France.</example></word>
+<word str="astronaut" type="n"><phonetics>/ˈæstrənɔːt/</phonetics><example>The &lt;b&gt;astronauts&lt;/b&gt; spent three weeks in space.</example></word>
+<word str="astronomy" type="n"><phonetics>/əˈstrɒnəmi/</phonetics><example>He’s interested in &lt;b&gt;astronomy&lt;/b&gt; and the stars.</example></word>
+<word str="asylum" type="n"><phonetics>/əˈsaɪləm/</phonetics><example>They thought he was mad, so they put him in an &lt;b&gt;asylum&lt;/b&gt;.</example></word>
+<word str="attend" type="v"><phonetics>/əˈtend/</phonetics><example>He could not &lt;b&gt;attend&lt;/b&gt; the meeting because he was ill.</example></word>
+<word str="attractive" type="adj"><phonetics>/əˈtræktɪv/</phonetics><example>She’s a very &lt;b&gt;attractive&lt;/b&gt; girl.</example></word>
+<word str="auction " type="n"><phonetics>/ˈɔːkʃn/</phonetics><example>At an &lt;b&gt;auction&lt;/b&gt;, the person who offers the most money buys the goods.</example></word>
+<word str="available " type="adj"><phonetics>/əˈveɪləbl/</phonetics><example>Tickets are &lt;b&gt;available&lt;/b&gt; at the ticket office.</example></word>
+<word str="awareness" type="n"><phonetics>/əˈweənəs/</phonetics><example>We now have more &lt;b&gt;awareness&lt;/b&gt; of the importance of exercise.</example></word>
+<word str="background" type="n"><phonetics>/ˈbækgraʊnd/</phonetics><example>She comes from a rich &lt;b&gt;background&lt;/b&gt;.</example></word>
+<word str="badly-behaved" type="adj"><phonetics>/ˌbædli-bɪˈheɪvd/</phonetics><example>I can’t stand &lt;b&gt;badly behaved&lt;/b&gt; children!</example></word>
+<word str="bake" type="v"><phonetics>/beɪk/</phonetics><example>Let’s &lt;b&gt;bake&lt;/b&gt; a cake for Dad’s birthday.</example></word>
+<word str="balance " type="n"><phonetics>/ˈbæləns/</phonetics><example>The &lt;b&gt;balance&lt;/b&gt; in my bank account is now £30.</example></word>
+<word str="ban" type="v"><phonetics>/bæn</phonetics><example>Smoking is &lt;b&gt;banned&lt;/b&gt; here.</example></word>
+<word str="banking" type="n"><phonetics>/ˈbæŋkɪŋ/</phonetics><example>He works in &lt;b&gt;banking&lt;/b&gt;.</example></word>
+<word str="bargain" type="n"><phonetics>/ˈbɑːgən/</phonetics><example>I got some real &lt;b&gt;bargains&lt;/b&gt; in the sales.</example></word>
+<word str="barrel" type="n"><phonetics>/ˈbærəl/</phonetics><example>The wine is kept in wooden &lt;b&gt;barrels&lt;/b&gt;.</example></word>
+<word str="base " type="n"><phonetics>/beɪs/</phonetics><example>The company has its &lt;b&gt;base&lt;/b&gt; in New York.</example></word>
+<word str="basement" type="n"><phonetics>/ˈbeɪsmənt/</phonetics><example>The &lt;b&gt;basement&lt;/b&gt; is below the ground floor.</example></word>
+<word str="basically " type="adv"><phonetics>/ˈbeɪsɪkli/</phonetics><example>There are no trains today, so &lt;b&gt;basically&lt;/b&gt; we&apos;re stuck here!</example></word>
+<word str="Basque" type="adj"><phonetics>/bæsk/</phonetics><example>He comes from the &lt;b&gt;Basque&lt;/b&gt; region of Spain.</example></word>
+<word str="battered" type="adj"><phonetics>/ˈbætəd/</phonetics><example>He was carrying a &lt;b&gt;battered&lt;/b&gt; old suitcase.</example></word>
+<word str="battery" type="n"><phonetics>/ˈbætri/</phonetics><example>I need to put new &lt;b&gt;batteries&lt;/b&gt; in my camera.</example></word>
+<word str="battle " type="n"><phonetics>/ˈbætl/</phonetics><example>She died after a long &lt;b&gt;battle&lt;/b&gt; with cancer.</example></word>
+<word str="be fond of " type="v"><phonetics>/bi ˈfɒnd əv/</phonetics><example>I&lt;b&gt;&apos;m&lt;/b&gt; really &lt;b&gt;fond of&lt;/b&gt; my grandmother.</example></word>
+<word str="be in touch" type=""><phonetics>/biː ɪn ˈtʌtʃ/</phonetics><example>If I have any further news I&apos;ll &lt;b&gt;be in touch&lt;/b&gt;.</example></word>
+<word str="bear with " type="v"><phonetics>/ˈbeə wɪð/</phonetics><example>If you can just &lt;b&gt;bear with&lt;/b&gt; me one moment, I&apos;ll find your file.</example></word>
+<word str="beat" type="v"><phonetics>/bi:t/</phonetics><example>Arsenal &lt;b&gt;beat&lt;/b&gt; Chelsea 3-0.</example></word>
+<word str="beg" type="n"><phonetics>/beg/</phonetics><example>She &lt;b&gt;begged&lt;/b&gt; him for help.</example></word>
+<word str="beloved" type="adj"><phonetics>/bɪˈlʌvɪd/</phonetics><example>She cried when her &lt;b&gt;beloved&lt;/b&gt; dog died.</example></word>
+<word str="benefit" type="n"><phonetics>/ˈbenɪfɪt/</phonetics><example>You can claim &lt;b&gt;benefit&lt;/b&gt; if you are too ill to work.</example></word>
+<word str="best-selling " type="adj"><phonetics>/ˌbestˈselɪŋ/</phonetics><example>He wrote a &lt;b&gt;best-selling&lt;/b&gt; cookery book.</example></word>
+<word str="beyond your wildest dreams" type=""><phonetics>/bɪˌjɒnd jɔː ˌwaɪldɪst ˈdriːmz/</phonetics><example>Starring in a Hollywood film was &lt;b&gt;beyond my wildest dreams&lt;/b&gt;.</example></word>
+<word str="bid " type="n"><phonetics>/bɪd/</phonetics><example>He put in a &lt;b&gt;bid&lt;/b&gt; of £300.</example></word>
+<word str="bilingual" type="adj"><phonetics>/ˌbaɪˈlɪŋgwəl/</phonetics><example>He’s &lt;b&gt;bilingual&lt;/b&gt; – he speaks English and German.</example></word>
+<word str="bird-brained " type="adj"><phonetics>/ˈbɜːdbreɪnd/</phonetics><example>Who&apos;s that stupid &lt;b&gt;bird-brained&lt;/b&gt; boy?</example></word>
+<word str="bite " type="v"><phonetics>/baɪt/</phonetics><example>She &lt;b&gt;bit&lt;/b&gt; into the apple.</example></word>
+<word str="blackness" type="n"><phonetics>/ˈblæknəs/</phonetics><example>They looked out into the &lt;b&gt;blackness&lt;/b&gt; outside.</example></word>
+<word str="blind" type="adj"><phonetics>/blaɪnd/</phonetics><example>He is &lt;b&gt;blind&lt;/b&gt; in one eye.</example></word>
+<word str="block" type="n"><phonetics>/blɒk/</phonetics><example>They live in a new &lt;b&gt;block&lt;/b&gt; of flats.</example></word>
+<word str="blood " type="n"><phonetics>/blʌd/</phonetics><example>I cut myself and got &lt;b&gt;blood&lt;/b&gt; on my shirt.</example></word>
+<word str="blow " type="v"><phonetics>/bləʊ/</phonetics><example>He &lt;b&gt;blew&lt;/b&gt; on his soup to cool it.</example></word>
+<word str="blow up " type="v"><phonetics>/ˌbləʊ ˈʌp/</phonetics><example>Will you help me &lt;b&gt;blow up&lt;/b&gt; these balloons?</example></word>
+<word str="(surf)board" type="n"><phonetics>/ˈsɜːfbɔːd/</phonetics><example>A big wave knocked him off his &lt;b&gt;surfboard&lt;/b&gt;.</example></word><word str="boarding school" type="n"><phonetics>/ˈbɔːdɪŋ ˌskuːl/</phonetics><example>He was sent away to a &lt;b&gt;boarding school&lt;/b&gt;.</example></word>
+<word str="body language " type="n"><phonetics>/ˈbɒdi ˌlæŋgwɪdʒ/</phonetics><example>His &lt;b&gt;body language&lt;/b&gt; showed that he was nervous.</example></word>
+<word str="boil" type="v"><phonetics>/bɔɪl/</phonetics><example>Shall I &lt;b&gt;boil&lt;/b&gt; some water to make coffee?</example></word>
+<word str="bold " type="adj"><phonetics>/bəʊld/</phonetics><example>I didn&apos;t feel &lt;b&gt;bold&lt;/b&gt; enough to introduce myself.</example></word>
+<word str="bomb" type="n"><phonetics>/bɒm/</phonetics><example>The planes dropped &lt;b&gt;bombs&lt;/b&gt; on the village.</example></word>
+<word str="borrow" type="v"><phonetics>/ˈbɒrəʊ/</phonetics><example>Can I &lt;b&gt;borrow&lt;/b&gt; your pen for a moment?</example></word>
+<word str="bother" type="v"><phonetics>/ˈbɒðə(r)/</phonetics><example>I quite like the winter – the cold doesn’t &lt;b&gt;bother&lt;/b&gt; me.</example></word>
+<word str="bottle bank" type="n"><phonetics>/ˈbɒtl ˌbæŋk/</phonetics><example>Take the old bottles to the &lt;b&gt;bottle bank&lt;/b&gt;.</example></word>
+<word str="brainstorm " type="v"><phonetics>/ˈbreɪnstɔːm/</phonetics><example>We all &lt;b&gt;brainstormed&lt;/b&gt; some ideas at the beginning of the meeting.</example></word>
+<word str="break out of " type="v"><phonetics>/ˌbreɪk ˈaʊt əv/</phonetics><example>Three prisoners &lt;b&gt;broke out of&lt;/b&gt; the prison yesterday.</example></word>
+<word str="break up " type="v"><phonetics>/ˌbreɪk ˈʌp/</phonetics><example>Tom and Carol have &lt;b&gt;broken up&lt;/b&gt; – they&apos;re not going out any more.</example></word>
+<word str="breakthrough" type="n"><phonetics>/ˈbreɪkθruː/</phonetics><example>This was a major &lt;b&gt;breakthrough&lt;/b&gt; in medicine.</example></word>
+<word str="brewery " type="n"><phonetics>/ˈbrʊːəri/</phonetics><example>Beer is made in &lt;b&gt;breweries&lt;/b&gt;.</example></word>
+<word str="brief" type="v"><phonetics>/bri:f/</phonetics><example>Carla has &lt;b&gt;briefed&lt;/b&gt; me about the meeting.</example></word>
+<word str="bright" type="adj"><phonetics>/braɪt/</phonetics><example>&lt;b&gt;Bright&lt;/b&gt; children learn quickly.</example></word>
+<word str="brightly" type="adj"><phonetics>/ˈbraɪtli/</phonetics><example>Everything in the room was &lt;b&gt;brightly&lt;/b&gt; coloured.</example></word>
+<word str="bring up" type="v"><phonetics>/ˌbrɪŋ ˈʌp/</phonetics><example>You should &lt;b&gt;bring&lt;/b&gt; this &lt;b&gt;up&lt;/b&gt; at the next meeting.</example></word>
+<word str="broadcaster" type="n"><phonetics>/ˈbrɔːdkɑːstə(r)/</phonetics><example>She wants to be a television &lt;b&gt;broadcaster&lt;/b&gt;.</example></word>
+<word str="bronze " type="adj"><phonetics>/brɒnz/</phonetics><example>She came third, so she won the &lt;b&gt;bronze&lt;/b&gt; medal.</example></word>
+<word str="bruise " type="n"><phonetics>/bruːz/</phonetics><example>I&apos;ve got a &lt;b&gt;bruise&lt;/b&gt; on my arm where I bumped into a door.</example></word>
+<word str="buddy " type="n"><phonetics>/ˈbʌdi/</phonetics><example>They grew up together – they&apos;ve been &lt;b&gt;buddies&lt;/b&gt; for years.</example></word>
+<word str="budget" type="n"><phonetics>/ˈbʌdʒɪt/</phonetics><example>Our &lt;b&gt;budget&lt;/b&gt; for this project is £3,000.</example></word>
+<word str="bulk " type="n"><phonetics>/bʌlk/</phonetics><example>We have already done the &lt;b&gt;bulk&lt;/b&gt; of the work.</example></word>
+<word str="bully " type="v"><phonetics>/ˈbʊli/</phonetics><example>The boys laughed at me and &lt;b&gt;bullied&lt;/b&gt; me.</example></word>
+<word str="bump into " type="v"><phonetics>/ˌbʌmp ˈɪntu/</phonetics><example>I &lt;b&gt;bumped into&lt;/b&gt; Mark in the library.</example></word>
+<word str="bunk bed " type="n"><phonetics>/ˌbʌŋk ˈbed/</phonetics><example>The children sleep in &lt;b&gt;bunk beds&lt;/b&gt;.</example></word>
+<word str="burger " type="n"><phonetics>/ˈbɜːgə(r)/</phonetics><example>I ordered a &lt;b&gt;burger&lt;/b&gt; and chips.</example></word>
+<word str="burglary " type="n"><phonetics>/ˈbɜːgləri/</phonetics><example>There was a &lt;b&gt;burglary&lt;/b&gt; in the house next door.</example></word>
+<word str="burgle " type="v"><phonetics>/ˈbɜːgl/</phonetics><example>We&apos;ve been &lt;b&gt;burgled&lt;/b&gt; three times.</example></word>
+<word str="bury" type="v"><phonetics>/ˈberi/</phonetics><example>My grandparents are &lt;b&gt;buried&lt;/b&gt; in the village churchyard.</example></word>
+<word str="butler" type="n"><phonetics>/ˈbʌtlə(r)/</phonetics><example>A &lt;b&gt;butler&lt;/b&gt; organizes all the staff in a big house.</example></word>
+<word str="button" type="n"><phonetics>/ˈbʌtn/</phonetics><example>I pressed the &lt;b&gt;button&lt;/b&gt; to call the lift.</example></word>
+<word str="buzz" type="n"><phonetics>/bʌz/</phonetics><example>There’s a &lt;b&gt;buzz&lt;/b&gt; in the school at the end of term.</example></word>
+<word str="calculation " type="n"><phonetics>/ˌkælkjəˈleɪʃn/</phonetics><example>I couldn&apos;t do the &lt;b&gt;calculation&lt;/b&gt; in my head.</example></word>
+<word str="cancellation" type="n"><phonetics>/ˌkænsəˈleɪʃn/</phonetics><example>The restaurant is fully booked, but they may get a &lt;b&gt;cancellation&lt;/b&gt;.</example></word>
+<word str="candlestick " type="n"><phonetics>/ˈkændlstɪk/</phonetics><example>She placed a &lt;b&gt;candlestick&lt;/b&gt; on the table and lit the candle.</example></word>
+<word str="canoe " type="n"><phonetics>/kəˈnuː/</phonetics><example>We travelled up the river in a &lt;b&gt;canoe&lt;/b&gt;.</example></word>
+<word str="capacity " type="n"><phonetics>/kəˈpæsɪti/</phonetics><example>This bowl has a &lt;b&gt;capacity&lt;/b&gt; of 1 litre.</example></word>
+<word str="cash flow" type="n"><phonetics>/ˈkæʃ fləʊ/</phonetics><example>The business is having problems with &lt;b&gt;cash flow&lt;/b&gt;.</example></word>
+<word str="cashier" type="n"><phonetics>/kæˈʃɪə(r)/</phonetics><example>He handed his money to the &lt;b&gt;cashier&lt;/b&gt;.</example></word>
+<word str="cashmere" type="n"><phonetics>/ˈkæʃmɪə(r)/</phonetics><example>She bought an expensive &lt;b&gt;cashmere&lt;/b&gt; jumper.</example></word>
+<word str="casserole dish" type="n"><phonetics>/ˈkæsərəʊl ˌdɪʃ/</phonetics><example>Cook the meat in a &lt;b&gt;casserole dish&lt;/b&gt; in the oven.</example></word>
+<word str="casual" type="adj"><phonetics>/ˈkæʒuəl/</phonetics><example>She was dressed in &lt;b&gt;casual&lt;/b&gt; clothes – jeans and a T-shirt.</example></word>
+<word str="catapult " type="v"><phonetics>/ˈkætəpʌlt/</phonetics><example>When she crashed, she was &lt;b&gt;catapulted&lt;/b&gt; out of the car.</example></word>
+<word str="catch up on" type="ph v"><phonetics>/katʃ ˈʌp ɒn/</phonetics><example>I&apos;ve been away so I&apos;ll have to &lt;b&gt;catch up on&lt;/b&gt; all the work I&apos;ve missed.</example></word>
+<word str="cattle" type="n"><phonetics>/ˈkætl/</phonetics><example>They have &lt;b&gt;cattle&lt;/b&gt; and sheep on the farm.</example></word>
+<word str="cause for concern" type=""><phonetics>/ˌkɔːz fə kənˈsɜːn/</phonetics><example>The doctor said that her sudden weight loss was a &lt;b&gt;cause for concern&lt;/b&gt;.</example></word>
+<word str="celebration" type="n"><phonetics>/ˌselɪˈbreɪʃn/</phonetics><example>There were &lt;b&gt;celebrations&lt;/b&gt; in the street after the victory.</example></word>
+<word str="cell" type="n"><phonetics>/sel/</phonetics><example>Your body is made up of &lt;b&gt;cells&lt;/b&gt;.</example></word>
+<word str="cemetery" type="n"><phonetics>/ˈsemətri/</phonetics><example>This is the &lt;b&gt;cemetery&lt;/b&gt; where Mozart is buried.</example></word>
+<word str="censorship " type="n"><phonetics>/ˈsensəʃɪp/</phonetics><example>The government documents were subject to &lt;b&gt;censorship&lt;/b&gt;.</example></word>
+<word str="centenarian" type="n"><phonetics>/ˌsentɪˈneəriən/</phonetics><example>Someone who lives to 100 is a &lt;b&gt;centenarian&lt;/b&gt;.</example></word>
+<word str="chain " type="v"><phonetics>/tʃeɪn/</phonetics><example>He &lt;b&gt;chained&lt;/b&gt; the dog to a post.</example></word>
+<word str="chairman " type="n"><phonetics>/ˈtʃeəmən/</phonetics><example>The &lt;b&gt;chairman&lt;/b&gt; welcomed everyone and opened the meeting.</example></word>
+<word str="challenging" type="adj"><phonetics>/ˈtʃæləndʒɪŋ/</phonetics><example>Skiing is a &lt;b&gt;challenging&lt;/b&gt; sport.</example></word>
+<word str="chamber " type="n"><phonetics>/ˈtʃeɪmbə(r)/</phonetics><example>There is a secret &lt;b&gt;chamber&lt;/b&gt; behind the wall.</example></word>
+<word str="chaos " type="n"><phonetics>/ˈkeɪɒs/</phonetics><example>Everyone was screaming – it was &lt;b&gt;chaos&lt;/b&gt;.</example></word>
+<word str="charge " type="v"><phonetics>/tʃɑːdʒ/</phonetics><example>Do you &lt;b&gt;charge&lt;/b&gt; for delivery, or is it free?</example></word>
+<word str="charity" type="n"><phonetics>/ˈtʃærəti/</phonetics><example>The &lt;b&gt;charity&lt;/b&gt; ’Shelter’ helps people who have nowhere to live.</example></word>
+<word str="charming" type="adj"><phonetics>/ˈtʃɑːmɪŋ/</phonetics><example>What a polite and &lt;b&gt;charming&lt;/b&gt; man!</example></word>
+<word str="cheers " type="interj"><phonetics>/tʃɪəz/</phonetics><example>See you tomorrow.&apos; ‘OK. &lt;b&gt;Cheers&lt;/b&gt;. Bye.&apos;</example></word>
+<word str="cheque" type="n"><phonetics>/tʃek/</phonetics><example>I don&apos;t have a credit card; can I pay by &lt;b&gt;cheque&lt;/b&gt;?</example></word>
+<word str="cherish" type="v"><phonetics>/ˈtʃerɪʃ/</phonetics><example>Thank you for your present – I will &lt;b&gt;cherish&lt;/b&gt; it.</example></word>
+<word str="chimpanzee " type="n"><phonetics>/ˌtʃɪmpænˈziː/</phonetics><example>&lt;b&gt;Chimpanzees&lt;/b&gt; are closely related to humans.</example></word>
+<word str="china" type="n"><phonetics>/ˈtʃaɪnə/</phonetics><example>They’ve got cups, dishes, and other &lt;b&gt;china&lt;/b&gt;.</example></word>
+<word str="chop" type="v"><phonetics>/tʃɒp/</phonetics><example>First, &lt;b&gt;chop&lt;/b&gt; the onions.</example></word>
+<word str="chore" type="n"><phonetics>/tʃɔː(r)/</phonetics><example>Cooking and cleaning are &lt;b&gt;chores&lt;/b&gt;.</example></word>
+<word str="claim" type="v"><phonetics>/kleɪm/</phonetics><example>She stepped forward to &lt;b&gt;claim&lt;/b&gt; her prize.</example></word>
+<word str="clap " type="v"><phonetics>/klæp/</phonetics><example>The audience &lt;b&gt;clapped&lt;/b&gt; loudly.</example></word>
+<word str="clean up " type="v"><phonetics>/ˌkliːn ˈʌp/</phonetics><example>Who is going to &lt;b&gt;clean up&lt;/b&gt; this mess?</example></word>
+<word str="clear " type="v"><phonetics>/klɪə(r)/</phonetics><example>It usually takes three days for a cheque to &lt;b&gt;clear&lt;/b&gt;.</example></word>
+<word str="clearance" type="n"><phonetics>/ˈklɪərəns/</phonetics><example>It’s a &lt;b&gt;clearance&lt;/b&gt; sale, so they want to sell everything in the shop.</example></word>
+<word str="client" type="n"><phonetics>/ˈklaɪənt/</phonetics><example>Bank managers give advice to their &lt;b&gt;clients&lt;/b&gt;.</example></word>
+<word str="cliff " type="n"><phonetics>/klɪf/</phonetics><example>He fell off a high &lt;b&gt;cliff&lt;/b&gt; into the sea below.</example></word>
+<word str="clinic " type="n"><phonetics>/ˈklɪnɪk/</phonetics><example>She was treated for depression at a private &lt;b&gt;clinic&lt;/b&gt;.</example></word>
+<word str="close-knit" type="adj"><phonetics>/ˌkləʊsˈnɪt/</phonetics><example>This is a very &lt;b&gt;close-knit&lt;/b&gt; community.</example></word>
+<word str="club together " type="v"><phonetics>/ˌklʌb təˈgeðə(r)/</phonetics><example>We &lt;b&gt;clubbed together&lt;/b&gt; to buy him a present.</example></word>
+<word str="clue " type="n"><phonetics>/kluː/</phonetics><example>The police searched the room for &lt;b&gt;clues&lt;/b&gt;.</example></word>
+<word str="clumsy" type="adj"><phonetics>/ˈklʌmzi/</phonetics><example>Tom is always breaking things – he’s so &lt;b&gt;clumsy&lt;/b&gt;.</example></word>
+<word str="coach" type="n"><phonetics>/kəʊtʃ/</phonetics><example>Our football &lt;b&gt;coach&lt;/b&gt; taught us how to play.</example></word>
+<word str="coal " type="n"><phonetics>/kəʊl/</phonetics><example>They burn &lt;b&gt;coal&lt;/b&gt; or wood on the fire.</example></word>
+<word str="code " type="n"><phonetics>/kəʊd/</phonetics><example>What’s the international &lt;b&gt;code&lt;/b&gt; for Germany?</example></word>
+<word str="collection" type="n"><phonetics>/kəˈlekʃn/</phonetics><example>She’s got a large &lt;b&gt;collection&lt;/b&gt; of books.</example></word>
+<word str="come up with " type="v"><phonetics>/kʌm ˈʌp wɪð/</phonetics><example>George &lt;b&gt;came up with&lt;/b&gt; a few suggestions.</example></word>
+<word str="comfort" type="v"><phonetics>/ˈkʌmfət/</phonetics><example>I put my arm around her to &lt;b&gt;comfort&lt;/b&gt; her.</example></word>
+<word str="commerce " type="n"><phonetics>/ˈkɒmɜːs/</phonetics><example>Trade and &lt;b&gt;commerce&lt;/b&gt; are good between the two countries.</example></word>
+<word str="commit" type="v"><phonetics>/kəˈmɪt/</phonetics><example>We will find out who &lt;b&gt;committed&lt;/b&gt; this crime.</example></word>
+<word str="common " type="adj"><phonetics>/ˈkɒmən/</phonetics><example>These animals are very &lt;b&gt;common&lt;/b&gt; in England – you see them everywhere.</example></word>
+<word str="communal" type="adj"><phonetics>/kəˈmjuːn(ə)l/]</phonetics><example>!The students share a &lt;b&gt;communal&lt;/b&gt; kitchen.</example></word>
+<word str="complex " type="adj"><phonetics>/ˈkɒmpleks/</phonetics><example>Making paper is a very &lt;b&gt;complex&lt;/b&gt; process.</example></word>
+<word str="concentrate" type="v"><phonetics>/ˈkɒnsəntreɪt/</phonetics><example>When I’m tired I can’t &lt;b&gt;concentrate&lt;/b&gt; on anything.</example></word>
+<word str="concept " type="n"><phonetics>/ˈkɒnsept/</phonetics><example>The &lt;b&gt;concept&lt;/b&gt; of time is difficult to explain.</example></word>
+<word str="concerned" type="adj"><phonetics>/kənˈsɜːnd/</phonetics><example>She was &lt;b&gt;concerned&lt;/b&gt; about my health.</example></word>
+<word str="conditions " type="pl n"><phonetics>/kənˈdɪʃnz/</phonetics><example>The working &lt;b&gt;conditions&lt;/b&gt; in the factory are awful.</example></word>
+<word str="confidently" type="adv"><phonetics>/ˈkɒnfɪdəntli/</phonetics><example>She smiled &lt;b&gt;confidently&lt;/b&gt;.</example></word>
+<word str="confirmation" type="n"><phonetics>/ˌkɒnfəˈmeɪʃn/</phonetics><example>We will send &lt;b&gt;confirmation&lt;/b&gt; of your booking.</example></word>
+<word str="confront" type="v"><phonetics>/kənˈfrʌnt/</phonetics><example>They &lt;b&gt;confronted&lt;/b&gt; him with all the evidence.</example></word>
+<word str="conquer " type="v"><phonetics>/ˈkɒŋkə(r)/</phonetics><example>I managed to &lt;b&gt;conquer&lt;/b&gt; my fear of heights.</example></word>
+<word str="consciousness" type="n"><phonetics>/ˈkɒnʃəsnəs/</phonetics><example>She lost &lt;b&gt;consciousness&lt;/b&gt; when she hit her head.</example></word>
+<word str="conservative" type="adj"><phonetics>/kənˈsɜːvətɪv/</phonetics><example>She doesn’t like change – she’s very &lt;b&gt;conservative&lt;/b&gt;.</example></word>
+<word str="consider" type="v"><phonetics>/kənˈsɪdə(r)/</phonetics><example>She made an offer on the house and the owners said they would &lt;b&gt;consider&lt;/b&gt; it.</example></word>
+<word str="consume" type="v"><phonetics>/kənˈsjuːm/</phonetics><example>We &lt;b&gt;consumed&lt;/b&gt; all the chocolates between us!</example></word>
+<word str="contact " type="v"><phonetics>/ˈkɒntækt/</phonetics><example>Please &lt;b&gt;contact&lt;/b&gt; me if you have any questions.</example></word>
+<word str="continent " type="n"><phonetics>/ˈkɒntɪnənt/</phonetics><example>Asia is the largest &lt;b&gt;continent&lt;/b&gt; in the world.</example></word>
+<word str="contradict " type="v"><phonetics>/ˌkɒntrəˈdɪkt/</phonetics><example>I gave the answer, but Laura &lt;b&gt;contradicted&lt;/b&gt; me and gave a different answer.</example></word>
+<word str="contrary to " type="adj"><phonetics>/ˈkɒntrəri tu/</phonetics><example>Her parents were angry because she got married &lt;b&gt;contrary to&lt;/b&gt; their wishes.</example></word>
+<word str="controversial" type="adj"><phonetics>/ˌkɒntrəˈvɜːʃl/</phonetics><example>Abortion is a very &lt;b&gt;controversial&lt;/b&gt; issue.</example></word>
+<word str="convenient" type="adj"><phonetics>/kənˈviːniənt/</phonetics><example>There’s a shop on the corner, which is very &lt;b&gt;convenient&lt;/b&gt;.</example></word>
+<word str="convict " type="v"><phonetics>/kənˈvɪkt/</phonetics><example>There wasn&apos;t enough evidence to &lt;b&gt;convict&lt;/b&gt; her of the crime.</example></word>
+<word str="cookery" type="n"><phonetics>/ˈkʊkəri/</phonetics><example>All children are taught &lt;b&gt;cookery&lt;/b&gt; at school.</example></word>
+<word str="cope" type="v"><phonetics>/kəʊp/</phonetics><example>I don’t know how she &lt;b&gt;copes&lt;/b&gt; with all her work.</example></word>
+<word str="copy " type="n"><phonetics>/ˈkɒpi/</phonetics><example>I&apos;ve got a &lt;b&gt;copy &lt;/b&gt;of all her books.</example></word>
+<word str="cosmetics" type="pl n"><phonetics>/kɒzˈmetɪks/</phonetics><example>You should choose &lt;b&gt;cosmetics&lt;/b&gt; that are right for your skin type.</example></word>
+<word str="cosy" type="adj"><phonetics>/ˈkəʊzi/</phonetics><example>The sitting room was warm and &lt;b&gt;cosy&lt;/b&gt;.</example></word>
+<word str="cottage" type="n"><phonetics>/ˈkɒtɪdʒ/</phonetics><example>They live in a lovely &lt;b&gt;cottage&lt;/b&gt; in the country.</example></word>
+<word str="council house" type="n"><phonetics>/ˈkaʊnsl ˌhaʊs/</phonetics><example>The government owns &lt;b&gt;council houses&lt;/b&gt;, and rents them to people.</example></word>
+<word str="counsellor " type="n"><phonetics>/ˈkaʊnsələ(r)/</phonetics><example>Talking to a &lt;b&gt;counsellor&lt;/b&gt; helped me feel better.</example></word>
+<word str="countless " type="adj"><phonetics>/ˈkaʊntləs/</phonetics><example>He&apos;s very popular – he&apos;s got &lt;b&gt;countless&lt;/b&gt; friends.</example></word>
+<word str="create " type="v"><phonetics>/kriːˈeɪt/</phonetics><example>They &lt;b&gt;created&lt;/b&gt; a terrible mess.</example></word>
+<word str="creationist " type="n"><phonetics>/kriˈeɪʃnɪst/</phonetics><example>&lt;b&gt;Creationists&lt;/b&gt; believe that God created the world in six days.</example></word>
+<word str="crew " type="n"><phonetics>/kruː/</phonetics><example>A &lt;b&gt;crew&lt;/b&gt; of firefighters was called to the fire.</example></word>
+<word str="cricket " type="n"><phonetics>/ˈkrɪkɪt/</phonetics><example>In &lt;b&gt;cricket&lt;/b&gt;, you hit a ball and run between two points.</example></word>
+<word str="cross " type="v"><phonetics>/krɒs/</phonetics><example>We &lt;b&gt;crossed&lt;/b&gt; the river by boat.</example></word>
+<word str="crossing " type="n"><phonetics>/ˈkrɒsɪŋ/</phonetics><example>This is the easiest &lt;b&gt;crossing&lt;/b&gt; over the river.</example></word>
+<word str="crow " type="n"><phonetics>/krəʊ/</phonetics><example>A &lt;b&gt;crow&lt;/b&gt; is a large black bird.</example></word>
+<word str="crumble" type="v"><phonetics>/ˈkrʌmbl/</phonetics><example>The stone wall was old and &lt;b&gt;crumbling&lt;/b&gt;.</example></word>
+<word str="crystal " type="adj"><phonetics>/ˈkrɪstl/</phonetics><example>We drank out of the best &lt;b&gt;crystal&lt;/b&gt; glasses.</example></word>
+<word str="cuddly" type="adj"><phonetics>/ˈkʌdli/</phonetics><example>The kitten was soft and &lt;b&gt;cuddly&lt;/b&gt;.</example></word>
+<word str="culprit " type="n"><phonetics>/ˈkʌlprɪt/</phonetics><example>This was a serious crime, and the police are determined to find the &lt;b&gt;culprit&lt;/b&gt;.</example></word>
+<word str="cure " type="v"><phonetics>/kjʊə(r)/</phonetics><example>Doctors can &lt;b&gt;cure&lt;/b&gt; some kinds of cancer.</example></word>
+<word str="curiosity" type="n"><phonetics>/ˌkjʊəriˈɒsəti/</phonetics><example>I opened the box out of &lt;b&gt;curiosity&lt;/b&gt;.</example></word>
+<word str="curious " type="adj"><phonetics>/ˈkjʊəriəs/</phonetics><example>I was &lt;b&gt;curious&lt;/b&gt; to know what was in the bag.</example></word>
+<word str="curly" type="adj"><phonetics>/ˈkɜːli/</phonetics><example>She’s got lovely &lt;b&gt;curly&lt;/b&gt; hair.</example></word>
+<word str="current" type="adj"><phonetics>/ˈkʌrənt/</phonetics><example>What is your &lt;b&gt;current&lt;/b&gt; address?</example></word>
+<word str="curvature" type="n"><phonetics>/ˈkɜːvətʃə(r)/</phonetics><example>He suffers from &lt;b&gt;curvature&lt;/b&gt; of the spine.</example></word>
+<word str="cut off" type="v"><phonetics>/ˌkʌt ˈɒf/</phonetics><example>The operator &lt;b&gt;cut&lt;/b&gt; us &lt;b&gt;off&lt;/b&gt;.</example></word>
+<word str="cyber-" type=""><phonetics>/ˈsaɪbə(r)/</phonetics><example>The pictures travel through &lt;b&gt;cyber-&lt;/b&gt;space.</example></word>
+<word str="dagger" type="n"><phonetics>/ˈdægə(r)/</phonetics><example>He attacked me with a &lt;b&gt;dagger&lt;/b&gt;.</example></word>
+<word str="daily " type="adv"><phonetics>/ˈdeɪli/</phonetics><example>He travels to London &lt;b&gt;daily&lt;/b&gt;.</example></word>
+<word str="damage" type="n"><phonetics>/ˈdæmɪdʒ/</phonetics><example>The wind caused &lt;b&gt;damage&lt;/b&gt; to some buildings.</example></word>
+<word str="dare " type="v"><phonetics>/deə(r)/</phonetics><example>Would you &lt;b&gt;dare&lt;/b&gt; to jump off here into the sea?</example></word>
+<word str="daring " type="adj"><phonetics>/ˈdeərɪŋ/</phonetics><example>This was a &lt;b&gt;daring&lt;/b&gt; attack in broad daylight.</example></word>
+<word str="dawn" type="n"><phonetics>/dɔːn/</phonetics><example>We got up at &lt;b&gt;dawn&lt;/b&gt;.</example></word>
+<word str="day off" type="n"><phonetics>/ˌdeɪ ˈɒf/</phonetics><example>I have two &lt;b&gt;days off&lt;/b&gt; a week.</example></word>
+<word str="deal with" type="v"><phonetics>/ˈdiːl wɪð/</phonetics><example>I don’t know how to &lt;b&gt;deal with&lt;/b&gt; this problem.</example></word>
+<word str="deathly " type="adj"><phonetics>/ˈdeθli/</phonetics><example>There was a &lt;b&gt;deathly&lt;/b&gt; silence.</example></word>
+<word str="decade " type="n"><phonetics>/ˈdekeɪd/</phonetics><example>The 1960s was an interesting &lt;b&gt;decade&lt;/b&gt;.</example></word>
+<word str="decent" type="adj"><phonetics>/ˈdiːsənt/</phonetics><example>He’s got a &lt;b&gt;decent&lt;/b&gt; job in a bank.</example></word>
+<word str="declare " type="v"><phonetics>/dɪˈkleə(r)/</phonetics><example>He was &lt;b&gt;declared&lt;/b&gt; the winner.</example></word>
+<word str="decline" type="v"><phonetics>/dɪˈklaɪn/</phonetics><example>I asked her to come with us, but she &lt;b&gt;declined&lt;/b&gt;.</example></word>
+<word str="decorate" type="v"><phonetics>/ˈdekəreɪt/</phonetics><example>We need to &lt;b&gt;decorate&lt;/b&gt; the kitchen.</example></word>
+<word str="decoration " type="n"><phonetics>/dekəˈreɪʃn/</phonetics><example>It&apos;s a beautiful old building, with wonderful &lt;b&gt;decoration&lt;/b&gt; inside.</example></word>
+<word str="defeat " type="v"><phonetics>/dɪˈfiːt/</phonetics><example>They &lt;b&gt;defeated&lt;/b&gt; their enemy and won the war.</example></word>
+<word str="defeat " type="n"><phonetics>/dɪˈfiːt/</phonetics><example>Arsenal suffered a 3-1 &lt;b&gt;defeat&lt;/b&gt; last week.</example></word>
+<word str="dehydrate " type="v"><phonetics>/ˌdiːhaɪˈdreɪt/</phonetics><example>You will &lt;b&gt;dehydrate&lt;/b&gt; if you don&apos;t drink enough.</example></word>
+<word str="demand " type="n"><phonetics>/dɪˈmɑːnd/</phonetics><example>I support nurses’ &lt;b&gt;demands&lt;/b&gt; for higher pay.</example></word>
+<word str="demanding " type="adj"><phonetics>/dɪˈmɑːndɪŋ/</phonetics><example>Mountain climbing is physically &lt;b&gt;demanding&lt;/b&gt;.</example></word>
+<word str="democracy " type="n"><phonetics>/dɪˈmɒkrəsi/</phonetics><example>The USA and the UK are &lt;b&gt;democracies&lt;/b&gt;.</example></word>
+<word str="depict " type="v"><phonetics>/dɪˈpɪkt/</phonetics><example>The painting &lt;b&gt;depicts&lt;/b&gt; two women.</example></word>
+<word str="depression" type="n"><phonetics>/dɪˈpreʃn/</phonetics><example>Many people suffer from &lt;b&gt;depression&lt;/b&gt; after an illness.</example></word>
+<word str="deputy" type="n"><phonetics>/ˈdepjuti/</phonetics><example>My &lt;b&gt;deputy&lt;/b&gt; will take over while I am away.</example></word>
+<word str="descended from " type="v"><phonetics>/dɪˈsendɪd frəm/</phonetics><example>He &lt;b&gt;is descended from&lt;/b&gt; a French nobleman.</example></word>
+<word str="despite" type="prep"><phonetics>/dɪˈspaɪt/</phonetics><example>We enjoyed the day, &lt;b&gt;despite&lt;/b&gt; the rain.</example></word>
+<word str="determined " type="adj"><phonetics>/dɪˈtɜːmɪnd/</phonetics><example>We are &lt;b&gt;determined&lt;/b&gt; to win this competition.</example></word>
+<word str="device " type="n"><phonetics>/dɪˈvaɪs/</phonetics><example>This &lt;b&gt;device&lt;/b&gt; is for opening bottles.</example></word>
+<word str="diagnose " type="v"><phonetics>/ˈdaɪəgnəʊz/</phonetics><example>I was being sick, and the doctor &lt;b&gt;diagnosed&lt;/b&gt; food poisoning.</example></word>
+<word str="dig" type="v"><phonetics>/dɪg/</phonetics><example>He &lt;b&gt;dug&lt;/b&gt; a hole in the sand.</example></word>
+<word str="digit " type="n"><phonetics>/ˈdɪdʒɪt/</phonetics><example>Please type in the first two &lt;b&gt;digits&lt;/b&gt; of your security number.</example></word>
+<word str="digital " type="adj"><phonetics>/ˈdɪdʒɪtl/</phonetics><example>We&apos;ve got a new &lt;b&gt;digital&lt;/b&gt; TV.</example></word>
+<word str="dilemma" type="n"><phonetics>/daɪˈlemə/</phonetics><example>We face a difficult &lt;b&gt;dilemma&lt;/b&gt;, and must make a decision.</example></word>
+<word str="disagreeable" type="adj"><phonetics>/ˌdɪsəˈgriːəbl/</phonetics><example>There was a &lt;b&gt;disagreeable&lt;/b&gt; smell in the kitchen.</example></word>
+<word str="discipline" type="n"><phonetics>/ˈdɪsɪplɪn/</phonetics><example>Good &lt;b&gt;discipline&lt;/b&gt; is important in schools.</example></word>
+<word str="diseased" type="adj"><phonetics>/dɪˈziːzd/</phonetics><example>Doctors replaced his &lt;b&gt;diseased&lt;/b&gt; heart.</example></word>
+<word str="dismiss" type="v"><phonetics>/dɪsˈmɪs/</phonetics><example>She was &lt;b&gt;dismissed&lt;/b&gt; from her job because she was always late.</example></word>
+<word str="disorder " type="n"><phonetics>/dɪsˈɔːdə(r)/</phonetics><example>She suffers from a stomach &lt;b&gt;disorder&lt;/b&gt;.</example></word>
+<word str="disqualify" type="v"><phonetics>/dɪsˈkwɒlɪfaɪ/</phonetics><example>She’s been &lt;b&gt;disqualified&lt;/b&gt; from the competition.</example></word>
+<word str="distinctive " type="adj"><phonetics>/dɪsˈtɪŋktɪv/</phonetics><example>Her hair is a really &lt;b&gt;distinctive&lt;/b&gt; colour.</example></word>
+<word str="distribute" type="v"><phonetics>/dɪˈstrɪbjuːt/</phonetics><example>They &lt;b&gt;distribute&lt;/b&gt; food to homeless people.</example></word>
+<word str="district " type="n"><phonetics>/ˈdɪstrɪkt/</phonetics><example>The city is divided into four &lt;b&gt;districts&lt;/b&gt;.</example></word>
+<word str="DIY " type="n"><phonetics>/ˌdiː aɪ ˈwaɪ/</phonetics><example>He loves doing &lt;B&gt;DIY&lt;/B&gt; like putting up shelves.</example></word>
+<word str="DNA " type="n"><phonetics>/ˌdiː en ˈeɪ/</phonetics><example>The police found traces of his &lt;B&gt;DNA&lt;/B&gt; at the crime scene.</example></word>
+<word str="documentary" type="n"><phonetics>/ˌdɒkjuˈmentri/</phonetics><example>I watched a &lt;b&gt;documentary&lt;/b&gt; about Hungary.</example></word>
+<word str="dome" type="n"><phonetics>/dəʊm/</phonetics><example>I could see the golden &lt;b&gt;dome&lt;/b&gt; of the mosque.</example></word>
+<word str="domestic" type="adj"><phonetics>/dəˈmestɪk/</phonetics><example>This equipment is not for &lt;b&gt;domestic&lt;/b&gt; use.</example></word>
+<word str="dominant" type="adj"><phonetics>/ˈdɒmɪnənt/</phonetics><example>He never lets anyone else speak – he’s too &lt;b&gt;dominant&lt;/b&gt;.</example></word>
+<word str="dominate " type="v"><phonetics>/ˈdɒmɪneɪt/</phonetics><example>Tom &lt;b&gt;dominated&lt;/b&gt; the conversation – no one else said very much.</example></word>
+<word str="donate" type="v"><phonetics>/dəʊˈneɪt/</phonetics><example>They &lt;b&gt;donate&lt;/b&gt; a lot of money to charity.</example></word>
+<word str="don’t mind " type="v"><phonetics>/ˌdəʊnt ˈmaɪnd/</phonetics><example>It&apos;s OK. I &lt;b&gt;don&apos;t mind&lt;/b&gt; waiting.</example></word>
+<word str="dot " type="n"><phonetics>/dɒt/</phonetics><example>Remember to put a &lt;b&gt;dot&lt;/b&gt; after www in website addresses.</example></word>
+<word str="doubles " type="pl n"><phonetics>/ˈdʌblz/</phonetics><example>In tennis, you can play singles or &lt;b&gt;doubles&lt;/b&gt;.</example></word>
+<word str="downpour " type="n"><phonetics>/ˈdaʊnpɔː(r)/</phonetics><example>There was a sudden &lt;b&gt;downpour&lt;/b&gt; of rain.</example></word>
+<word str="dozen " type="n"><phonetics>/ˈdʌzn/</phonetics><example>A &lt;b&gt;dozen&lt;/b&gt; eggs, please.</example></word>
+<word str="dreadful " type="adj"><phonetics>/ˈdredfl/</phonetics><example>Oh, no. That&apos;s &lt;b&gt;dreadful&lt;/b&gt; news!</example></word>
+<word str="drill" type="n"><phonetics>/drɪl/</phonetics><example>I’ll make a hole in the wall with my electric &lt;b&gt;drill&lt;/b&gt;.</example></word>
+<word str="drink-driving" type="n"><phonetics>/ˌdrɪŋkˈdraɪvɪŋ/</phonetics><example>A lot of accidents are caused by &lt;b&gt;drink-driving&lt;/b&gt;.</example></word>
+<word str="drive sb crazy" type=""><phonetics>/ˌdraɪv ... ˈkreɪzi/</phonetics><example>Sam is so annoying – he &lt;b&gt;drives me crazy&lt;/b&gt;!</example></word>
+<word str="drought" type="n"><phonetics>/draʊt/</phonetics><example>Many trees died during the &lt;b&gt;drought&lt;/b&gt;.</example></word>
+<word str="due " type="adj"><phonetics>/djuː/</phonetics><example>The baby is &lt;b&gt;due&lt;/b&gt; in September.</example></word>
+<word str="dump" type="v"><phonetics>/dʌmp/</phonetics><example>They shouldn’t &lt;b&gt;dump &lt;/b&gt; chemicals in the river.</example></word>
+<word str="dump " type="v"><phonetics>/dʌmp/</phonetics><example>She doesn&apos;t want to go out with Matt any more so she&apos;s going to &lt;b&gt;dump&lt;/b&gt; him.</example></word>
+<word str="dutiful" type="adj"><phonetics>/ˈdjuːtɪfl/</phonetics><example>She was a &lt;b&gt;dutiful&lt;/b&gt; daughter who looked after her parents.</example></word>
+<word str="duty" type="n"><phonetics>/ˈdjuːti/</phonetics><example>It is your &lt;b&gt;duty&lt;/b&gt; to tell the police about this.</example></word>
+<word str="dynasty" type="n"><phonetics>/ˈdɪnəsti/</phonetics><example>The Tudor &lt;b&gt;dynasty&lt;/b&gt; lasted several centuries.</example></word>
+<word str="dysfunctional " type="adj"><phonetics>/dɪsˈfʌŋkʃənl/</phonetics><example>In a &lt;b&gt;dysfunctional&lt;/b&gt; family, the members don&apos;t help and support each other.</example></word>
+<word str="earn a living" type=""><phonetics>/ˌɜːn ə ˈlɪvɪŋ/</phonetics><example>Most people have to work to &lt;b&gt;earn a living&lt;/b&gt;.</example></word>
+<word str="earner" type="n"><phonetics>/ˈɜːnə(r)/</phonetics><example>Doctors earn a lot – they are high &lt;b&gt;earners&lt;/b&gt;.</example></word>
+<word str="eat out " type="v"><phonetics>/ˌiːt ˈaʊt/</phonetics><example>I don&apos;t fancy cooking tonight – shall we &lt;b&gt;eat out&lt;/b&gt;?</example></word>
+<word str="eat up " type="v"><phonetics>/ˌiːt ˈʌp/</phonetics><example>Come on, &lt;b&gt;eat up&lt;/b&gt;. We need to leave soon.</example></word>
+<word str="eccentric" type="adj"><phonetics>/ɪkˈsentrɪk/</phonetics><example>She’s a lovely old lady, but a bit &lt;b&gt;eccentric&lt;/b&gt;.</example></word>
+<word str="economize " type="v"><phonetics>/ɪˈkɒnəmaɪz/</phonetics><example>We need to &lt;b&gt;economize&lt;/b&gt; and save money.</example></word>
+<word str="effective " type="adj"><phonetics>/ɪˈfektɪv/</phonetics><example>Take this medicine – it&apos;s very &lt;b&gt;effective&lt;/b&gt;.</example></word>
+<word str="efficient " type="adj"><phonetics>/ɪˈfɪʃnt/</phonetics><example>They offer a quick and &lt;b&gt;efficient&lt;/b&gt; service.</example></word>
+<word str="eldest " type="adj"><phonetics>/ˈeldɪst/</phonetics><example>He is the &lt;b&gt;eldest&lt;/b&gt; of three brothers.</example></word>
+<word str="elect " type="v"><phonetics>/ɪˈlekt/</phonetics><example>They will &lt;b&gt;elect&lt;/b&gt; a new President next year.</example></word>
+<word str="electric" type="adj"><phonetics>/ɪˈlektrɪk/</phonetics><example>The atmosphere at the concert was &lt;b&gt;electric&lt;/b&gt;!</example></word>
+<word str="electronic" type="adj"><phonetics>/ɪˌlekˈtrɒnɪk/</phonetics><example>You can buy some books in &lt;b&gt;electronic&lt;/b&gt; form.</example></word>
+<word str="elementary " type="adj"><phonetics>/elɪˈmentri/</phonetics><example>It&apos;s not difficult – in fact, it&apos;s quite &lt;b&gt;elementary&lt;/b&gt;.</example></word>
+<word str="embrace " type="n"><phonetics>/ɪmˈbreɪs/</phonetics><example>He greeted her with a warm &lt;b&gt;embrace&lt;/b&gt;.</example></word>
+<word str="emigrate" type="v"><phonetics>/ˈemɪgreɪt/</phonetics><example>My cousin &lt;b&gt;emigrated&lt;/b&gt; to Australia.</example></word>
+<word str="emotion" type="n"><phonetics>/ɪˈməʊʃn/</phonetics><example>He never cries or shows his &lt;b&gt;emotions&lt;/b&gt;.</example></word>
+<word str="empire " type="n"><phonetics>/ˈempaɪə(r)/</phonetics><example>The Roman &lt;b&gt;Empire&lt;/b&gt; stretched all across Europe.</example></word>
+<word str="employee" type="n"><phonetics>/ɪmˈplɔɪiː/</phonetics><example>The business has 300 &lt;b&gt;employees&lt;/b&gt;.</example></word>
+<word str="encounter " type="n"><phonetics>/ɪnˈkaʊntə(r)/</phonetics><example>He&apos;s had several &lt;b&gt;encounters&lt;/b&gt; with the police.</example></word>
+<word str="encourage " type="v"><phonetics>/ɪnˈkʌrɪdʒ/</phonetics><example>Everyone &lt;b&gt;encouraged&lt;/b&gt; me to apply for the job.</example></word>
+<word str="enemy" type="n"><phonetics>/ˈenəmi/</phonetics><example>We will fight against our &lt;b&gt;enemies&lt;/b&gt;!</example></word>
+<word str="engagement" type="n"><phonetics>/ɪnˈgeɪdʒmənt/</phonetics><example>I won’t be able to come to the party – I have another &lt;b&gt;engagement&lt;/b&gt;.</example></word>
+<word str="enormous" type="adj"><phonetics>/ɪˈnɔːməs/</phonetics><example>This jacket is far too big – it’s &lt;b&gt;enormous&lt;/b&gt;!</example></word>
+<word str="enter " type="v"><phonetics>/ˈentə(r)/</phonetics><example>The door opened and Sally &lt;b&gt;entered&lt;/b&gt;.</example></word>
+<word str="enthusiastic " type="adj"><phonetics>/ɪnˌθjuːziˈæstɪk/</phonetics><example>She&apos;s very &lt;b&gt;enthusiastic&lt;/b&gt; about art.</example></word>
+<word str="entire" type="adj"><phonetics>/ɪnˈtaɪə(r)/</phonetics><example>She spent her &lt;b&gt;entire&lt;/b&gt; life in this house.</example></word>
+<word str="equality " type="n"><phonetics>/ɪˈkwɒləti/</phonetics><example>They are demanding &lt;b&gt;equality&lt;/b&gt; for all citizens.</example></word>
+<word str="equipment" type="n"><phonetics>/ɪˈkwɪpmənt/</phonetics><example>You need expensive &lt;b&gt;equipment&lt;/b&gt; for some sports.</example></word>
+<word str="equipped" type="adj"><phonetics>/ɪˈkwɪpt/</phonetics><example>The kitchen is well &lt;b&gt;equipped&lt;/b&gt;.</example></word>
+<word str="era" type="n"><phonetics>/ˈiərə/</phonetics><example>She lived during the Victorian &lt;b&gt;era&lt;/b&gt;.</example></word>
+<word str="error " type="n"><phonetics>/ˈerə(r)/</phonetics><example>The crash was caused by a technical &lt;b&gt;error&lt;/b&gt;.</example></word>
+<word str="estate agent " type="n"><phonetics>/ɪˈsteɪt ˌeɪdʒənt/</phonetics><example>An &lt;b&gt;estate agent&lt;/b&gt; will sell your house for you.</example></word>
+<word str="eternal" type="adj"><phonetics>/ɪˈtɜːnl/</phonetics><example>Religion offers the promise of &lt;b&gt;eternal&lt;/b&gt; life.</example></word>
+<word str="eternity " type="n"><phonetics>/ɪˈtɜːnɪti/</phonetics><example>He promised to love her for &lt;b&gt;eternity&lt;/b&gt;.</example></word>
+<word str="ethnic group " type="n"><phonetics>/eθnɪk ˈgruːp/</phonetics><example>The population of Birmingham is made up of many &lt;b&gt;ethnic groups&lt;/b&gt;.</example></word>
+<word str="euphoria " type="n"><phonetics>/juːˈfɔːriə/</phonetics><example>She had a feeling of &lt;b&gt;euphoria&lt;/b&gt; when she realized she had won.</example></word>
+<word str="evacuate" type="v"><phonetics>/ɪˈvækjueɪt/</phonetics><example>Some people were &lt;b&gt;evacuated&lt;/b&gt; from their homes during the floods.</example></word>
+<word str="evidence" type="n"><phonetics>/ˈevɪdəns/</phonetics><example>The police have &lt;b&gt;evidence&lt;/b&gt; that she is guilty.</example></word>
+<word str="evolve " type="v"><phonetics>/ɪˈvɒlv/</phonetics><example>Animals and plants &lt;b&gt;evolve&lt;/b&gt; over time.</example></word>
+<word str="ex- " type=""><phonetics>/eks/</phonetics><example>An &lt;b&gt;ex-&lt;/b&gt;president is someone who used to be the president.</example></word>
+<word str="exile" type="v"><phonetics>/ˈeksaɪl/</phonetics><example>The king was &lt;b&gt;exiled&lt;/b&gt; to Europe.</example></word>
+<word str="existence " type="n"><phonetics>/ɪgˈzɪstəns/</phonetics><example>The struggle for &lt;b&gt;existence&lt;/b&gt; means only the strongest survive.</example></word>
+<word str="expand" type="v"><phonetics>/ɪkˈspænd/</phonetics><example>The company will &lt;b&gt;expand&lt;/b&gt; into Asia next year.</example></word>
+<word str="expect (a baby)" type="v"><phonetics>/ɪkˈspekt/</phonetics><example>She’s &lt;b&gt;expecting&lt;/b&gt; a baby in May.</example></word>
+<word str="expense" type="n"><phonetics>/ɪkˈspens/</phonetics><example>We booked the holiday without thinking about the &lt;b&gt;expense&lt;/b&gt;.</example></word>
+<word str="expert " type="n"><phonetics>/ˈekspɜːt/</phonetics><example>He knows a lot – he&apos;s an &lt;b&gt;expert&lt;/b&gt; on cars.</example></word>
+<word str="explode " type="v"><phonetics>/ɪkˈspləʊd/</phonetics><example>He&lt;b&gt; exploded&lt;/b&gt; with anger when he saw the mess.</example></word>
+<word str="extend" type="v"><phonetics>/ɪkˈstend/</phonetics><example>We loved the hotel, so decided to &lt;b&gt;extend&lt;/b&gt; our stay.</example></word>
+<word str="extensively" type="adv"><phonetics>/ɪkˈstensɪvli/</phonetics><example>She has read &lt;b&gt;extensively&lt;/b&gt;.</example></word>
+<word str="extravagantly" type="adv"><phonetics>/ɪkˈstrævəgəntli/</phonetics><example>The room was &lt;b&gt;extravagantly&lt;/b&gt; decorated.</example></word>
+<word str="eyesight " type="n"><phonetics>/ˈaɪsaɪt/</phonetics><example>I need glasses because my &lt;b&gt;eyesight&lt;/b&gt; isn&apos;t very good.</example></word>
+<word str="face " type="v"><phonetics>/feɪs/</phonetics><example>We &lt;b&gt;faced&lt;/b&gt; many problems on our journey.</example></word>
+<word str="faceless " type="adj"><phonetics>/ˈfeɪsləs/</phonetics><example>I didn&apos;t want to talk to a &lt;b&gt;faceless&lt;/b&gt; person on the phone.</example></word>
+<word str="facilities " type="pl n"><phonetics>/fəˈsɪlətiz/</phonetics><example>The new sports centre has wonderful &lt;b&gt;facilities&lt;/b&gt;.</example></word>
+<word str="fail " type="v"><phonetics>/feɪl/</phonetics><example>If you don&apos;t work, you&apos;ll &lt;b&gt;fail&lt;/b&gt; your exams.</example></word>
+<word str="fair" type="adj"><phonetics>/feə(r)/</phonetics><example>He rescued the &lt;b&gt;fair&lt;/b&gt; princess.</example></word>
+<word str="fair" type="adj"><phonetics>/feə(r)/</phonetics><example>He’s got more than me – it’s not &lt;b&gt;fair&lt;/b&gt;!</example></word>
+<word str="fair enough" type="adj"><phonetics>/ˌfeər ɪˈnʌf/</phonetics><example>He didn’t want to come, which was &lt;b&gt;fair enough&lt;/b&gt;.</example></word>
+<word str="fairground ride" type="n"><phonetics>/ˈfeəgraʊnd raɪd/</phonetics><example>I hate going on &lt;b&gt;fairground rides&lt;/b&gt; where you get turned upside down.</example></word>
+<word str="fall in love" type="v"><phonetics>/ˌfɔːl ɪn ˈlʌv/</phonetics><example>We &lt;b&gt;fell in love&lt;/b&gt; as soon as we met.</example></word>
+<word str="fall out " type="v"><phonetics>/ˌfɔːl ˈaʊt/</phonetics><example>They used to get on really well, but they&apos;ve &lt;b&gt;fallen out&lt;/b&gt; now.</example></word>
+<word str="fan " type="n"><phonetics>/fæn/</phonetics><example>He&apos;s a Manchester United &lt;b&gt;fan&lt;/b&gt;.</example></word>
+<word str="fancy" type="v"><phonetics>/ˈfænsi/</phonetics><example>Bob’s looking at you – I think he &lt;b&gt;fancies&lt;/b&gt; you.</example></word>
+<word str="fancy dress " type="n"><phonetics>/ˌfænsi ˈdres/</phonetics><example>Everyone at the party was in &lt;b&gt;fancy dress&lt;/b&gt;.</example></word>
+<word str="farewell" type="n"><phonetics>/feəˈwel/</phonetics><example>He left without a goodbye or &lt;b&gt;farewell&lt;/b&gt;.</example></word>
+<word str="fearless " type="adj"><phonetics>/ˈfɪələs/</phonetics><example>You have to be &lt;b&gt;fearless&lt;/b&gt; to do skydiving.</example></word>
+<word str="feat " type="n"><phonetics>/fiːt/</phonetics><example>Reaching the North Pole was an amazing &lt;b&gt;feat&lt;/b&gt;.</example></word>
+<word str="feather " type="n"><phonetics>/ˈfeðə(r)/</phonetics><example>Birds are covered in &lt;b&gt;feathers&lt;/b&gt;.</example></word>
+<word str="feature " type="n"><phonetics>/ˈfiːtʃə(r)/</phonetics><example>They have modernized the house, but kept some of its original &lt;b&gt;features&lt;/b&gt;.</example></word>
+<word str="fellow" type="adj"><phonetics>/ˈfeləʊ/</phonetics><example>She chatted to her &lt;b&gt;fellow&lt;/b&gt; travellers.</example></word>
+<word str="female " type="n"><phonetics>/ˈfiːmeɪl/</phonetics><example>With lions, the &lt;b&gt;females&lt;/b&gt; do the hunting.</example></word>
+<word str="ferry" type="n"><phonetics>/ˈferi/</phonetics><example>We got the &lt;b&gt;ferry&lt;/b&gt; from England to France.</example></word>
+<word str="ferry " type="v"><phonetics>/ˈferi/</phonetics><example>There&apos;s a boat to &lt;b&gt;ferry&lt;/b&gt; people across the river.</example></word>
+<word str="feud" type="n"><phonetics>/fjuːd/</phonetics><example>The &lt;b&gt;feud&lt;/b&gt; between the families continued for many years.</example></word>
+<word str="fiancée" type="n"><phonetics>/fiˈɒnseɪ/</phonetics><example>Sara is his &lt;b&gt;fiancée&lt;/b&gt; – he’s going to marry her next year.</example></word>
+<word str="fiction" type="n"><phonetics>/ˈfɪkʃn/</phonetics><example>Do you like reading facts or &lt;b&gt;fiction&lt;/b&gt;?</example></word>
+<word str="fiercely" type="adv"><phonetics>/ˈfɪəsli/</phonetics><example>&apos;Go away!&apos; he said &lt;b&gt;fiercely&lt;/b&gt;.</example></word>
+<word str="fighter " type="n"><phonetics>/ˈfaɪtə(r)/</phonetics><example>They see themselves as freedom &lt;b&gt;fighters&lt;/b&gt;.</example></word>
+<word str="file" type="n"><phonetics>/faɪl/</phonetics><example>She clipped the papers into a &lt;b&gt;file&lt;/b&gt;.</example></word>
+<word str="find fault " type="v"><phonetics>/ˌfaɪnd ˈfɔːlt/</phonetics><example>Why do you always &lt;b&gt;find fault&lt;/b&gt; with your sister?</example></word>
+<word str="fine " type="adj"><phonetics>/faɪn/</phonetics><example>&apos;Will you meet us there?&apos; &apos;Yes, &lt;b&gt;fine&lt;/b&gt;.&apos;</example></word>
+<word str="fingers crossed" type=""><phonetics>/ˈfɪŋgəz ˈkrɒst/</phonetics><example>I’ve got my driving test tomorrow, so &lt;b&gt;fingers crossed&lt;/b&gt; that I’ll pass.</example></word>
+<word str="flash " type="v"><phonetics>/flæʃ/</phonetics><example>Cars &lt;b&gt;flashed&lt;/b&gt; past us on the motorway.</example></word>
+<word str="float " type="v"><phonetics>/fləʊt/</phonetics><example>There were lots of small boats &lt;b&gt;floating&lt;/b&gt; on the water.</example></word>
+<word str="flood" type="n"><phonetics>/flʌd/</phonetics><example>Heavy rain often causes &lt;b&gt;floods&lt;/b&gt;.</example></word>
+<word str="fluently" type="adv"><phonetics>/ˈfluːəntli/</phonetics><example>She can speak French &lt;b&gt;fluently&lt;/b&gt;.</example></word>
+<word str="fly by" type="v"><phonetics>/ˈflaɪ ˌbaɪ/</phonetics><example>The weeks soon &lt;b&gt;flew by&lt;/b&gt;.</example></word>
+<word str="food processor" type="n"><phonetics>/ˌfʊːd ˈprəʊsesə(r)/</phonetics><example>I made the soup in a &lt;b&gt;food processor&lt;/b&gt;.</example></word>
+<word str="footpath" type="n"><phonetics>/ˈfʊtpɑːθ/</phonetics><example>The &lt;b&gt;footpath&lt;/b&gt; goes through this field.</example></word>
+<word str="force " type="v"><phonetics>/fɔːs/</phonetics><example>You can&apos;t &lt;b&gt;force&lt;/b&gt; students to work.</example></word>
+<word str="force-feeding " type="n"><phonetics>/ˌfɔːsˈfiːdɪŋ/</phonetics><example>The police used &lt;b&gt;force-feeding&lt;/b&gt; to make the prisoners eat.</example></word>
+<word str="forecast" type="n"><phonetics>/ˈfɔːkɑːst/</phonetics><example>The &lt;b&gt;forecast&lt;/b&gt; said it’s going to rain.</example></word>
+<word str="form" type="v"><phonetics>/fɔːm</phonetics><example>The rock band &lt;b&gt;formed&lt;/b&gt; two years ago.</example></word>
+<word str="found " type="v"><phonetics>/faʊnd/</phonetics><example>My grandfather &lt;b&gt;founded&lt;/b&gt; the family business.</example></word>
+<word str="fox-hunting " type="n"><phonetics>/ˈfɒkshʌntɪŋ/</phonetics><example>In &lt;b&gt;fox-hunting&lt;/b&gt;, dogs are used to kill a fox.</example></word>
+<word str="fraud " type="n"><phonetics>/frɔːd/</phonetics><example>Using someone else&apos;s credit card is a common kind of &lt;b&gt;fraud&lt;/b&gt;.</example></word>
+<word str="freak out " type="v"><phonetics>/friːk aʊt/</phonetics><example>I &lt;b&gt;freaked out&lt;/b&gt; when I saw those huge spiders!</example></word>
+<word str="freeze" type="v"><phonetics>/friːz/</phonetics><example>The screen &lt;b&gt;freezes&lt;/b&gt; when I try to use the Internet.</example></word>
+<word str="friar" type="n"><phonetics>/ˈfraɪə(r)/</phonetics><example>He became a &lt;b&gt;friar&lt;/b&gt; in a religious community.</example></word>
+<word str="frustration" type="n"><phonetics>/frʌˈstreɪʃn/</phonetics><example>Her high expectations often lead to &lt;b&gt;frustration&lt;/b&gt; when they are not met.</example></word>
+<word str="fry" type="v"><phonetics>/fraɪ/</phonetics><example>&lt;b&gt;Fry&lt;/b&gt; the chicken in vegetable oil.</example></word>
+<word str="full-time" type="adj"><phonetics>/ˌfʊlˈtaɪm/</phonetics><example>I don’t want a &lt;b&gt;full-time&lt;/b&gt; job – just two days a week.</example></word>
+<word str="fully" type="adv"><phonetics>/ˈfʊli/</phonetics><example>We are &lt;b&gt;fully&lt;/b&gt; aware of the problems.</example></word>
+<word str="funny" type="adj"><phonetics>/ˈfʌni/</phonetics><example>The machine was making a &lt;b&gt;funny&lt;/b&gt; noise.</example></word>
+<word str="fuss" type="n"><phonetics>/fʌs/</phonetics><example>He made a terrible &lt;b&gt;fuss&lt;/b&gt; when I told him he couldn’t come with us.</example></word>
+<word str="gadget" type="n"><phonetics>/ˈgædʒɪt/</phonetics><example>You can get a clever &lt;b&gt;gadget&lt;/b&gt; for opening tins.</example></word>
+<word str="gain" type="v"><phonetics>/geɪn/</phonetics><example>We couldn’t &lt;b&gt;gain&lt;/b&gt; entry to the building.</example></word>
+<word str="galaxy" type="n"><phonetics>/ˈgæləksi/</phonetics><example>The Milky Way is a &lt;b&gt;galaxy&lt;/b&gt;.</example></word>
+<word str="gamble " type="v"><phonetics>/ˈgæmbl/</phonetics><example>I never play cards for money – I don&apos;t like &lt;b&gt;gambling&lt;/b&gt;.</example></word>
+<word str="garlic" type="n"><phonetics>/ˈgɑːlɪk/</phonetics><example>Shall I add &lt;b&gt;garlic&lt;/b&gt; to the sauce?</example></word>
+<word str="gene " type="n"><phonetics>/dʒiːn/</phonetics><example>Your &lt;b&gt;genes&lt;/b&gt; determine what colour hair and eyes you have.</example></word>
+<word str="generate" type="v"><phonetics>/ˈdʒenəreɪt/</phonetics><example>The idea &lt;b&gt;generated &lt;/b&gt;a lot of excitement.</example></word>
+<word str="generation" type="n"><phonetics>/ˌdʒenəˈreɪʃn/</phonetics><example>What will life be like for future &lt;b&gt;generations&lt;/b&gt;?</example></word>
+<word str="genius" type="n"><phonetics>/ˈdʒiːniəs/</phonetics><example>Mozart was a musical &lt;b&gt;genius&lt;/b&gt;.</example></word>
+<word str="get away from it all" type="v"><phonetics>/ˌget əˈweɪ frəm ɪt ɔːl/</phonetics><example>I need a holiday to &lt;b&gt;get away from it all&lt;/b&gt;!</example></word>
+<word str="get in" type="v"><phonetics>/ˌget ˈɪn/</phonetics><example>The train &lt;b&gt;gets in&lt;/b&gt; to York at 14.30.</example></word>
+<word str="get out of hand " type="v"><phonetics>/ˌget aʊt əv ˈhænd/</phonetics><example>It started as a joke, but it &lt;b&gt;got out of hand&lt;/b&gt;.</example></word>
+<word str="get through" type="v"><phonetics>/ˌget ˈθruː/</phonetics><example>I couldn’t &lt;b&gt;get through&lt;/b&gt; to Max last night.</example></word>
+<word str="get through to " type="v"><phonetics>/ˌget ˈθruː tu/</phonetics><example>I managed to &lt;b&gt;get through to&lt;/b&gt; her that people wanted to help.</example></word>
+<word str="get together" type="v"><phonetics>/get təˈgeðər/</phonetics><example>We all &lt;b&gt;got together&lt;/b&gt; to celebrate her birthday.</example></word>
+<word str="gift-wrap" type="v"><phonetics>/ˈgɪft ˌræp/</phonetics><example>Could you &lt;b&gt;gift-wrap&lt;/b&gt; these flowers, please?</example></word>
+<word str="gifted " type="adj"><phonetics>/ˈgɪftɪd/</phonetics><example>He&apos;s a &lt;b&gt;gifted&lt;/b&gt; musician.</example></word>
+<word str="gig " type="n"><phonetics>/gɪg/</phonetics><example>I went to one of her &lt;b&gt;gigs&lt;/b&gt; last year.</example></word>
+<word str="gigabyte" type="v"><phonetics>/ˈgɪgəbaɪt/</phonetics><example>It’s got a 60-&lt;b&gt;gigabyte&lt;/b&gt; hard disk.</example></word>
+<word str="give birth" type="v"><phonetics>/ˌgɪv ˈbɜːθ/</phonetics><example>She &lt;b&gt;gave birth&lt;/b&gt; to a baby boy.</example></word>
+<word str="give in" type="v"><phonetics>/ˌgɪv ˈɪn/</phonetics><example>The government will not &lt;b&gt;give in&lt;/b&gt; to terrorists.</example></word>
+<word str="glad" type="adj"><phonetics>/glæd/</phonetics><example>I’m &lt;b&gt;glad&lt;/b&gt; no one was hurt.</example></word>
+<word str="glassware" type="n"><phonetics>/ˈglɑːsweə(r)/</phonetics><example>I bought a glass bowl in the &lt;b&gt;glassware&lt;/b&gt; department.</example></word>
+<word str="glide " type="v"><phonetics>/glaɪd/</phonetics><example>The boat &lt;b&gt;glided&lt;/b&gt; smoothly across the water.</example></word>
+<word str="glow" type="v"><phonetics>/gləʊ/</phonetics><example>A light &lt;b&gt;glowed&lt;/b&gt; in the distance.</example></word>
+<word str="go out" type="v"><phonetics>/gəʊ ˈaʊt/</phonetics><example>Who is Bess &lt;b&gt;going out&lt;/b&gt; with at the moment?</example></word>
+<word str="go over someone’s head " type="v"><phonetics>/gəʊ ˌəʊvə ... ˈhed/</phonetics><example>He tried to explain it to me, but it &lt;b&gt;went over my head&lt;/b&gt;.</example></word>
+<word str="go weak at the knees" type=""><phonetics>/gəʊ ˌwiːk ət ðə ˈniːz/</phonetics><example>She &lt;b&gt;went weak at the knees&lt;/b&gt; when she saw him.</example></word>
+<word str="go with the flow" type=""><phonetics>/ˌgəʊ wɪð ðə ˈfləʊ/</phonetics><example>I don’t mind what we do – I’ll &lt;b&gt;go with the flow&lt;/b&gt;.</example></word>
+<word str="goblet " type="n"><phonetics>/ˈgɒblɪt/</phonetics><example>They drank out of silver &lt;b&gt;goblets&lt;/b&gt;.</example></word>
+<word str="good-looking" type="adj"><phonetics>/ˌgʊdˈlʊkɪŋ/</phonetics><example>He’s &lt;b&gt;good-looking&lt;/b&gt;, and he’s a nice guy!</example></word>
+<word str="goods" type="pl n"><phonetics>/gʊdz/</phonetics><example>The shop sells shoes and leather &lt;b&gt;goods&lt;/b&gt;.</example></word>
+<word str="gossip " type="v"><phonetics>/ˈgɒsɪp/</phonetics><example>They&apos;re always &lt;b&gt;gossiping&lt;/b&gt; about other people.</example></word>
+<word str="Gothic " type="adj"><phonetics>/ˈgɒθɪk/</phonetics><example>Their house is a large &lt;b&gt;Gothic&lt;/b&gt; building.</example></word>
+<word str="gravitate" type="v"><phonetics>/ˈgrævɪteɪt/</phonetics><example>The conversation &lt;b&gt;gravitated&lt;/b&gt; towards politics.</example></word>
+<word str="great-grandmother" type="n"><phonetics>/ˌgreɪtˈgrænmʌðə(r)/</phonetics><example>Your &lt;b&gt;great-grandmother&lt;/b&gt; is the mother of a grandparent.</example></word>
+<word str="greet" type="v"><phonetics>/griːt/</phonetics><example>He &lt;b&gt;greeted&lt;/b&gt; me with a cheerful ’Hello’.</example></word>
+<word str="grief" type="n"><phonetics>/griːf/</phonetics><example>She wept with &lt;b&gt;grief&lt;/b&gt; when her husband died.</example></word>
+<word str="grin " type="v"><phonetics>/grɪn/</phonetics><example>He &lt;b&gt;grinned&lt;/b&gt; with pleasure when he saw us.</example></word>
+<word str="ground " type="n"><phonetics>/graʊnd/</phonetics><example>What&apos;s the name of the &lt;b&gt;ground&lt;/b&gt; where Manchester United play?</example></word>
+<word str="guarantee" type="n"><phonetics>/ˌgærənˈtiː/</phonetics><example>The phone comes with a one-year &lt;b&gt;guarantee&lt;/b&gt;.</example></word>
+<word str="gym " type="n"><phonetics>/dʒɪm/</phonetics><example>You do exercise in a&lt;b&gt; gym&lt;/b&gt;.</example></word>
+<word str="haircut " type="n"><phonetics>/ˈheəkʌt/</phonetics><example>I must go to the hairdresser – I need a &lt;b&gt;haircut&lt;/b&gt;!</example></word>
+<word str="half-time" type="n"><phonetics>/ˌhɑːf ˈtaɪm/</phonetics><example>The manager changed the team at &lt;b&gt;half-time&lt;/b&gt;.</example></word>
+<word str="hallow " type="n"><phonetics>/ˈhæləʊ/</phonetics><example>A &lt;b&gt;hallow&lt;/b&gt; is an old word for a holy person.</example></word>
+<word str="halt " type="n"><phonetics>/hɔːlt/</phonetics><example>The bus came to a &lt;b&gt;halt&lt;/b&gt; outside the bank.</example></word>
+<word str="hand over " type="v"><phonetics>/ˌhænd ˈəʊvə(r)/</phonetics><example>He asked to see my passport, so I &lt;b&gt;handed&lt;/b&gt; it &lt;b&gt;over&lt;/b&gt;.</example></word>
+<word str="hand-made" type="adj"><phonetics>/ˌhændˈmeɪd/</phonetics><example>This bag wasn’t made in a factory – it’s &lt;b&gt;hand-made&lt;/b&gt;.</example></word>
+<word str="handcuffs " type="pl n"><phonetics>/ˈhændkʌfs/</phonetics><example>The police put &lt;b&gt;handcuffs&lt;/b&gt; on him and took him away.</example></word>
+<word str="handy" type="adj"><phonetics>/ˈhændi/</phonetics><example>The extra cupboards are &lt;b&gt;handy&lt;/b&gt; for storage.</example></word>
+<word str="handyman" type="n"><phonetics>/ˈhændimæn/</phonetics><example>A &lt;b&gt;handyman&lt;/b&gt; does small jobs around the house.</example></word>
+<word str="hard disk" type="n"><phonetics>/ˌhɑːd ˈdɪsk/</phonetics><example>My computer’s not working – I think it’s a problem with the &lt;b&gt;hard disk&lt;/b&gt;.</example></word>
+<word str="hard-working" type="adj"><phonetics>/ˌhɑːdˈwɜːkɪŋ/</phonetics><example>He’s very &lt;b&gt;hard-working&lt;/b&gt; so I’m sure he’ll be successful.</example></word>
+<word str="hardware" type="n"><phonetics>/ˈhɑːdweə(r)/</phonetics><example>Our computer &lt;b&gt;hardware&lt;/b&gt; is quite old now.</example></word>
+<word str="harmony " type="n"><phonetics>/ˈhɑːməni/</phonetics><example>They try to live in &lt;b&gt;harmony&lt;/b&gt; with nature.</example></word>
+<word str="hateful" type="adj"><phonetics>/ˈheɪtfl/</phonetics><example>The idea of fighting was &lt;b&gt;hateful&lt;/b&gt; to him.</example></word>
+<word str="hatred" type="n"><phonetics>/ˈheɪtrɪd/</phonetics><example>I was filled with &lt;b&gt;hatred&lt;/b&gt; for that awful man!</example></word>
+<word str="have a sweet tooth " type="v"><phonetics>/hæv ə ˌswiːt ˈtuːθ/</phonetics><example>I love chocolate – I&lt;b&gt;&apos;ve got a&lt;/b&gt; really &lt;b&gt;sweet tooth&lt;/b&gt;.</example></word>
+<word str="have a word " type="v"><phonetics>/ˌhæv ə ˈwɜːd/</phonetics><example>Can I &lt;b&gt;have a word&lt;/b&gt; with you later?</example></word>
+<word str="have around " type="v "><phonetics>/hav əˈround/</phonetics><example>It&apos;s great to &lt;b&gt;have you around&lt;/b&gt; at Christmas.</example></word>
+<word str="head of state" type="n"><phonetics>/ˌhed əv ˈsteɪt/</phonetics><example>&lt;b&gt;Heads of state&lt;/b&gt; from France and Germany will meet to discuss the problems.</example></word>
+<word str="(fall) head over heels" type=""><phonetics>/ˌhed əʊvə ˈhiːlz/</phonetics><example>She &lt;b&gt;fell head over heels&lt;/b&gt; into the water.</example></word><word str="head teacher " type="n"><phonetics>/ˌhed ˈtiːtʃə(r)/</phonetics><example>The &lt;b&gt;head teacher&lt;/b&gt; is in charge of the school.</example></word>
+<word str="headlight " type="n"><phonetics>/ˈhedlaɪt/</phonetics><example>It was dark, so I switched the car &lt;b&gt;headlights&lt;/b&gt; on.</example></word>
+<word str="headphones " type="pl n"><phonetics>/ˈhedfəʊnz/</phonetics><example>I usually listen to music with &lt;b&gt;headphones&lt;/b&gt;.</example></word>
+<word str="headquarters " type="pl n"><phonetics>/ˌhedˈkwɔːtəz/</phonetics><example>The company&apos;s &lt;b&gt;headquarters&lt;/b&gt; are in Paris.</example></word>
+<word str="headstone " type="n"><phonetics>/ˈhedstəʊn/</phonetics><example>His &lt;b&gt;headstone&lt;/b&gt; gives the dates of his birth and death.</example></word>
+<word str="headway " type="n"><phonetics>/ˈhedweɪ/</phonetics><example>We&apos;ve done quite a lot – I think we&apos;re making &lt;b&gt;headway&lt;/b&gt;.</example></word>
+<word str="healer " type="n"><phonetics>/ˈhiːlə(r)</phonetics><example>Some plants can be used as natural &lt;b&gt;healers&lt;/b&gt; for cuts and bruises.</example></word>
+<word str="heated " type="adj"><phonetics>/ˈhiːtɪd/</phonetics><example>They had a &lt;b&gt;heated&lt;/b&gt; argument.</example></word>
+<word str="heatwave" type="n"><phonetics>/ˈhiːtweɪv/</phonetics><example>The temperature reached 43 degrees during the &lt;b&gt;heatwave&lt;/b&gt;.</example></word>
+<word str="heavily" type="adv"><phonetics>/ˈhevɪli/</phonetics><example>It was raining &lt;b&gt;heavily&lt;/b&gt;.</example></word>
+<word str="heir" type="n"><phonetics>/eə(r</phonetics><example>She is &lt;b&gt;heir&lt;/b&gt; to her father’s fortune.</example></word>
+<word str="helmet" type="n"><phonetics>/ˈhelmɪt/</phonetics><example>Motorcyclists have to wear a &lt;b&gt;helmet&lt;/b&gt; in Britain.</example></word>
+<word str="herb" type="n"><phonetics>/hɜːb/</phonetics><example>She grows &lt;b&gt;herbs&lt;/b&gt; in her garden.</example></word>
+<word str="heresy " type="n"><phonetics>/ˈherəsi/</phonetics><example>People who criticized religion were accused of &lt;b&gt;heresy&lt;/b&gt;.</example></word>
+<word str="heretical " type="adj"><phonetics>/həˈretɪkl/</phonetics><example>Ideas that criticized religion were considered &lt;b&gt;heretical&lt;/b&gt;.</example></word>
+<word str="hero " type="n"><phonetics>/ˈhɪərəʊ/</phonetics><example>Johnny Depp plays the &lt;b&gt;hero&lt;/b&gt; of the film.</example></word>
+<word str="heroin " type="n"><phonetics>/ˈherəʊɪn/</phonetics><example>He used to inject himself with &lt;b&gt;heroin&lt;/b&gt;.</example></word>
+<word str="heroine " type="n"><phonetics>/ˈherəʊɪn/</phonetics><example>The &lt;b&gt;heroine&lt;/b&gt; of the film is a young woman called Lizzy.</example></word>
+<word str="hi-tech" type="adj"><phonetics>/ˌhaɪˈtek/</phonetics><example>Our new washing machine is very &lt;b&gt;hi-tech&lt;/b&gt;.</example></word>
+<word str="high tech " type="adj"><phonetics>/ˌhaɪ ˈtek/</phonetics><example>His car is new and very &lt;b&gt;high tech&lt;/b&gt;.</example></word>
+<word str="highs and lows " type="pl n"><phonetics>/ˌhaɪz ən ˈləʊz/</phonetics><example>We all have &lt;b&gt;highs and lows&lt;/b&gt; in our lives.</example></word>
+<word str="hip " type="n"><phonetics>/hɪp/</phonetics><example>Those trousers don&apos;t fit me – my &lt;b&gt;hips&lt;/b&gt; are too big.</example></word>
+<word str="hit a problem " type="v"><phonetics>/ˌhɪt ə ˈprɒbləm/</phonetics><example>The trip started well, but then &lt;b&gt;hit a few problems&lt;/b&gt;.</example></word>
+<word str="hit rock bottom " type=""><phonetics>/hɪt ˌrɒk ˈbɒtəm/</phonetics><example>I &lt;b&gt;hit rock bottom&lt;/b&gt; when I lost my job and my home.</example></word>
+<word str="hollow " type="adj"><phonetics>/ˈhɒləʊ/</phonetics><example>The box is &lt;b&gt;hollow&lt;/b&gt; inside.</example></word>
+<word str="home-made " type="adj"><phonetics>/ˌhəʊɯˈmeɪd/</phonetics><example>They sell &lt;b&gt;home-made&lt;/b&gt; cakes and biscuits.</example></word>
+<word str="homecoming" type="n"><phonetics>/ˈhəʊmkʌmɪŋ/</phonetics><example>They planned a party to celebrate his &lt;b&gt;homecoming&lt;/b&gt;.</example></word>
+<word str="homeless " type="adj"><phonetics>/ˈhəʊmləs/</phonetics><example>We need more shelters for &lt;b&gt;homeless&lt;/b&gt; people.</example></word>
+<word str="honey" type="n"><phonetics>/ˈhʌni/</phonetics><example>I love you, &lt;b&gt;honey&lt;/b&gt;.</example></word>
+<word str="hopefully " type="adv"><phonetics>/ˈhəʊpfəli/</phonetics><example>I haven&apos;t got a job yet, but &lt;b&gt;hopefully&lt;/b&gt; I&apos;ll find one soon.</example></word>
+<word str="hopeless" type="adj"><phonetics>/ˈhəʊpləs/</phonetics><example>I tried playing tennis, but I was &lt;b&gt;hopeless&lt;/b&gt;!</example></word>
+<word str="horrible" type="adj"><phonetics>/ˈhɒrəbl/</phonetics><example>What’s that &lt;b&gt;horrible&lt;/b&gt; smell?</example></word>
+<word str="horrified" type="adj"><phonetics>/ˈhɒrɪfaɪd/</phonetics><example>I was &lt;b&gt;horrified&lt;/b&gt; when I saw the mess.</example></word>
+<word str="horseriding " type="n"><phonetics>/ˈhɔːsraɪdɪŋ/</phonetics><example>&lt;b&gt;Horseriding&lt;/b&gt; is my favourite sport.</example></word>
+<word str="host" type="v"><phonetics>/həʊst/</phonetics><example>Which country will &lt;b&gt;host&lt;/b&gt; the next Olympics?</example></word>
+<word str="housekeeper" type="n"><phonetics>/ˈhaʊskiːpə(r)/</phonetics><example>He has a &lt;b&gt;housekeeper&lt;/b&gt; to run his house.</example></word>
+<word str="housewife" type="n"><phonetics>/ˈhaʊswaɪf/</phonetics><example>She’s a &lt;b&gt;housewife&lt;/b&gt; and doesn’t go out to work.</example></word>
+<word str="hug " type="v"><phonetics>/hʌg/</phonetics><example>He ran towards me and &lt;b&gt;hugged&lt;/b&gt; me.</example></word>
+<word str="huge" type="adj"><phonetics>/hjuːdʒ/</phonetics><example>They live in a &lt;b&gt;huge&lt;/b&gt; house with ten bedrooms.</example></word>
+<word str="human resources" type="n"><phonetics>/ˌhjuːmən rɪˈzɔːsɪz/</phonetics><example>You need to get on well with people to work in &lt;b&gt;human resources&lt;/b&gt;.</example></word>
+<word str="hunger strike " type="n"><phonetics>/ˈhʌŋgə ˌstraɪk/</phonetics><example>She refused to eat, and went on &lt;b&gt;hunger strike&lt;/b&gt;.</example></word>
+<word str="hunting" type="n"><phonetics>/ˈhʌntɪŋ/</phonetics><example>A lot of people are against whale &lt;b&gt;hunting&lt;/b&gt;.</example></word>
+<word str="hurl " type="v"><phonetics>/hɜːl/</phonetics><example>She &lt;b&gt;hurled&lt;/b&gt; a brick through the car window.</example></word>
+<word str="hurricane" type="n"><phonetics>/ˈhʌrɪkən/</phonetics><example>The &lt;b&gt;hurricane&lt;/b&gt; damaged many buildings.</example></word>
+<word str="hurriedly " type="adv"><phonetics>/ˈhʌrɪdli/</phonetics><example>She picked up her bag and left &lt;b&gt;hurriedly&lt;/b&gt;.</example></word>
+<word str="hut" type="n"><phonetics>/hʌt/</phonetics><example>We stayed in a wooden &lt;b&gt;hut&lt;/b&gt; in the mountains.</example></word>
+<word str="hyperactive" type="adj"><phonetics>/ˌhaɪpərˈæktɪv/</phonetics><example>Jack’s &lt;b&gt;hyperactive&lt;/b&gt; – he just can’t sit still.</example></word>
+<word str="hysterical " type="adj"><phonetics>/hɪˈsterɪkl/</phonetics><example>She became &lt;b&gt;hysterical&lt;/b&gt; and wouldn&apos;t calm down.</example></word>
+<word str="iceberg " type="n"><phonetics>/ˈaisbɜːg/</phonetics><example>You can see &lt;b&gt;icebergs&lt;/b&gt; near the North Pole.</example></word>
+<word str="identical " type="adj"><phonetics>/aɪˈdentɪkl/</phonetics><example>The two boys look &lt;b&gt;identical&lt;/b&gt; – I can&apos;t tell which is which!</example></word>
+<word str="identify" type="v"><phonetics>/aɪˈdentɪfaɪ/</phonetics><example>She couldn’t &lt;b&gt;identify&lt;/b&gt; the thieves.</example></word>
+<word str="illiterate " type="adj"><phonetics>/ɪˈlɪtərət/</phonetics><example>He&apos;s &lt;b&gt;illiterate&lt;/b&gt; – he can&apos;t read or write.</example></word>
+<word str="image " type="n"><phonetics>/ˈɪmɪdʒ/</phonetics><example>On the screen was an &lt;b&gt;image&lt;/b&gt; of a flower.</example></word>
+<word str="immense" type="adj"><phonetics>/ɪˈmens/</phonetics><example>This meeting is of &lt;b&gt;immense&lt;/b&gt; importance.</example></word>
+<word str="impatiently " type="adv"><phonetics>/ɪmˈpeɪʃntli/</phonetics><example>&apos;Hurry up,&apos; he shouted &lt;b&gt;impatiently&lt;/b&gt;.</example></word>
+<word str="imprisonment " type="n"><phonetics>/ɪmˈprɪznmənt/</phonetics><example>He was finally free after three years of &lt;b&gt;imprisonment&lt;/b&gt;.</example></word>
+<word str="in charge" type=""><phonetics>/ɪn ˈtʃɑːdʒ/</phonetics><example>Who’s &lt;b&gt;in charge&lt;/b&gt; of this department?.</example></word>
+<word str="in response to" type=""><phonetics>/ɪn riˈspɒns tʊ/</phonetics><example>A statement was issued &lt;b&gt;in response to&lt;/b&gt; the allegations.</example></word>
+<word str="in spite of" type="prep"><phonetics>/ɪnˈspaɪt əv/</phonetics><example>We swam in the sea &lt;b&gt;in spite of&lt;/b&gt; the cold.</example></word>
+<word str="in the public eye " type=""><phonetics>/ɪn ðə ˌpʌblɪk ˈaɪ/</phonetics><example>Celebrities have to live &lt;b&gt;in the public eye&lt;/b&gt; – they are watched all the time.</example></word>
+<word str="in touch " type=""><phonetics>/&lt;i&gt;ɪn ˈtʌtʃ/</phonetics><example>When he left, he promised he would keep &lt;b&gt;in touch &lt;/b&gt;with me.</example></word>
+<word str="in tune with" type=""><phonetics>/ˌɪn ˈtjuːn wɪð/</phonetics><example>He’s not &lt;b&gt;in tune with&lt;/b&gt; his emotions.</example></word>
+<word str="incapable " type="adj"><phonetics>/ɪnˈkeɪpəbl/</phonetics><example>He is ill and &lt;b&gt;incapable&lt;/b&gt; of working.</example></word>
+<word str="include" type="v"><phonetics>/ɪnˈkluːd/</phonetics><example>Is food &lt;b&gt;included&lt;/b&gt; in the price of the holiday?</example></word>
+<word str="inconvenience" type="v"><phonetics>/ˌɪnkənˈviːniəns/</phonetics><example>I hope the delay did not &lt;b&gt;inconvenience&lt;/b&gt; you.</example></word>
+<word str="independent" type="adj"><phonetics>/ˌɪndɪˈpendənt/</phonetics><example>Tom doesn’t need other people – he’s very &lt;b&gt;independent&lt;/b&gt;.</example></word>
+<word str="indifferent " type="adj"><phonetics>/ɪnˈdɪfrənt/</phonetics><example>I didn&apos;t like the film – I thought it was a bit &lt;b&gt;indifferent&lt;/b&gt;.</example></word>
+<word str="individually " type="adv"><phonetics>/ˌɪndɪˈvɪdʒuəli/</phonetics><example>You can work &lt;b&gt;individually&lt;/b&gt; or in pairs.</example></word>
+<word str="industry" type="n"><phonetics>/ˈɪndəstri/</phonetics><example>She works in the travel &lt;b&gt;industry&lt;/b&gt;.</example></word>
+<word str="infection " type="n"><phonetics>/ɪnˈfekʃn/</phonetics><example>Wash the cut, or you might get an &lt;b&gt;infection&lt;/b&gt;.</example></word>
+<word str="infectious " type="adj "><phonetics>/ɪnˈfekʃəs/</phonetics><example>His enthusiasm is &lt;b&gt;infectious&lt;/b&gt;.</example></word>
+<word str="infinite" type="adj"><phonetics>/ˈɪnfɪnət/</phonetics><example>Space is &lt;b&gt;infinite&lt;/b&gt; – it doesn’t end.</example></word>
+<word str="influence " type="n"><phonetics>/ˈɪnfluəns/</phonetics><example>Her friends are a bad &lt;b&gt;influence&lt;/b&gt; on her.</example></word>
+<word str="influential " type="adj"><phonetics>/ˌɪnfluˈenʃl/</phonetics><example>Ghandi was a very &lt;b&gt;influential&lt;/b&gt; leader.</example></word>
+<word str="ingredient" type="n"><phonetics>/ɪnˈgriːdiənt/</phonetics><example>I bought the &lt;b&gt;ingredients&lt;/b&gt; to make a cake.</example></word>
+<word str="initially " type="adv"><phonetics>/ɪˈnɪʃəli/</phonetics><example>I didn&apos;t enjoy maths &lt;b&gt;initially&lt;/b&gt;, but now I love it!</example></word>
+<word str="injection" type="n"><phonetics>/ɪnˈdʒekʃn/</phonetics><example>I had an &lt;b&gt;injection&lt;/b&gt; to help with the pain.</example></word>
+<word str="inner city " type="n"><phonetics>/ˌɪnə ˈsɪti/</phonetics><example>The crime rate is high in the &lt;b&gt;inner city&lt;/b&gt;.</example></word>
+<word str="innocent " type="adj"><phonetics>/ˈɪnəsənt/</phonetics><example>He was found to be &lt;b&gt;innocent&lt;/b&gt; of the crime.</example></word>
+<word str="insane" type="adj"><phonetics>/ɪnˈseɪn/</phonetics><example>I felt as if I was going &lt;b&gt;insane&lt;/b&gt;.</example></word>
+<word str="insecure" type="adj"><phonetics>/ˌɪnsɪˈkjʊə(r)/</phonetics><example>She’s &lt;b&gt;insecure&lt;/b&gt; and has no confidence.</example></word>
+<word str="insoluble " type="adj"><phonetics>/ɪnˈsɒljəbl/</phonetics><example>Many of these problems are &lt;b&gt;insoluble&lt;/b&gt; – there is no answer.</example></word>
+<word str="install " type="v"><phonetics>/ɪnˈstɔːl/</phonetics><example>We decided to &lt;b&gt;install&lt;/b&gt; central heating into our house.</example></word>
+<word str="instantly " type="adv"><phonetics>/ˈɪnstəntli/</phonetics><example>When I met him, I knew &lt;b&gt;instantly&lt;/b&gt; that we were going to be friends.</example></word>
+<word str="institute " type="n"><phonetics>/ˈɪnstɪtjuːt/</phonetics><example>I studied at the London &lt;b&gt;Institute&lt;/b&gt; of Design.</example></word>
+<word str="introduce " type="v"><phonetics>/ˌɪntrəˈdjuːs/</phonetics><example>This new product was &lt;b&gt;introduced&lt;/b&gt; last month.</example></word>
+<word str="intruder " type="n"><phonetics>/ɪnˈtruːdə(r)/</phonetics><example>He found an&lt;b&gt; intruder&lt;/b&gt; in his house.</example></word>
+<word str="invest " type="v"><phonetics>/ɪnˈvest/</phonetics><example>She &lt;b&gt;invested&lt;/b&gt; her money in the business.</example></word>
+<word str="investigation " type="n"><phonetics>/ɪnˌvestɪˈgeɪʃn/</phonetics><example>The police will continue their &lt;b&gt;investigation&lt;/b&gt; until they discover the truth.</example></word>
+<word str="invoice" type="v"><phonetics>/ˈɪnˌvɔɪs/</phonetics><example>The company &lt;b&gt;invoiced&lt;/b&gt; me for the work they did.</example></word>
+<word str="involve" type="v"><phonetics>/ɪnˈvɒlv/</phonetics><example>Two men were &lt;b&gt;involved&lt;/b&gt; in the robbery.</example></word>
+<word str="iron" type="v"><phonetics>/ˈaɪən/</phonetics><example>My shirt is clean, but it needs to be &lt;b&gt;ironed&lt;/b&gt;.</example></word>
+<word str="irreplaceable" type="adj"><phonetics>/ˌɪrɪˈpleɪsəbl/</phonetics><example>Don’t break that vase – it’s &lt;b&gt;irreplaceable&lt;/b&gt;.</example></word>
+<word str="irresponsible " type="adj"><phonetics>/ɪrɪˈspɒnsəbl/</phonetics><example>It was &lt;b&gt;irresponsible&lt;/b&gt; to leave the children alone.</example></word>
+<word str="irritably " type="adv"><phonetics>/ˈɪrɪtəbli/</phonetics><example>&apos;Not now, I&apos;m busy,&apos; she said &lt;b&gt;irritably&lt;/b&gt;.</example></word>
+<word str="jail " type="v"><phonetics>/dʒeɪl/</phonetics><example>He was&lt;b&gt; jailed&lt;/b&gt; for three years.</example></word>
+<word str="jelly " type="n"><phonetics>/ˈdʒeli/</phonetics><example>The kids had ice cream and strawberry &lt;b&gt;jelly&lt;/b&gt;.</example></word>
+<word str="keep fit" type="v"><phonetics>/ˌkiːp ˈfɪt/</phonetics><example>He goes jogging to &lt;b&gt;keep fit&lt;/b&gt;.</example></word>
+<word str="keep quiet" type="v"><phonetics>/ˌkiːp ˈkwaɪət/</phonetics><example>He asked me to &lt;b&gt;keep quiet&lt;/b&gt; about his plans.</example></word>
+<word str="ketchup " type="n"><phonetics>/ˈketʃʌp/</phonetics><example>Would you like &lt;b&gt;ketchup&lt;/b&gt; with your chips?</example></word>
+<word str="kick " type="v"><phonetics>/kɪk/</phonetics><example>He &lt;b&gt;kicked&lt;/b&gt; the football.</example></word>
+<word str="kick up a fuss " type="v"><phonetics>/ˌkɪk ʌp ə ˈfʌs/</phonetics><example>We &lt;b&gt;kicked up a fuss&lt;/b&gt; when they sent us the wrong tickets.</example></word>
+<word str="kitchenware" type="n"><phonetics>/ˈkɪtʃənˌweə(r)/</phonetics><example>I bought a pan in the &lt;b&gt;kitchenware&lt;/b&gt; department.</example></word>
+<word str="kneel " type="v"><phonetics>/niːl/</phonetics><example>She&lt;b&gt; knelt&lt;/b&gt; down before the King.</example></word>
+<word str="knock over " type="v"><phonetics>/ˌnɒk ˈəʊvə(r)/</phonetics><example>Mind you don&apos;t &lt;b&gt;knock&lt;/b&gt; your drink &lt;b&gt;over&lt;/b&gt;.</example></word>
+<word str="knowledge" type="n"><phonetics>/ˈnɒlɪdʒ/</phonetics><example>Scientists are always trying to improve their &lt;b&gt;knowledge&lt;/b&gt;.</example></word>
+<word str="laboratory" type="n"><phonetics>/ləˈbɒrətri/</phonetics><example>The tests are carried out in our &lt;b&gt;laboratories&lt;/b&gt;.</example></word>
+<word str="lack " type="n"><phonetics>/læk/</phonetics><example>They were weak from &lt;b&gt;lack&lt;/b&gt; of food.</example></word>
+<word str="ladder " type="n"><phonetics>/ˈlædə(r)/</phonetics><example>He climbed up the &lt;b&gt;ladder&lt;/b&gt; onto the roof.</example></word>
+<word str="land" type="v"><phonetics>/lænd/</phonetics><example>Our plane &lt;b&gt;lands&lt;/b&gt; at Heathrow at two o’clock.</example></word>
+<word str="laptop" type="n"><phonetics>/ˈlæptɒp/</phonetics><example>You can use your &lt;b&gt;laptop&lt;/b&gt; on the train.</example></word>
+<word str="launch " type="v"><phonetics>/lɔːntʃ/</phonetics><example>They&apos;re &lt;b&gt;launching&lt;/b&gt; a new product next week.</example></word>
+<word str="laundry " type="n"><phonetics>/ˈlɔːndri/</phonetics><example>His mother still cleans for him and does his &lt;b&gt;laundry&lt;/b&gt;.</example></word>
+<word str="lavish" type="adj"><phonetics>/ˈlævɪʃ/</phonetics><example>He gave her many &lt;b&gt;lavish&lt;/b&gt; presents.</example></word>
+<word str="law-breaker " type="n"><phonetics>/ˈlɔːbreɪkə(r)/</phonetics><example>Thieves and murderers are &lt;b&gt;law-breakers&lt;/b&gt;.</example></word>
+<word str="leadership " type="n"><phonetics>/ˈliːdəʃɪp/</phonetics><example>A change of &lt;b&gt;leadership&lt;/b&gt; is needed in the team.</example></word>
+<word str="lecture " type="n"><phonetics>/ˈlektʃə(r)/</phonetics><example>Some students only have five or six &lt;b&gt;lectures&lt;/b&gt; a week.</example></word>
+<word str="lentils" type="pl n"><phonetics>/ˈlentlz/</phonetics><example>We had meat with &lt;b&gt;lentils&lt;/b&gt;.</example></word>
+<word str="letter box " type="n"><phonetics>/ˈletə(r) ˌbɒks/</phonetics><example>A letter came through the &lt;b&gt;letter box&lt;/b&gt;.</example></word>
+<word str="liar " type="n"><phonetics>/ˈlaɪə(r)/</phonetics><example>He&apos;s not telling the truth – he&apos;s a &lt;b&gt;liar&lt;/b&gt;!</example></word>
+<word str="lick " type="v"><phonetics>/lɪk/</phonetics><example>The dog &lt;b&gt;licked&lt;/b&gt; my hand.</example></word>
+<word str="lifeboat " type="n"><phonetics>/ˈlaifbəʊt/</phonetics><example>&lt;b&gt;Lifeboats&lt;/b&gt; were sent to look for the missing sailors.</example></word>
+<word str="lifeguard" type="n"><phonetics>/ˈlaɪfgɑːd/</phonetics><example>The &lt;b&gt;lifeguard&lt;/b&gt; dived into the sea to save her.</example></word>
+<word str="lifeless" type="adj"><phonetics>/ˈlaɪfləs/</phonetics><example>She looked pale and &lt;b&gt;lifeless&lt;/b&gt;.</example></word>
+<word str="lifestyle " type="n"><phonetics>/ˈlaɪfstaɪl/</phonetics><example>He eats well and has a healthy &lt;b&gt;lifestyle&lt;/b&gt;.</example></word>
+<word str="lifetime" type="n"><phonetics>/ˈlaɪftaɪm/</phonetics><example>These changes won’t happen in my &lt;b&gt;lifetime&lt;/b&gt;.</example></word>
+<word str="lift" type="n"><phonetics>/lɪft/</phonetics><example>The &lt;b&gt;lift&lt;/b&gt; wasn&apos;t working so we took the stairs.</example></word>
+<word str="light " type="v"><phonetics>/laɪt/</phonetics><example>It was cold so we &lt;b&gt;lit&lt;/b&gt; a fire.</example></word>
+<word str="lightning " type="n"><phonetics>/ˈlaɪtnɪŋ/</phonetics><example>There was a storm, with thunder and &lt;b&gt;lightning&lt;/b&gt;.</example></word>
+<word str="lightning conductor " type="n"><phonetics>/ˈlaɪtnɪŋ kənˈdʌktə(r)/</phonetics><example>There is always a &lt;b&gt;lightning conductor&lt;/b&gt; on the top of a tall building.</example></word>
+<word str="like chalk and cheese" type=""><phonetics>/laɪk ˌtʃɔːk ən ˈtʃiːz/</phonetics><example>We’re completely different, &lt;b&gt;like chalk and cheese&lt;/b&gt;.</example></word>
+<word str="limb" type="n"><phonetics>/lɪm/</phonetics><example>Some people lost &lt;b&gt;limbs&lt;/b&gt; in the explosion.</example></word>
+<word str="limit " type="n"><phonetics>/ˈlɪmɪt/</phonetics><example>What&apos;s the speed &lt;b&gt;limit&lt;/b&gt; on this road?</example></word>
+<word str="linen" type="n"><phonetics>/ˈlɪnɪn/</phonetics><example>They sell towels and bed &lt;b&gt;linen&lt;/b&gt;.</example></word>
+<word str="liquor" type="n"><phonetics>/ˈlɪkə(r)/</phonetics><example>Children under 18 cannot buy intoxicating &lt;b&gt;liquors&lt;/b&gt;.</example></word>
+<word str="litter bin " type="n"><phonetics>/ˈlɪtə(r) ˌbɪn/</phonetics><example>She put her old ticket in the &lt;b&gt;litter bin&lt;/b&gt;.</example></word>
+<word str="lively" type="adj"><phonetics>/ˈlaɪvli/</phonetics><example>It’s quite a &lt;b&gt;lively&lt;/b&gt; town – there’s lots to do.</example></word>
+<word str="loathe " type="v"><phonetics>/ləʊð/</phonetics><example>I &lt;b&gt;loathe&lt;/b&gt; that man – he&apos;s awful!</example></word>
+<word str="locate " type="v"><phonetics>/ləʊˈkeɪt/</phonetics><example>The police have &lt;b&gt;located&lt;/b&gt; the stolen car.</example></word>
+<word str="log onto " type="v"><phonetics>/ˌlɒg ˈɒntu/</phonetics><example>For more information, &lt;b&gt;log onto&lt;/b&gt; the BBC website.</example></word>
+<word str="long jump " type="n"><phonetics>/ˈlɒŋ dʒʌmp/</phonetics><example>In &lt;b&gt;long jump&lt;/b&gt;, you try to jump as far as you can.</example></word>
+<word str="long-lasting" type="adj"><phonetics>/ˌlɒŋˈlɑːstɪŋ/</phonetics><example>They had a &lt;b&gt;long-lasting&lt;/b&gt; relationship.</example></word>
+<word str="longhand " type="n"><phonetics>/ˈlɒŋhænd/</phonetics><example>I don&apos;t like writing in &lt;b&gt;longhand&lt;/b&gt; – I prefer to work on a computer.</example></word>
+<word str="look like " type="v"><phonetics>/ˈlʊk ˌlaɪk/</phonetics><example>&apos;What&apos;s that?&apos; &apos;I don&apos;t know. It &lt;b&gt;looks like&lt;/b&gt; a bird.&apos;</example></word>
+<word str="lottery " type="n"><phonetics>/ˈlɒtəri/</phonetics><example>Are you going to buy a &lt;b&gt;lottery&lt;/b&gt; ticket? You might win!</example></word>
+<word str="low-fat" type="adj"><phonetics>/ˌləʊˈfæt/</phonetics><example>She only eats &lt;b&gt;low-fat&lt;/b&gt; yoghurt.</example></word>
+<word str="lower " type="v"><phonetics>/ˈləʊw ə/</phonetics><example>She &lt;b&gt;lowered&lt;/b&gt; her voice to a whisper.</example></word>
+<word str="loyalty" type="n"><phonetics>/ˈlɔɪəlti/</phonetics><example>She showed great &lt;b&gt;loyalty&lt;/b&gt; by continuing to support her friend.</example></word>
+<word str="lump " type="n"><phonetics>/lʌmp/</phonetics><example>She put another &lt;b&gt;lump&lt;/b&gt; of coal on the fire.</example></word>
+<word str="madly" type="adv"><phonetics>/ˈmædli/</phonetics><example>I was &lt;b&gt;madly&lt;/b&gt; jealous of her new shoes.</example></word>
+<word str="madness" type="n"><phonetics>/ˈmædnəs/</phonetics><example>It would be &lt;b&gt;madness&lt;/b&gt; to pay so much money!</example></word>
+<word str="maid" type="n"><phonetics>/meɪd/</phonetics><example>&lt;b&gt;Maids&lt;/b&gt; make the beds and tidy the rooms.</example></word>
+<word str="maiden voyage " type="n"><phonetics>/ˌmeɪdn ˈvɔɪɪdʒ/</phonetics><example>The ship set off on its &lt;b&gt;maiden voyage&lt;/b&gt; in 1912.</example></word>
+<word str="major" type="adj"><phonetics>/ˈmeɪdʒə(r)/</phonetics><example>Pollution is a &lt;b&gt;major&lt;/b&gt; problem in many cities.</example></word>
+<word str="make" type="n"><phonetics>/meɪk/</phonetics><example>The police asked him if he could remember the &lt;b&gt;make&lt;/b&gt; and model of the car.</example></word>
+<word str="make a scene " type="v"><phonetics>/ˌmeɪk ə ˈsiːn/</phonetics><example>She was shouting and &lt;b&gt;making a&lt;/b&gt; terrible &lt;b&gt;scene&lt;/b&gt;.</example></word>
+<word str="make sth up " type="v"><phonetics>/ˌmeɪk ... ˈʌp/</phonetics><example>Is that true, or did you &lt;b&gt;make it up&lt;/b&gt;?</example></word>
+<word str="make up (w sb) " type="v"><phonetics>/ˌmeɪk ˈʌp/</phonetics><example>We had a row last night, but we &lt;b&gt;made up&lt;/b&gt; afterwards.</example></word>
+<word str="make your mark " type="v"><phonetics>/ˌmeɪk jɔː ˈmɑːk/</phonetics><example>He wants to &lt;b&gt;make his mark&lt;/b&gt; in Hollywood.</example></word>
+<word str="male " type="n"><phonetics>/meɪl/</phonetics><example>The &lt;b&gt;males&lt;/b&gt; are usually bigger than the females.</example></word>
+<word str="mammal" type="n"><phonetics>/ˈmæml/</phonetics><example>Dogs and cats are &lt;b&gt;mammals&lt;/b&gt;.</example></word>
+<word str="managing director" type="n"><phonetics>/ˌmænɪdʒɪŋ dəˈrektə(r)/</phonetics><example>The &lt;b&gt;managing director&lt;/b&gt; is head of the company.</example></word>
+<word str="mankind" type="n"><phonetics>/mænˈkaɪnd/</phonetics><example>This problem will affect all &lt;b&gt;mankind&lt;/b&gt;.</example></word>
+<word str="manpower " type="n"><phonetics>/ˈmænpaʊə(r)/</phonetics><example>The company needs more skilled &lt;b&gt;manpower&lt;/b&gt;.</example></word>
+<word str="many happy returns" type=""><phonetics>/ˌmeni ˌhæpi rɪˈtɜːnz/</phonetics><example>It was my birthday, so everyone wished me &lt;b&gt;many happy returns&lt;/b&gt;.</example></word>
+<word str="marvel" type="n"><phonetics>/ˈmɑːvl/</phonetics><example>The film shows the &lt;b&gt;marvels&lt;/b&gt; of nature.</example></word>
+<word str="massage" type="n"><phonetics>/ˈmæsɑːʒ/</phonetics><example>I had a neck &lt;b&gt;massage&lt;/b&gt; to relax me.</example></word>
+<word str="match" type="n"><phonetics>/mætʃ/</phonetics><example>Did you see the Chelsea &lt;b&gt;match&lt;/b&gt; last night?</example></word>
+<word str="measles " type="n"><phonetics>/ˈmiːzlz/</phonetics><example>Both the children are ill, they&apos;ve got &lt;b&gt;measles&lt;/b&gt;.</example></word>
+<word str="medical" type="adj"><phonetics>/ˈmedɪkl/</phonetics><example>She’s studying for a &lt;b&gt;medical&lt;/b&gt; degree.</example></word>
+<word str="medieval " type="adj"><phonetics>/ˌmediˈiːvl/</phonetics><example>People lived in castles in &lt;b&gt;medieval&lt;/b&gt; times.</example></word>
+<word str="mediocre " type="adj"><phonetics>/ˌmiːdiˈəʊkə(r)/</phonetics><example>I don&apos;t think his books are good – I think they&apos;re &lt;b&gt;mediocre&lt;/b&gt;.</example></word>
+<word str="meditate" type="v"><phonetics>/ˈmedɪteɪt/</phonetics><example>I do yoga and I &lt;b&gt;meditate&lt;/b&gt; to relax.</example></word>
+<word str="medium height" type="n"><phonetics>/ˈmiːdiəm ˌhaɪt/</phonetics><example>He’s not very tall – just &lt;b&gt;medium height&lt;/b&gt;.</example></word>
+<word str="melt" type="v"><phonetics>/melt/</phonetics><example>The chocolate had &lt;b&gt;melted&lt;/b&gt; in the sun.</example></word>
+<word str="memo" type="n"><phonetics>/ˈmeməʊ/</phonetics><example>He sent me a &lt;b&gt;memo&lt;/b&gt; about the meeting.</example></word>
+<word str="menace" type="n"><phonetics>/ˈmenɪs/</phonetics><example>Bad drivers are a &lt;b&gt;menace&lt;/b&gt; on the roads!</example></word>
+<word str="mesmerize " type="v"><phonetics>/ˈmezməraɪz/</phonetics><example>I was &lt;b&gt;mesmerized &lt;/b&gt;by the movement of her hands.</example></word>
+<word str="meteorologist" type="n"><phonetics>/ˌmiːtiəˈrɒlədʒɪst/</phonetics><example>&lt;b&gt;Meteorologists&lt;/b&gt; study the weather.</example></word>
+<word str="method " type="n"><phonetics>/ˈmeθəd/</phonetics><example>What is the best &lt;b&gt;method&lt;/b&gt; of punishing criminals?</example></word>
+<word str="migraine " type="n"><phonetics>/ˈmiːgreɪn/</phonetics><example>A &lt;b&gt;migraine&lt;/b&gt; is a very bad headache.</example></word>
+<word str="mild" type="adj"><phonetics>/maɪld/</phonetics><example>You don’t need a coat – it’s quite &lt;b&gt;mild&lt;/b&gt; today.</example></word>
+<word str="militant " type="adj"><phonetics>/ˈmɪlɪtənt/</phonetics><example>The leader is very &lt;b&gt;militant&lt;/b&gt; – he&apos;s prepared to use any means to achieve what he wants.</example></word>
+<word str="military " type="adj"><phonetics>/ˈmɪlətri/</phonetics><example>He decided on a &lt;b&gt;military&lt;/b&gt; career.</example></word>
+<word str="military service" type="n"><phonetics>/ˌmɪlətri ˈsɜːvɪs/</phonetics><example>He had to do a year’s &lt;b&gt;military service&lt;/b&gt; in the army.</example></word>
+<word str="mimic " type="v"><phonetics>/ˈmɪmɪk/</phonetics><example>Some birds can &lt;b&gt;mimic&lt;/b&gt; sounds that they hear.</example></word>
+<word str="minced meat" type="n"><phonetics>/ˌmɪnst ˈmiːt/</phonetics><example>I make spaghetti bolognese with &lt;b&gt;minced meat&lt;/b&gt;.</example></word>
+<word str="mind your own business " type=""><phonetics>/ˌmaɪnd /jə(r)/ əʊn ˈbɪznəs/</phonetics><example>I was just sitting there, &lt;b&gt;minding my own business&lt;/b&gt;.</example></word>
+<word str="mineral water " type="n"><phonetics>/ˈmɪnərəl ˌwɔːtə(r)/</phonetics><example>A sparkling &lt;b&gt;mineral water&lt;/b&gt;, please.</example></word>
+<word str="mission" type="n"><phonetics>/ˈmɪʃn/</phonetics><example>They are planning a &lt;b&gt;mission&lt;/b&gt; to Venus.</example></word>
+<word str="missionary" type="n"><phonetics>/ˈmɪʃənri/</phonetics><example>Saint Patrick was a Christian &lt;b&gt;missionary&lt;/b&gt;.</example></word>
+<word str="mix" type="v"><phonetics>/mɪks/</phonetics><example>&lt;b&gt;Mix&lt;/b&gt; the sugar and butter together.</example></word>
+<word str="mob " type="n"><phonetics>/mɒb/</phonetics><example>The angry &lt;b&gt;mob&lt;/b&gt; marched down the street.</example></word>
+<word str="modernize" type="v"><phonetics>/ˈmɒdənaɪz/</phonetics><example>The old theatre was &lt;b&gt;modernized&lt;/b&gt; last year.</example></word>
+<word str="monarch" type="n"><phonetics>/ˈmɒnək/</phonetics><example>Who was the British &lt;b&gt;monarch&lt;/b&gt; before Elizabeth II?</example></word>
+<word str="morals" type="pl n"><phonetics>/ˈmɒrəlz/</phonetics><example>This behaviour was not acceptable to the &lt;b&gt;morals&lt;/b&gt; of that time.</example></word>
+<word str="motivation " type="n"><phonetics>/ˌməʊtɪˈveɪʃn/</phonetics><example>Making money was his only &lt;b&gt;motivation&lt;/b&gt;.</example></word>
+<word str="motive " type="n"><phonetics>/ˈməʊtɪv/</phonetics><example>His &lt;b&gt;motive&lt;/b&gt; for the murder was money.</example></word>
+<word str="motorbike " type="n"><phonetics>/ˈməʊtəbaɪk/</phonetics><example>A lot of people use &lt;b&gt;motorbikes&lt;/b&gt; in cities.</example></word>
+<word str="motorway " type="n"><phonetics>/ˈməʊtəweɪ/</phonetics><example>Driving on a &lt;b&gt;motorway&lt;/b&gt; is quicker than driving on small roads.</example></word>
+<word str="mouth (of a river) " type="n"><phonetics>/maʊθ əv ə rɪvə/</phonetics><example>The &lt;b&gt;mouth of the river&lt;/b&gt; Severn is enormous.</example></word>
+<word str="move" type="v"><phonetics>/muːv/</phonetics><example>My family &lt;b&gt;moved&lt;/b&gt; to London when I was two.</example></word>
+<word str="mud" type="n"><phonetics>/mʌd/</phonetics><example>His boots were covered in &lt;b&gt;mud&lt;/b&gt;.</example></word>
+<word str="musical " type="n"><phonetics>/ˈmjuːzɪkl/</phonetics><example>He&apos;s starring in a new &lt;b&gt;musical&lt;/b&gt; on Broadway.</example></word>
+<word str="myth " type="n"><phonetics>/mɪθ/</phonetics><example>It&apos;s not true that women are worse drivers than men – it&apos;s a &lt;b&gt;myth&lt;/b&gt;.</example></word>
+<word str="nail " type="n"><phonetics>/neɪl/</phonetics><example>He banged some &lt;b&gt;nails&lt;/b&gt; into the wall.</example></word>
+<word str="name " type="v"><phonetics>/neɪm/</phonetics><example>They &lt;b&gt;named&lt;/b&gt; John as their leader.</example></word>
+<word str="natural selection " type="n"><phonetics>/ˌnætrəl sɪˈlekʃn//</phonetics><example>The strongest animals survive through &lt;b&gt;natural selection&lt;/b&gt;.</example></word>
+<word str="naturally " type="adv"><phonetics>/ˈnætʃrəli/</phonetics><example>They were very close, so &lt;b&gt;naturally&lt;/b&gt; she&apos;s upset that they&apos;ve broken up.</example></word>
+<word str="nature" type="n"><phonetics>/ˈneɪtʃə(r)/</phonetics><example>He had problems of a medical &lt;b&gt;nature&lt;/b&gt;.</example></word>
+<word str="naïve" type="adj"><phonetics>/naɪˈiːv/</phonetics><example>She’s very &lt;b&gt;naïve&lt;/b&gt; and will trust anyone.</example></word>
+<word str="negotiate" type="v"><phonetics>/nɪˈgəʊʃieɪt/</phonetics><example>They are trying to &lt;b&gt;negotiate&lt;/b&gt; a pay increase.</example></word>
+<word str="Net " type="n"><phonetics>/net/</phonetics><example>The &lt;b&gt;Net&lt;/b&gt; is the Internet.</example></word>
+<word str="newsagent " type="n"><phonetics>/ˈnjuːzeɪdʒənt/</phonetics><example>I bought a newspaper from the &lt;b&gt;newsagent&lt;/b&gt;.</example></word>
+<word str="nickname " type="n"><phonetics>/ˈnɪkneɪm/</phonetics><example>My school friends gave me the &lt;b&gt;nickname&lt;/b&gt; &apos;Snoopy&apos;.</example></word>
+<word str="night-life" type="n"><phonetics>/ˈnaɪtlaɪf/</phonetics><example>The &lt;b&gt;night-life&lt;/b&gt; is great – lots of bars and clubs.</example></word>
+<word str="nightmare" type="n"><phonetics>/ˈnaɪtmeə(r)/</phonetics><example>I had a terrible &lt;b&gt;nightmare&lt;/b&gt; last night.</example></word>
+<word str="No kidding! " type=""><phonetics>/ˌnəʊ ˈkɪdɪŋ/</phonetics><example>&apos;We won!&apos; &apos;&lt;b&gt;No kidding&lt;/b&gt;! That&apos;s brilliant!&apos;</example></word>
+<word str="nobleman" type="n"><phonetics>/ˈnəʊblmən/</phonetics><example>She wanted to marry a rich &lt;b&gt;nobleman&lt;/b&gt;.</example></word>
+<word str="notice board " type="n"><phonetics>/ˈnəʊtisbɔːd/</phonetics><example>Information about classes is on the &lt;b&gt;notice board&lt;/b&gt;.</example></word>
+<word str="notion " type="n"><phonetics>/ˈnəʊʃn/</phonetics><example>They don&apos;t accept the &lt;b&gt;notion&lt;/b&gt; that all people are equal.</example></word>
+<word str="nuclear energy" type="n"><phonetics>/ˌnjuːklɪə(r) ˈenədʒi/</phonetics><example>Some electricity is produced by &lt;b&gt;nuclear energy&lt;/b&gt;.</example></word>
+<word str="numerous " type="adj"><phonetics>/ˈnjuːmərəs/</phonetics><example>I can&apos;t come tomorrow, for &lt;b&gt;numerous&lt;/b&gt; reasons.</example></word>
+<word str="observe " type="v"><phonetics>/əbˈsɜːv/</phonetics><example>The police &lt;b&gt;observed&lt;/b&gt; them secretly through hidden cameras.</example></word>
+<word str="obsession " type="n"><phonetics>/əbˈseʃn/</phonetics><example>He&apos;s got an &lt;b&gt;obsession&lt;/b&gt; with money – he thinks about it all the time.</example></word>
+<word str="obviously " type="adv"><phonetics>/ˈɒbviəsli/</phonetics><example>It&apos;s raining, so &lt;b&gt;obviously&lt;/b&gt; we can&apos;t play tennis.</example></word>
+<word str="occupy" type="v"><phonetics>/ˈɒkjupaɪ/</phonetics><example>He was &lt;b&gt;occupied&lt;/b&gt; with work all afternoon.</example></word>
+<word str="on the mend" type=""><phonetics>/ˌɒn ðə ˈmend/</phonetics><example>I’ve been ill, but I’m &lt;b&gt;on the mend&lt;/b&gt; now.</example></word>
+<word str="on tiptoe " type=""><phonetics>/ɒn ˈtɪptəʊ/</phonetics><example>I had to stand &lt;b&gt;on tiptoe&lt;/b&gt; to reach the top shelf.</example></word>
+<word str="once and for all " type=""><phonetics>/ˌwʌns ənd fə(r) ˈɔːl/</phonetics><example>We need to agree &lt;b&gt;once and for all&lt;/b&gt;.</example></word>
+<word str="online dating " type="n"><phonetics>/ˌɒnlaɪn ˈdeɪtɪŋ/</phonetics><example>She met her husband on an &lt;b&gt;online dating&lt;/b&gt; website.</example></word>
+<word str="onscreen " type="n"><phonetics>/ˌɒnˈskriːn/</phonetics><example>You can read books and watch films &lt;b&gt;onscreen&lt;/b&gt;.</example></word>
+<word str="open" type="adj"><phonetics>/ˈəʊpən/</phonetics><example>He didn&apos;t think he would enjoy it, but he tried to keep an &lt;b&gt;open&lt;/b&gt; mind.</example></word>
+<word str="operate " type="v"><phonetics>/ˈɒpəreɪt/</phonetics><example>Doctors &lt;b&gt;operated&lt;/b&gt; to save his leg.</example></word>
+<word str="opponent " type="n"><phonetics>/əˈpəʊnənt/</phonetics><example>He has a lot of supporters, but also some &lt;b&gt;opponents&lt;/b&gt;.</example></word>
+<word str="optical illusion " type="n"><phonetics>/ˌɒptɪkl ɪˈluːʒn/</phonetics><example>I thought there was water on the road, but it was just an &lt;b&gt;optical illusion&lt;/b&gt;.</example></word>
+<word str="optimist" type="n"><phonetics>/ˈɒptɪmɪst/</phonetics><example>He’s an &lt;b&gt;optimist&lt;/b&gt; – he’s always cheerful.</example></word>
+<word str="orbit" type="n"><phonetics>/ˈɔːbɪt/</phonetics><example>There are many satellites in &lt;b&gt;orbit&lt;/b&gt; around the Earth.</example></word>
+<word str="orchard" type="n"><phonetics>/ˈɔːtʃəd/</phonetics><example>They’ve got an &lt;b&gt;orchard&lt;/b&gt; of apple trees.</example></word>
+<word str="ordinary " type="adj"><phonetics>/ˈɔːdnri/</phonetics><example>It looks like an &lt;b&gt;ordinary&lt;/b&gt; car, but in fact it&apos;s a boat as well.</example></word>
+<word str="organ" type="n"><phonetics>/ˈɔːgən/</phonetics><example>Doctors can transplant &lt;b&gt;organs&lt;/b&gt; such as the heart and liver.</example></word>
+<word str="organic" type="adj"><phonetics>/ɔːˈgænɪk/</phonetics><example>&lt;b&gt;Organic&lt;/b&gt; food is grown without chemicals.</example></word>
+<word str="originate " type="v"><phonetics>/əˈrɪdʒɪneɪt/</phonetics><example>The pollution &lt;b&gt;originates&lt;/b&gt; in the factory.</example></word>
+<word str="orphan " type="n"><phonetics>/ˈɔːfn/</phonetics><example>She became an &lt;b&gt;orphan&lt;/b&gt; at the age of 12, when her parents died.</example></word>
+<word str="out of work" type=""><phonetics>/ˌaʊt əv ˈwɜːk/</phonetics><example>There are no jobs, so a lot of people are &lt;b&gt;out of work&lt;/b&gt;.</example></word>
+<word str="outburst " type="n"><phonetics>/ˈaʊtbɜːst/</phonetics><example>I was surprised by her &lt;b&gt;outburst&lt;/b&gt; of emotion.</example></word>
+<word str="outdated " type="adj"><phonetics>/ˌaʊtˈdeɪtɪd/</phonetics><example>These ideas seem &lt;b&gt;outdated&lt;/b&gt; now.</example></word>
+<word str="over the moon " type=""><phonetics>/ˌəʊvə ðə ˈmuːn/</phonetics><example>We were &lt;b&gt;over the moon&lt;/b&gt; when we won.</example></word>
+<word str="overcome " type="v"><phonetics>/ˌəʊvəˈkʌm/</phonetics><example>He had to &lt;b&gt;overcome&lt;/b&gt; many problems.</example></word>
+<word str="overdrawn " type="adj"><phonetics>/ˌəʊvəˈdrɔːn/</phonetics><example>I haven&apos;t got any money – my bank account is £35 &lt;b&gt;overdrawn&lt;/b&gt;.</example></word>
+<word str="oversleep " type="v"><phonetics>/ˌəʊvəˈsliːp/</phonetics><example>I &lt;b&gt;overslept&lt;/b&gt; and was late for work.</example></word>
+<word str="overweight " type="adj"><phonetics>/ˌəʊvəˈweɪt/</phonetics><example>If you eat too much, you will become &lt;b&gt;overweight&lt;/b&gt;.</example></word>
+<word str="overwhelmed" type="adj"><phonetics>/ˌəʊvəˈwelmd/</phonetics><example>She was &lt;b&gt;overwhelmed&lt;/b&gt; with joy.</example></word>
+<word str="oxygen " type="n"><phonetics>/ˈɒksɪdʒən/</phonetics><example>We need to breathe &lt;b&gt;oxygen&lt;/b&gt; to stay alive.</example></word>
+<word str="oyster " type="n"><phonetics>/ˈɔɪstə(r)/</phonetics><example>We had &lt;b&gt;oysters&lt;/b&gt; as a starter.</example></word>
+<word str="painkiller" type="n"><phonetics>/ˈpeɪnkɪlə(r)/</phonetics><example>I took a &lt;b&gt;painkiller&lt;/b&gt; for my headache.</example></word>
+<word str="panic " type="v"><phonetics>/ˈpænɪk/</phonetics><example>I &lt;b&gt;panicked&lt;/b&gt; when I saw the fire.</example></word>
+<word str="panoramic" type="adj"><phonetics>/ˌpænəˈræmɪk/</phonetics><example>The room has a &lt;b&gt;panoramic&lt;/b&gt; view of the lake.</example></word>
+<word str="paradise" type="n"><phonetics>/ˈpærədaɪs/</phonetics><example>The island is perfect – a &lt;b&gt;paradise&lt;/b&gt;!</example></word>
+<word str="parallel" type="adj"><phonetics>/ˈpærəlel/</phonetics><example>A square has two pairs of &lt;b&gt;parallel&lt;/b&gt; lines.</example></word>
+<word str="parrot " type="n"><phonetics>/ˈpærət/</phonetics><example>&lt;b&gt;Parrots&lt;/b&gt; are colourful and live in tropical jungles.</example></word>
+<word str="pass " type="n"><phonetics>/pɑːs/</phonetics><example>There is a narrow &lt;b&gt;pass&lt;/b&gt; over the mountains.</example></word>
+<word str="passer-by " type="n"><phonetics>/ˌpɑːsəˈbaɪ/</phonetics><example>She fell in the street, and a &lt;b&gt;passer-by&lt;/b&gt; helped her.</example></word>
+<word str="passionate " type="adj"><phonetics>/ˈpæʃənət/</phonetics><example>He&apos;s &lt;b&gt;passionate&lt;/b&gt; about music – he loves it.</example></word>
+<word str="password " type="n"><phonetics>/ˈpɑːswɜːd/</phonetics><example>You can&apos;t open his files unless you have his &lt;b&gt;password&lt;/b&gt;.</example></word>
+<word str="pay attention" type=""><phonetics>/ˌpeɪ əˈtenʃn/</phonetics><example>This is important, so &lt;b&gt;pay attention&lt;/b&gt;.</example></word>
+<word str="payment" type="n"><phonetics>/ˈpeɪmənt/</phonetics><example>They accept &lt;b&gt;payment&lt;/b&gt; by credit card.</example></word>
+<word str="peace" type="n"><phonetics>/piːs/</phonetics><example>After 20 years of war, everyone is ready for &lt;b&gt;peace&lt;/b&gt;.</example></word>
+<word str="peel" type="v"><phonetics>/piːl/</phonetics><example>&lt;b&gt;Peel&lt;/b&gt; and chop the apples.</example></word>
+<word str="penniless " type="adj"><phonetics>/ˈpeniləs/</phonetics><example>I&apos;ve spent all my money – I&apos;m &lt;b&gt;penniless&lt;/b&gt;!</example></word>
+<word str="penthouse " type="n"><phonetics>/ˈpenthaʊs/</phonetics><example>He lives in an expensive &lt;b&gt;penthouse&lt;/b&gt; apartment.</example></word>
+<word str="perfectly " type="adv"><phonetics>/ˈpɜːfektli/</phonetics><example>Her arrival was &lt;b&gt;perfectly&lt;/b&gt; timed.</example></word>
+<word str="perish " type="v"><phonetics>/ˈperɪʃ/</phonetics><example>Thousands of men &lt;b&gt;perished&lt;/b&gt; during the war.</example></word>
+<word str="permafrost" type="n"><phonetics>/ˈpɜːməfrɒst/</phonetics><example>&lt;b&gt;Permafrost&lt;/b&gt; is ground that is always frozen.</example></word>
+<word str="permissible" type="adj"><phonetics>/pəˈmɪsəbl/</phonetics><example>It is not &lt;b&gt;permissible&lt;/b&gt; to use mobile phones during exams.</example></word>
+<word str="personally " type="adv"><phonetics>/ˈpɜːsənəli/</phonetics><example>This car&apos;s quite popular, but &lt;b&gt;personally&lt;/b&gt; I don&apos;t like it.</example></word>
+<word str="personnel" type="n"><phonetics>/ˌpɜːsəˈnel/</phonetics><example>We need to recruit some new sales &lt;b&gt;personnel&lt;/b&gt;.</example></word>
+<word str="persuade " type="v"><phonetics>/pəˈsweɪd/</phonetics><example>I wanted to stay at home, but Tim &lt;b&gt;persuaded&lt;/b&gt; me to go to the cinema with him.</example></word>
+<word str="pessimist" type="n"><phonetics>/ˈpesɪmɪst/</phonetics><example>Don’t be such a &lt;b&gt;pessimist&lt;/b&gt; – it will be fine!</example></word>
+<word str="philosopher " type="n"><phonetics>/fɪˈlɒsəfə(r)/</phonetics><example>Socrates was a famous &lt;b&gt;philosopher&lt;/b&gt;.</example></word>
+<word str="phobia " type="n"><phonetics>/ˈfəʊbiə/</phonetics><example>I&apos;ve got a &lt;b&gt;phobia&lt;/b&gt; of spiders – I&apos;m terrified of them!</example></word>
+<word str="phoenix " type="n"><phonetics>/ˈfiːnɪks/</phonetics><example>In stories, the &lt;b&gt;phoenix&lt;/b&gt; is a bird that rose up again from the ashes of a fire.</example></word>
+<word str="phone in " type="v"><phonetics>/ˌfəʊn ˈɪn/</phonetics><example>People can &lt;b&gt;phone in&lt;/b&gt; to the show.</example></word>
+<word str="pick up" type="v"><phonetics>/ˌpɪk ˈʌp/</phonetics><example>I &lt;b&gt;picked up&lt;/b&gt; some interesting information.</example></word>
+<word str="pill" type="n"><phonetics>/pɪl/</phonetics><example>The doctor gave me some &lt;b&gt;pills&lt;/b&gt;.</example></word>
+<word str="pitch-black " type="adj"><phonetics>/ˌpɪtʃ ˈblæk/</phonetics><example>It was &lt;b&gt;pitch-black&lt;/b&gt; outside.</example></word>
+<word str="plain " type="n"><phonetics>/pleɪn/</phonetics><example>Lions live on the &lt;b&gt;plains&lt;/b&gt; of Africa.</example></word>
+<word str="planet " type="n"><phonetics>/ˈplænɪt/</phonetics><example>How many &lt;b&gt;planets&lt;/b&gt; are there in our solar system?</example></word>
+<word str="plant" type="v"><phonetics>/plɑːnt/</phonetics><example>I’m going to &lt;b&gt;plant&lt;/b&gt; a rose in the garden.</example></word>
+<word str="play truant " type="v"><phonetics>/ˌpleɪ ˈtruːənt/</phonetics><example>Some children decide to &lt;b&gt;play truant&lt;/b&gt; and not go to school.</example></word>
+<word str="playground " type="n"><phonetics>/ˈpleɪgraʊnd/</phonetics><example>The children were playing in the &lt;b&gt;playground&lt;/b&gt;.</example></word>
+<word str="pleasurable" type="adj"><phonetics>/ˈpleʒərəbl/</phonetics><example>It was a very &lt;b&gt;pleasurable&lt;/b&gt; trip.</example></word>
+<word str="plumbing " type="n"><phonetics>/ˈplʌmɪŋ/</phonetics><example>The &lt;b&gt;plumbing&lt;/b&gt; is awful – there&apos;s never any hot water!</example></word>
+<word str="point of view" type="n"><phonetics>/ˌpɔɪnt əv ˈvjuː/</phonetics><example>Everyone has a different &lt;b&gt;point of view&lt;/b&gt; on this issue.</example></word>
+<word str="poison" type="n"><phonetics>/ˈpɔɪzn/</phonetics><example>We killed the rats with &lt;b&gt;poison&lt;/b&gt;.</example></word>
+<word str="poisonous " type="adj"><phonetics>/ˈpɔɪzənəs/</phonetics><example>Don&apos;t eat those mushrooms – they&apos;re &lt;b&gt;poisonous&lt;/b&gt;.</example></word>
+<word str="politician" type="n"><phonetics>/ˌpɒləˈtɪʃn/</phonetics><example>&lt;b&gt;Politicians&lt;/b&gt; must find an answer to the problem of global warming.</example></word>
+<word str="porcelain" type="n"><phonetics>/ˈpɔːsəlɪn/</phonetics><example>Most plates are made of &lt;b&gt;porcelain&lt;/b&gt;.</example></word>
+<word str="porter" type="n"><phonetics>/ˈpɔːtə(r)/</phonetics><example>The &lt;b&gt;porter&lt;/b&gt; carried our bags for us.</example></word>
+<word str="portray" type="v"><phonetics>/pɔːˈtreɪ/</phonetics><example>He is &lt;b&gt;portrayed&lt;/b&gt; as a selfish character.</example></word>
+<word str="poster " type="n"><phonetics>/ˈpəʊstə(r)/</phonetics><example>She&apos;s got &lt;b&gt;posters&lt;/b&gt; of pop stars on her wall.</example></word>
+<word str="poverty " type="n"><phonetics>/ˈpɒvəti/</phonetics><example>There is a lot of &lt;b&gt;poverty&lt;/b&gt; in some African countries.</example></word>
+<word str="practical" type="adj"><phonetics>/ˈpræktɪkl/</phonetics><example>This car doesn’t look great, but it’s very &lt;b&gt;practical&lt;/b&gt;.</example></word>
+<word str="praise" type="v"><phonetics>/preɪz/</phonetics><example>My boss &lt;b&gt;praised&lt;/b&gt; me for my good work.</example></word>
+<word str="pray " type="v"><phonetics>/preɪ/</phonetics><example>Everyone &lt;b&gt;prayed&lt;/b&gt; that the children would be found alive.</example></word>
+<word str="pre-packed" type="adj"><phonetics>/ˌpriːˈpækt/</phonetics><example>I bought a &lt;b&gt;pre-packed&lt;/b&gt; pizza.</example></word>
+<word str="precious" type="adj"><phonetics>/ˈpreʃəs/</phonetics><example>She keeps her &lt;b&gt;precious&lt;/b&gt; jewels locked away.</example></word>
+<word str="premises" type="pl n"><phonetics>/ˈpremɪsɪz/</phonetics><example>He was asked to leave the &lt;b&gt;premises&lt;/b&gt;.</example></word>
+<word str="presence" type="n"><phonetics>/ˈprezəns/</phonetics><example>We require your &lt;b&gt;presence&lt;/b&gt; at the meeting.</example></word>
+<word str="presenter " type="n"><phonetics>/prɪˈzentə(r)/</phonetics><example>She&apos;s a well-known TV &lt;b&gt;presenter&lt;/b&gt;.</example></word>
+<word str="presumably " type="adv"><phonetics>/prɪˈzjuːməbli/</phonetics><example>&lt;b&gt;Presumably&lt;/b&gt; we won&apos;t see you, if you&apos;re leaving tomorrow.</example></word>
+<word str="pretend" type="v"><phonetics>/prɪˈtend/</phonetics><example>I closed my eyes and &lt;b&gt;pretended&lt;/b&gt; to be asleep.</example></word>
+<word str="priceless" type="adj"><phonetics>/ˈpraɪsləs/</phonetics><example>This painting is &lt;b&gt;priceless&lt;/b&gt; – it’s worth so much you can’t put a price on it.</example></word>
+<word str="primate" type="n"><phonetics>/ˈpraɪmeɪt/</phonetics><example>Monkeys are &lt;b&gt;primates&lt;/b&gt;.</example></word>
+<word str="print " type="v"><phonetics>/prɪnt/</phonetics><example>His name was &lt;b&gt;printed&lt;/b&gt; on the front of the book.</example></word>
+<word str="prison " type="n"><phonetics>/ˈprɪʒn/</phonetics><example>She was sent to &lt;b&gt;prison&lt;/b&gt; for two years.</example></word>
+<word str="process " type="n"><phonetics>/ˈprəʊses/</phonetics><example>Change is sometimes a slow &lt;b&gt;process&lt;/b&gt;.</example></word>
+<word str="producer " type="n"><phonetics>/prəˈdjuːsə(r)/</phonetics><example>The &lt;b&gt;producer&lt;/b&gt; is the person in charge of making a TV programme.</example></word>
+<word str="product" type="n"><phonetics>/ˈprɒdʌkt/</phonetics><example>They sell their &lt;b&gt;products&lt;/b&gt; all over Europe.</example></word>
+<word str="program " type="n"><phonetics>/ˈprəʊgræm/</phonetics><example>What computer &lt;b&gt;program&lt;/b&gt; do you use for writing letters?</example></word>
+<word str="programmable " type="adj "><phonetics>/ˈprəʊgræməbl/</phonetics><example>The record function on your TV is fully &lt;b&gt;programmable&lt;/b&gt;.</example></word>
+<word str="promote" type="v"><phonetics>/prəˈməʊt/</phonetics><example>The government tries to &lt;b&gt;promote&lt;/b&gt; healthy living.</example></word>
+<word str="promotion " type="n"><phonetics>/prəˈməʊʃn/</phonetics><example>She worked hard and soon got a &lt;b&gt;promotion&lt;/b&gt;.</example></word>
+<word str="prosecute" type="v"><phonetics>/ˈprɒsɪkjuːt/</phonetics><example>There was no evidence, so the police decided not to &lt;b&gt;prosecute&lt;/b&gt; him.</example></word>
+<word str="prosperous " type="adj"><phonetics>/ˈprɒspərəs/</phonetics><example>His business did well, and he became &lt;b&gt;prosperous&lt;/b&gt;.</example></word>
+<word str="protect " type="v"><phonetics>/prəˈtekt/</phonetics><example>We put criminals in prison to &lt;b&gt;protect&lt;/b&gt; society.</example></word>
+<word str="protest " type="v"><phonetics>/prəˈtest/</phonetics><example>People marched through the streets to &lt;b&gt;protest&lt;/b&gt; about the price rises.</example></word>
+<word str="prove" type="v"><phonetics>/pruːv/</phonetics><example>The evidence &lt;b&gt;proved&lt;/b&gt; that he was guilty.</example></word>
+<word str="province " type="n"><phonetics>/ˈprɒvɪns/</phonetics><example>Canada is divided into &lt;b&gt;provinces&lt;/b&gt;.</example></word>
+<word str="psychiatrist" type="n"><phonetics>/saɪˈkaɪətrɪst/</phonetics><example>The &lt;b&gt;psychiatrist&lt;/b&gt; helped me to understand my problems.</example></word>
+<word str="psychological " type="adj"><phonetics>/ˌsaɪkəˈlɒdʒɪkl/</phonetics><example>The clinic helps children with &lt;b&gt;psychological&lt;/b&gt; problems.</example></word>
+<word str="psychology" type="n"><phonetics>/saɪˈkɒlədʒi/</phonetics><example>She’s studying &lt;b&gt;psychology&lt;/b&gt; at university.</example></word>
+<word str="psychotherapist " type="n "><phonetics>/ˌsaɪkəʊˈθerəpɪst/</phonetics><example>A &lt;b&gt;psychotherapist&lt;/b&gt; helps you to talk about your problems.</example></word>
+<word str="public school " type="n"><phonetics>/ˌpʌblɪk ˈskuːl/</phonetics><example>In Britain, you pay to go to a &lt;b&gt;public school&lt;/b&gt;.</example></word>
+<word str="publish" type="v"><phonetics>/ˈpʌblɪʃ/</phonetics><example>This book is &lt;b&gt;published&lt;/b&gt; by Oxford University Press.</example></word>
+<word str="pull someone’s leg " type="v"><phonetics>/ˌpʊl ... ˈleg/</phonetics><example>He&apos;s not being serious – he&apos;s just &lt;b&gt;pulling your leg&lt;/b&gt;.</example></word>
+<word str="pulse" type="n"><phonetics>/pʌls/</phonetics><example>I felt her &lt;b&gt;pulse&lt;/b&gt;, to check she was alive.</example></word>
+<word str="pump" type="n"><phonetics>/pʌmp/</phonetics><example>All the &lt;b&gt;pumps&lt;/b&gt; at the petrol station were busy.</example></word>
+<word str="punishment " type="n"><phonetics>/ˈpʌnɪʃmənt/</phonetics><example>Criminals are put in prison as a &lt;b&gt;punishment&lt;/b&gt;.</example></word>
+<word str="punk" type="n"><phonetics>/pʌŋk/</phonetics><example>&lt;b&gt;Punk&lt;/b&gt; is a type of loud rock music.</example></word>
+<word str="purchase" type="v"><phonetics>/ˈpɜːtʃɪs/</phonetics><example>You can &lt;b&gt;purchase&lt;/b&gt; tickets online.</example></word>
+<word str="purpose " type="n"><phonetics>/ˈpɜːpəs/</phonetics><example>I couldn&apos;t see the &lt;b&gt;purpose&lt;/b&gt; of the meeting.</example></word>
+<word str="pursue " type="v"><phonetics>/pəˈsjuː/</phonetics><example>The police &lt;b&gt;pursued&lt;/b&gt; the suspect when he left the house.</example></word>
+<word str="push up" type="v"><phonetics>/ˌpʊʃ ˈʌp/</phonetics><example>The war will &lt;b&gt;push up&lt;/b&gt; the price of oil.</example></word>
+<word str="put forward " type="v"><phonetics>/ˌpʊt ˈfɔːwəd/</phonetics><example>He &lt;b&gt;put forward&lt;/b&gt; a few theories for discussion.</example></word>
+<word str="put up " type="v"><phonetics>/ˌpʊt ... ˈʌp/</phonetics><example>Come and stay with us – we can &lt;b&gt;put you up&lt;/b&gt;.</example></word>
+<word str="put up with" type="v"><phonetics>/ˌpʊt ˈʌp wɪð/</phonetics><example>He has to &lt;b&gt;put up with&lt;/b&gt; a lot of pain.</example></word>
+<word str="qualification" type="n"><phonetics>/ˌkwɒlɪfɪˈkeɪʃn</phonetics><example>You need &lt;b&gt;qualifications&lt;/b&gt; to be a teacher.</example></word>
+<word str="qualify" type="v"><phonetics>/ˈkwɒlɪfaɪ/</phonetics><example>He has just &lt;b&gt;qualified&lt;/b&gt; as a lawyer.</example></word>
+<word str="quarrel" type="v"><phonetics>/ˈkwɒrəl/</phonetics><example>They are always &lt;b&gt;quarrelling&lt;/b&gt; about money.</example></word>
+<word str="queue " type="n"><phonetics>/kjuː/</phonetics><example>There was a long &lt;b&gt;queue&lt;/b&gt; at the ticket office.</example></word>
+<word str="quote" type="n"><phonetics>/kwəʊt/</phonetics><example>Her favourite &lt;b&gt;quote&lt;/b&gt; was from &lt;i&gt;Hamlet&lt;/i&gt;.</example></word>
+<word str="rabbit" type="n"><phonetics>/ˈræbɪt/</phonetics><example>The dog chased a &lt;b&gt;rabbit&lt;/b&gt; across the field.</example></word>
+<word str="racket" type="n"><phonetics>/ˈrækɪt/</phonetics><example>Can I borrow your tennis &lt;b&gt;racket&lt;/b&gt;?</example></word>
+<word str="radar " type="n"><phonetics>/ˈreɪdɑː(r)/</phonetics><example>Ships use &lt;b&gt;radar&lt;/b&gt; to locate other ships.</example></word>
+<word str="raft " type="n"><phonetics>/rɑːft/</phonetics><example>They built a &lt;b&gt;raft&lt;/b&gt; out of logs, and used it to sail down the river.</example></word>
+<word str="railings " type="pl n"><phonetics>/ˈreɪlɪŋgz/</phonetics><example>There were iron &lt;b&gt;railings&lt;/b&gt; around the building.</example></word>
+<word str="rain down " type="v"><phonetics>/ˌreɪn ˈdaʊn/</phonetics><example>Stones &lt;b&gt;rained down&lt;/b&gt; on us from above.</example></word>
+<word str="rainfall" type="n"><phonetics>/ˈreɪnfɔːl/</phonetics><example>What’s the average &lt;b&gt;rainfall&lt;/b&gt; in your country?</example></word>
+<word str="rancour" type="n"><phonetics>/ˈræŋkə(r)/</phonetics><example>He spoke calmly, without anger or &lt;b&gt;rancour&lt;/b&gt;.</example></word>
+<word str="ransack " type="v"><phonetics>/ˈrænsæk/</phonetics><example>Burglars had &lt;b&gt;ransacked&lt;/b&gt; the bedroom, looking for jewellery.</example></word>
+<word str="rapidly" type="adv"><phonetics>/ˈræpɪdli/</phonetics><example>Paul looked at his watch and left &lt;b&gt;rapidly&lt;/b&gt;.</example></word>
+<word str="rational " type="adj"><phonetics>/ˈræsənl/</phonetics><example>She put forward a clear and &lt;b&gt;rational&lt;/b&gt; argument.</example></word>
+<word str="razor blade" type="n"><phonetics>/ˈreɪzə ˌbleɪd/</phonetics><example>He cut himself on a &lt;b&gt;razor blade&lt;/b&gt; while he was shaving.</example></word>
+<word str="react" type="v"><phonetics>/riːˈækt/</phonetics><example>How did Sara &lt;b&gt;react&lt;/b&gt; when you told her the news?</example></word>
+<word str="realist" type="n"><phonetics>/ˈrɪəlɪst/</phonetics><example>I’m a &lt;b&gt;realist&lt;/b&gt;, so I know we might not win.</example></word>
+<word str="really " type="adv"><phonetics>/ˈrɪəli/</phonetics><example>&apos;She&apos;s an actress.&apos; &apos;&lt;b&gt;Really&lt;/b&gt;! How exciting!&apos;</example></word>
+<word str="reassure" type="v"><phonetics>/ˌriːəˈʃʊə(r)/</phonetics><example>She &lt;b&gt;reassured&lt;/b&gt; me that everything was OK.</example></word>
+<word str="receipt " type="n"><phonetics>/rɪˈsiːt/</phonetics><example>If you want to take something back to a shop, you need the &lt;b&gt;receipt&lt;/b&gt;.</example></word>
+<word str="reception" type="n"><phonetics>/rɪˈsepʃn/</phonetics><example>There will be a formal &lt;b&gt;reception&lt;/b&gt; to welcome all the guests.</example></word>
+<word str="reciprocated" type="adj"><phonetics>/rɪˈsɪprəkeɪtɪd/</phonetics><example>I hated him, and the feeling was &lt;b&gt;reciprocated&lt;/b&gt;.</example></word>
+<word str="reckon" type="v"><phonetics>/ˈrekən/</phonetics><example>Do you &lt;b&gt;reckon&lt;/b&gt; he’s telling the truth?</example></word>
+<word str="recognize" type="v"><phonetics>/ˈrekəgnaɪz/</phonetics><example>I didn’t &lt;b&gt;recognize&lt;/b&gt; you with that hat on.</example></word>
+<word str="recommend " type="v"><phonetics>/ˌrekəˈmend/</phonetics><example>I &lt;b&gt;recommended&lt;/b&gt; that he should stay in bed until he felt better.</example></word>
+<word str="recording studio " type="n"><phonetics>/rɪˈkɔːdɪŋ ˌstjuːdiəʊ/</phonetics><example>The album was recorded in a &lt;b&gt;recording studio&lt;/b&gt;.</example></word>
+<word str="recruit" type="v"><phonetics>/rɪˈkruːt/</phonetics><example>We need to &lt;b&gt;recruit&lt;/b&gt; a new IT manager.</example></word>
+<word str="redecorate" type="v"><phonetics>/ˌriːˈdekəreɪt/</phonetics><example>We’re going to &lt;b&gt;redecorate&lt;/b&gt; the whole house.</example></word>
+<word str="reduce " type="v"><phonetics>/rɪˈdjuːs/</phonetics><example>They have &lt;b&gt;reduced&lt;/b&gt; the price to only £10.</example></word>
+<word str="reflect " type="v"><phonetics>/rɪˈflekt/</phonetics><example>The moon &lt;b&gt;was reflected&lt;/b&gt; in the water of the lake.</example></word>
+<word str="refuse " type="v"><phonetics>/rɪˈfjuːz/</phonetics><example>She said the meal was awful, and she &lt;b&gt;refused&lt;/b&gt; to pay for it.</example></word>
+<word str="regard" type="n"><phonetics>/rɪˈgɑːd/</phonetics><example>He has no &lt;b&gt;regard&lt;/b&gt; for other people’s feelings!</example></word>
+<word str="regenerate" type="v"><phonetics>/ˌriːˈdʒenəreɪt/</phonetics><example>If you cut off one of its legs, a new one will &lt;b&gt;regenerate&lt;/b&gt;.</example></word>
+<word str="regeneration " type="n"><phonetics>/rɪˌdʒenəˈreɪʃ(ə)n/</phonetics><example>The area is run-down and in need of &lt;b&gt;regeneration&lt;/b&gt;.</example></word>
+<word str="register " type="v"><phonetics>/ˈredʒɪstə(r)/</phonetics><example>At first I didn&apos;t &lt;b&gt;register&lt;/b&gt; that she was there.</example></word>
+<word str="regrettable" type="adj"><phonetics>/rɪˈgretəbl/</phonetics><example>It is &lt;b&gt;regrettable&lt;/b&gt; that we have to close the school.</example></word>
+<word str="regrow" type="v"><phonetics>/ˌriːˈgrəʊ/</phonetics><example>The plant will &lt;b&gt;regrow&lt;/b&gt; if you cut it down.</example></word>
+<word str="regular " type="adj"><phonetics>/ˈregjələ(r)/</phonetics><example>He was a &lt;b&gt;regular&lt;/b&gt; visitor to our house.</example></word>
+<word str="rehabilitate " type="v"><phonetics>/ˌriːhəˈbɪlɪteɪt/</phonetics><example>They try to &lt;b&gt;rehabilitate&lt;/b&gt; criminals so they don&apos;t commit more crimes.</example></word>
+<word str="reject" type="v"><phonetics>/rɪˈdʒekt/</phonetics><example>She &lt;b&gt;rejected &lt;/b&gt;his offer because it wasn’t good enough.</example></word>
+<word str="release " type="v"><phonetics>/rɪˈliːs/</phonetics><example>She was &lt;b&gt;released&lt;/b&gt; from prison last month.</example></word>
+<word str="relieve" type="v"><phonetics>/rɪˈliːv/</phonetics><example>He gave me a tablet to &lt;b&gt;relieve&lt;/b&gt; the pain.</example></word>
+<word str="relieved " type="adj"><phonetics>/rɪˈliːvd/</phonetics><example>I was &lt;b&gt;relieved&lt;/b&gt; when the doctor told me I was all right.</example></word>
+<word str="remain " type="v"><phonetics>/rɪˈmeɪn/</phonetics><example>Please try to &lt;b&gt;remain&lt;/b&gt; calm.</example></word>
+<word str="remarkable " type="adj"><phonetics>/rɪˈmɑːkəbl/</phonetics><example>This was a &lt;b&gt;remarkable&lt;/b&gt; achievement.</example></word>
+<word str="remind" type="v"><phonetics>/rɪˈmaɪnd/</phonetics><example>George &lt;b&gt;reminds&lt;/b&gt; me of my father.</example></word>
+<word str="remind " type="v"><phonetics>/rɪˈmaɪnd/</phonetics><example>Can you &lt;b&gt;remind&lt;/b&gt; Matt that we&apos;ve got a meeting this afternoon?</example></word>
+<word str="remote " type="adj"><phonetics>/rɪˈməʊt/</phonetics><example>They live in a &lt;b&gt;remote&lt;/b&gt; village in the mountains.</example></word>
+<word str="remote " type="n"><phonetics>/rɪˈməʊt/</phonetics><example>Where&apos;s the TV &lt;b&gt;remote&lt;/b&gt;? I want to change channels.</example></word>
+<word str="remove" type="v"><phonetics>/rɪˈmuːv/</phonetics><example>Cut the fruit in half and &lt;b&gt;remove&lt;/b&gt; the stone.</example></word>
+<word str="replace" type="v"><phonetics>/rɪˈpleɪs/</phonetics><example>I need to &lt;b&gt;replace&lt;/b&gt; my old computer.</example></word>
+<word str="reputation " type="n"><phonetics>/ˌrepjuˈteɪʃn/</phonetics><example>This brilliant film will do a lot for her &lt;b&gt;reputation&lt;/b&gt; as an actress.</example></word>
+<word str="rescue" type="v"><phonetics>/ˈreskjuː/</phonetics><example>Firemen &lt;b&gt;rescued&lt;/b&gt; her from the burning house.</example></word>
+<word str="research" type="v"><phonetics>/rɪˈsɜːtʃ/</phonetics><example>The journalist &lt;b&gt;researched&lt;/b&gt; her article extremely thoroughly.</example></word>
+<word str="resign " type="v"><phonetics>/rɪˈzaɪn/</phonetics><example>He &lt;b&gt;resigned&lt;/b&gt; from his job.</example></word>
+<word str="resource" type="n"><phonetics>/rɪˈzɔːs/</phonetics><example>The country has natural &lt;b&gt;resources&lt;/b&gt; such as oil and coal.</example></word>
+<word str="respond " type="v"><phonetics>/rɪˈspɒnd/</phonetics><example>He didn&apos;t &lt;b&gt;respond&lt;/b&gt; to her question.</example></word>
+<word str="responsible" type="adj"><phonetics>/rɪˈspɒnsəbl/</phonetics><example>You have to be very &lt;b&gt;responsible&lt;/b&gt; to be a parent.</example></word>
+<word str="responsible " type="adj"><phonetics>/rɪˈspɒnsəbl/</phonetics><example>Who is &lt;b&gt;responsible&lt;/b&gt; for this mess?</example></word>
+<word str="restoration " type="n"><phonetics>/ˌrestəˈreɪʃn/</phonetics><example>This money will pay for the &lt;b&gt;restoration&lt;/b&gt; of the old theatre.</example></word>
+<word str="restorative justice " type="n"><phonetics>/rɪˌstɔːrətɪv ˈdʒʌstɪs/</phonetics><example>In &lt;b&gt;restorative justice&lt;/b&gt;, criminals try to help the victims of their crime.</example></word>
+<word str="restore" type="v"><phonetics>/rɪˈstɔː(r)/</phonetics><example>The old theatre is being &lt;b&gt;restored&lt;/b&gt;.</example></word>
+<word str="retell" type="v"><phonetics>/ˌriːˈtel/</phonetics><example>He &lt;b&gt;retold&lt;/b&gt; the joke to all his friends.</example></word>
+<word str="reverse " type="v"><phonetics>/rɪˈvɜːs/</phonetics><example>She &lt;b&gt;reversed&lt;/b&gt; into a parking space.</example></word>
+<word str="revolutionary " type="adj"><phonetics>/ˌrevəˈluːʃənəri/</phonetics><example>This is a &lt;b&gt;revolutionary&lt;/b&gt; new treatment for the disease.</example></word>
+<word str="revolving door " type="n"><phonetics>/rɪˌvɒlvɪŋ ˈdɔː(r)/</phonetics><example>She walked through the &lt;b&gt;revolving door&lt;/b&gt;.</example></word>
+<word str="revulsion" type="n"><phonetics>/rɪˈvʌlʃn/</phonetics><example>She feels &lt;b&gt;revulsion&lt;/b&gt; at the idea of eating meat.</example></word>
+<word str="rhythm " type="n"><phonetics>/ˈrɪðəm/</phonetics><example>Rock music has a strong &lt;b&gt;rhythm&lt;/b&gt;.</example></word>
+<word str="ridiculous" type="adj"><phonetics>/rɪˈdɪkjələs/</phonetics><example>No, of course not! That’s a &lt;b&gt;ridiculous&lt;/b&gt; idea!</example></word>
+<word str="right " type="n"><phonetics>/raɪt/</phonetics><example>Everyone has basic human &lt;b&gt;rights&lt;/b&gt;.</example></word>
+<word str="right-wing " type="adj"><phonetics>/ˌraɪtˈwɪŋ/</phonetics><example>He&apos;s got very &lt;b&gt;right-wing&lt;/b&gt; political opinions.</example></word>
+<word str="riot " type="n"><phonetics>/ˈraɪət/</phonetics><example>A &lt;b&gt;riot&lt;/b&gt; broke out in the prison and two guards were killed.</example></word>
+<word str="rivalry " type="n"><phonetics>/ˈraɪvəlri/</phonetics><example>There is a lot of &lt;b&gt;rivalry&lt;/b&gt; between the two brothers.</example></word>
+<word str="riverside" type="n"><phonetics>/ˈrɪvəsaɪd/</phonetics><example>Their house is on the &lt;b&gt;riverside&lt;/b&gt;.</example></word>
+<word str="roast" type="v"><phonetics>/rəʊst/</phonetics><example>I &lt;b&gt;roasted&lt;/b&gt; a chicken for lunch.</example></word>
+<word str="rotate " type="v"><phonetics>/rəʊˈteɪt/</phonetics><example>The big wheel &lt;b&gt;rotated&lt;/b&gt; slowly.</example></word>
+<word str="row" type="n"><phonetics>/raʊ/</phonetics><example>They’re always having &lt;b&gt;rows &lt;/b&gt;about money.</example></word>
+<word str="rude " type="adj"><phonetics>/ruːd/</phonetics><example>She was very &lt;b&gt;rude&lt;/b&gt; and just pushed past me.</example></word>
+<word str="rugby " type="n"><phonetics>/ˈrʌgbi/</phonetics><example>In &lt;b&gt;rugby&lt;/b&gt;, you hold the ball and run with it.</example></word>
+<word str="rule " type="v"><phonetics>/ruːl/</phonetics><example>The President &lt;b&gt;rules&lt;/b&gt; the country.</example></word>
+<word str="safety" type="n"><phonetics>/ˈseɪfti/</phonetics><example>You have to wear a seat belt for &lt;b&gt;safety&lt;/b&gt;.</example></word>
+<word str="sales" type="pl n"><phonetics>/seɪlz/</phonetics><example>Our &lt;b&gt;sales&lt;/b&gt; have increased this year.</example></word>
+<word str="satellite navigation " type="n"><phonetics>/ˌsætəlaɪt nævɪˈgeɪʃn/</phonetics><example>If your car&apos;s got &lt;b&gt;satellite navigation&lt;/b&gt;, you can find places easily.</example></word>
+<word str="save up " type="v"><phonetics>/ˌseɪv ˈʌp/</phonetics><example>I&apos;m &lt;b&gt;saving up&lt;/b&gt; for a new car.</example></word>
+<word str="scandal " type="n"><phonetics>/ˈskændl/</phonetics><example>The President&apos;s behaviour caused a political &lt;b&gt;scandal&lt;/b&gt;.</example></word>
+<word str="scar " type="n"><phonetics>/skɑː(r)/</phonetics><example>The cut left a &lt;b&gt;scar&lt;/b&gt; on his face.</example></word>
+<word str="scary" type="adj"><phonetics>/ˈskeəri/</phonetics><example>It was &lt;b&gt;scary&lt;/b&gt; being in that house alone.</example></word>
+<word str="schooling" type="n"><phonetics>/ˈskuːlɪŋ/</phonetics><example>She finished her &lt;b&gt;schooling&lt;/b&gt; at 16.</example></word>
+<word str="science fiction" type="n"><phonetics>/ˌsaɪəns ˈfɪkʃn/</phonetics><example>She loves reading &lt;b&gt;science fiction&lt;/b&gt;.</example></word>
+<word str="scratch " type="v"><phonetics>/skrætʃ/</phonetics><example>The cat &lt;b&gt;scratched&lt;/b&gt; my face.</example></word>
+<word str="screwdriver" type="n"><phonetics>/ˈskrʊːdraɪvə(r)/</phonetics><example>I need a &lt;b&gt;screwdriver&lt;/b&gt; to put this desk together.</example></word>
+<word str="scruffy " type="adj"><phonetics>/ˈskrʌfi/</phonetics><example>You can&apos;t wear &lt;b&gt;scruffy&lt;/b&gt; clothes to an interview.</example></word>
+<word str="see eye to eye " type="v"><phonetics>/siː ˌaɪ tu ˈaɪ/</phonetics><example>We always argue – we never &lt;b&gt;see eye to eye&lt;/b&gt;.</example></word>
+<word str="seek" type="v"><phonetics>/siːk/</phonetics><example>We are still &lt;b&gt;seeking&lt;/b&gt; the truth.</example></word>
+<word str="sell out" type="v"><phonetics>/ˌsel ˈaʊt/</phonetics><example>The tickets &lt;b&gt;sold out&lt;/b&gt; within two days.</example></word>
+<word str="sell-out " type="n"><phonetics>/ˈselaʊt/</phonetics><example>There are no tickets left – the show&apos;s a &lt;b&gt;sell-out&lt;/b&gt;.</example></word>
+<word str="sensational " type="adj"><phonetics>/senˈseɪʃənl/</phonetics><example>The story was just &lt;b&gt;sensational&lt;/b&gt;, with very few facts.</example></word>
+<word str="sense of humour" type="n"><phonetics>/ˌsens əv ˈhjuːmə(r)/</phonetics><example>Tom’s always laughing – he’s got a great &lt;b&gt;sense of humour&lt;/b&gt;.</example></word>
+<word str="sensor" type="n"><phonetics>/ˈsensə(r)/</phonetics><example>The machine has light &lt;b&gt;sensors&lt;/b&gt; to detect light.</example></word>
+<word str="sentimental" type="adj"><phonetics>/ˌsentɪˈmentl/</phonetics><example>I keep her letters for &lt;b&gt;sentimental&lt;/b&gt; reasons.</example></word>
+<word str="servant" type="n"><phonetics>/ˈsɜːvənt/</phonetics><example>They’re very rich – they’ve got &lt;b&gt;servants&lt;/b&gt; to do everything for them!</example></word>
+<word str="serve an ace" type="v"><phonetics>/ˌsɜːv ən ˈeɪs/</phonetics><example>She &lt;b&gt;served an ace&lt;/b&gt; to win the tennis match.</example></word>
+<word str="service" type="v"><phonetics>/ˈsɜːvɪs/</phonetics><example>They make and &lt;b&gt;service&lt;/b&gt; washing machines.</example></word>
+<word str="set an example" type=""><phonetics>/ˌset ən ɪgˈzɑːmpl/</phonetics><example>You should &lt;b&gt;set a good example&lt;/b&gt; for the children.</example></word>
+<word str="set off " type="v"><phonetics>/ˌset ˈɒf/</phonetics><example>We &lt;b&gt;set off &lt;/b&gt;for London the next day.</example></word>
+<word str="set up" type="v"><phonetics>/ˌset ˈʌp/</phonetics><example>They &lt;b&gt;set up&lt;/b&gt; a charity to help children in need.</example></word>
+<word str="sex symbol " type="n"><phonetics>/ˈseks ˌsɪmbl/</phonetics><example>Fashion models and film stars are often &lt;b&gt;sex symbols&lt;/b&gt;.</example></word>
+<word str="shake " type="v"><phonetics>/ʃeɪk/</phonetics><example>The news &lt;b&gt;shook&lt;/b&gt; him badly.</example></word>
+<word str="share" type="v"><phonetics>/ˈʃeə/</phonetics><example>We &lt;b&gt;shared&lt;/b&gt; the food between us.</example></word>
+<word str="sharp " type="adj"><phonetics>/ʃɑːp/</phonetics><example>Be careful with that knife – it&apos;s very &lt;b&gt;sharp&lt;/b&gt;.</example></word>
+<word str="shelter" type="n"><phonetics>/ˈʃeltə(r)/</phonetics><example>They made a &lt;b&gt;shelter&lt;/b&gt; to keep them dry.</example></word>
+<word str="shift" type="n"><phonetics>/ʃɪft/</phonetics><example>Factory workers often work eight-hour &lt;b&gt;shifts&lt;/b&gt;.</example></word>
+<word str="shiny" type="adj"><phonetics>/ˈʃaɪni/</phonetics><example>He was wearing &lt;b&gt;shiny&lt;/b&gt; black shoes.</example></word>
+<word str="shooting" type="n"><phonetics>/ˈʃuːtɪŋ/</phonetics><example>Do you think &lt;b&gt;shooting&lt;/b&gt; is a cruel sport?</example></word>
+<word str="shop-lift " type="v"><phonetics>/ˈʃɒplɪft/</phonetics><example>He was caught &lt;b&gt;shop-lifting&lt;/b&gt; a pair of jeans.</example></word>
+<word str="shrink " type="v"><phonetics>/ʃrɪŋk/</phonetics><example>My top &lt;b&gt;shrank&lt;/b&gt; in the wash, so it&apos;s too small now.</example></word>
+<word str="sickness " type="n"><phonetics>/ˈsɪknəs/</phonetics><example>He&apos;s suffering from &lt;b&gt;sickness&lt;/b&gt;.</example></word>
+<word str="significance " type="n"><phonetics>/sɪgˈnɪfɪkəns/</phonetics><example>This document is of great &lt;b&gt;significance&lt;/b&gt;.</example></word>
+<word str="silicon " type="n"><phonetics>/ˈsɪlɪkən/</phonetics><example>&lt;b&gt;Silicon&lt;/b&gt; is used to make microchips.</example></word>
+<word str="silly " type="adj"><phonetics>/ˈsɪli/</phonetics><example>The children were laughing and being &lt;b&gt;silly&lt;/b&gt;.</example></word>
+<word str="simply" type="adv"><phonetics>/ˈsɪmpli/</phonetics><example>We don’t eat rich food – we eat very &lt;b&gt;simply&lt;/b&gt;.</example></word>
+<word str="simply " type="adv"><phonetics>/ˈsɪmpli/</phonetics><example>I&apos;m sorry – it&apos;s &lt;b&gt;simply&lt;/b&gt; impossible.</example></word>
+<word str="sink into" type="v"><phonetics>/ˌsɪŋk ˈɪntu/</phonetics><example>The wheels &lt;b&gt;sank into&lt;/b&gt; the mud.</example></word>
+<word str="situate" type="v"><phonetics>/ˈsɪtʃueɪt/</phonetics><example>The house is &lt;b&gt;situated&lt;/b&gt; in beautiful countryside.</example></word>
+<word str="skateboarding " type="n"><phonetics>/ˈskeɪtbɔːdɪŋ/</phonetics><example>A lot of young people enjoy &lt;b&gt;skateboarding&lt;/b&gt;.</example></word>
+<word str="sketch" type="v"><phonetics>/sketʃ/</phonetics><example>John &lt;b&gt;sketched&lt;/b&gt; a lovely picture of our dog.</example></word>
+<word str="skydiving" type="n"><phonetics>/ˈskaɪdaɪvɪŋ/</phonetics><example>I don’t like flying, so I would hate &lt;b&gt;skydiving&lt;/b&gt;!</example></word>
+<word str="skyline " type="n"><phonetics>/ˈskaɪlaɪn/</phonetics><example>The New York City &lt;b&gt;skyline&lt;/b&gt; is beautiful at sunrise.</example></word>
+<word str="skyscraper " type="n"><phonetics>/ˈskaɪskreɪpə(r)/</phonetics><example>The office is on the 22nd floor of a &lt;b&gt;skyscraper&lt;/b&gt;.</example></word>
+<word str="slash " type="v"><phonetics>/slæʃ/</phonetics><example>Someone had &lt;b&gt;slashed&lt;/b&gt; his car tyres.</example></word>
+<word str="slide " type="v "><phonetics>/slaɪd/</phonetics><example>We &lt;b&gt;slid&lt;/b&gt; down the bank towards the river.</example></word>
+<word str="slip" type="v"><phonetics>/slɪp/</phonetics><example>I &lt;b&gt;slipped&lt;/b&gt; on the wet floor.</example></word>
+<word str="slow down " type="v"><phonetics>/ˌsləʊ ˈdaʊn/</phonetics><example>You should &lt;b&gt;slow down&lt;/b&gt; and relax sometimes.</example></word>
+<word str="slow motion" type="n"><phonetics>/ˌsləʊ ˈməʊʃn/</phonetics><example>We watched the goal again in &lt;b&gt;slow motion&lt;/b&gt;.</example></word>
+<word str="small talk" type="n"><phonetics>/ˈsmɔːl tɔːk/</phonetics><example>I hate making &lt;b&gt;small talk&lt;/b&gt; with people I don’t know.</example></word>
+<word str="smart" type="adj"><phonetics>/smɑːt/</phonetics><example>Wear &lt;b&gt;smart&lt;/b&gt; clothes to an interview.</example></word>
+<word str="smartly" type="adv"><phonetics>/ˈsmɑːtli/</phonetics><example>He was &lt;b&gt;smartly&lt;/b&gt; dressed in a suit and tie.</example></word>
+<word str="snap up " type="v"><phonetics>/ˌsnæp ˈʌp/</phonetics><example>The nice shoes were &lt;b&gt;snapped up&lt;/b&gt; quickly in the sale.</example></word>
+<word str="snorkel " type="n"><phonetics>/ˈsnɔːkl/</phonetics><example>We swam in the shallow water with masks and &lt;b&gt;snorkels&lt;/b&gt;.</example></word>
+<word str="snowflake " type="n"><phonetics>/ˈsnəʊfleɪk/</phonetics><example>A few &lt;b&gt;snowflakes&lt;/b&gt; started to fall.</example></word>
+<word str="snowstorm" type="n"><phonetics>/ˈsnəʊstɔːm/</phonetics><example>Many roads were blocked by snow during the &lt;b&gt;snowstorm&lt;/b&gt;.</example></word>
+<word str="soap" type="n"><phonetics>/səʊp/</phonetics><example>Do you think there are too many &lt;b&gt;soaps&lt;/b&gt; on TV?</example></word>
+<word str="soccer " type="n"><phonetics>/ˈsɒkə(r)/</phonetics><example>In the US football is called &lt;b&gt;soccer&lt;/b&gt;.</example></word>
+<word str="sociable" type="adj"><phonetics>/ˈsəʊʃəbl/</phonetics><example>Harry loves parties – he’s very &lt;b&gt;sociable&lt;/b&gt;.</example></word>
+<word str="social networking " type="n"><phonetics>/ˌsəʊʃl ˈnetwɜːkɪŋ/</phonetics><example>You can put information about yourself on &lt;b&gt;social networking&lt;/b&gt; websites.</example></word>
+<word str="social worker " type="n"><phonetics>/ˈsəʊʃl ˌwɜːkə(r)/</phonetics><example>&lt;b&gt;Social workers&lt;/b&gt; help people with social problems.</example></word>
+<word str="socialite " type="n"><phonetics>/ˈsəʊʃəlaɪt/</phonetics><example>She&apos;s a wealthy &lt;b&gt;socialite&lt;/b&gt; who goes to all the best parties.</example></word>
+<word str="socializer" type="n"><phonetics>/ˈsəʊʃəlaɪzə(r)/</phonetics><example>She loves parties – she’s a real &lt;b&gt;socializer&lt;/b&gt;.</example></word>
+<word str="soldier " type="n"><phonetics>/ˈsəʊldʒə(r)/</phonetics><example>He wanted to become a &lt;b&gt;soldier&lt;/b&gt; and carry a gun.</example></word>
+<word str="sole " type="n"><phonetics>/səʊl/</phonetics><example>There was some mud on the &lt;b&gt;sole&lt;/b&gt; of my shoe.</example></word>
+<word str="solid" type="adj"><phonetics>/ˈsɒlɪd/</phonetics><example>The table is made of &lt;b&gt;solid&lt;/b&gt; wood.</example></word>
+<word str="solve " type="v"><phonetics>/sɒlv/</phonetics><example>Some crimes are never &lt;b&gt;solved&lt;/b&gt; by the police.</example></word>
+<word str="sort out " type="v"><phonetics>/ˌsɔːt ˈaʊt/</phonetics><example>Everything&apos;s arranged – we just need to &lt;b&gt;sort out&lt;/b&gt; the transport now.</example></word>
+<word str="soul" type="n"><phonetics>/səʊl/</phonetics><example>Some people believe their &lt;b&gt;soul&lt;/b&gt; continues to live after they have died.</example></word>
+<word str="space station" type="n"><phonetics>/ˈspeɪs ˌsteɪʃn/</phonetics><example>The astronauts spent a week in the &lt;b&gt;space station&lt;/b&gt;.</example></word>
+<word str="span " type="n"><phonetics>/spæn/</phonetics><example>The bridge crosses the river in a single &lt;b&gt;span&lt;/b&gt;.</example></word>
+<word str="spare " type="v"><phonetics>/speə(r)/</phonetics><example>Can you &lt;b&gt;spare&lt;/b&gt; a few pounds for charity?</example></word>
+<word str="species " type="n"><phonetics>/ˈspiːʃiːz/</phonetics><example>Many &lt;b&gt;species&lt;/b&gt; are now in danger of becoming extinct.</example></word>
+<word str="spike " type="n"><phonetics>/spaɪk/</phonetics><example>Running shoes have &lt;b&gt;spikes&lt;/b&gt; on the bottom.</example></word>
+<word str="spill " type="v"><phonetics>/spɪl/</phonetics><example>Be careful you don&apos;t &lt;b&gt;spill&lt;/b&gt; your coffee.</example></word>
+<word str="spine" type="n"><phonetics>/spaɪn/</phonetics><example>He broke his &lt;b&gt;spine&lt;/b&gt;, so he can’t walk now.</example></word>
+<word str="spread" type="v"><phonetics>/spred/</phonetics><example>He &lt;b&gt;spread&lt;/b&gt; his toast with butter.</example></word>
+<word str="squeeze" type="v"><phonetics>/skwiːz/</phonetics><example>You &lt;b&gt;squeeze&lt;/b&gt; oranges to make orange juice.</example></word>
+<word str="stab" type="v"><phonetics>/stæb/</phonetics><example>A man attacked her and &lt;b&gt;stabbed&lt;/b&gt; her with a knife.</example></word>
+<word str="stack " type="n"><phonetics>/stæk/</phonetics><example>There was a huge &lt;b&gt;stack&lt;/b&gt; of dirty dishes.</example></word>
+<word str="staff" type="n"><phonetics>/stɑːf/</phonetics><example>How many &lt;b&gt;staff&lt;/b&gt; do you employ in the company?</example></word>
+<word str="stage " type="n"><phonetics>/steɪdʒ/</phonetics><example>She stood up on the &lt;b&gt;stage&lt;/b&gt; and started singing.</example></word>
+<word str="standstill " type="n"><phonetics>/ˈstændstɪl/</phonetics><example>The road was flooded, so the traffic came to a &lt;b&gt;standstill&lt;/b&gt;.</example></word>
+<word str="stare " type="v"><phonetics>/steə(r)/</phonetics><example>Everyone was &lt;b&gt;staring&lt;/b&gt; at me.</example></word>
+<word str="state" type="n"><phonetics>/steɪt/</phonetics><example>Look at the &lt;b&gt;state&lt;/b&gt; of the floor – it’s really dirty!</example></word>
+<word str="stationery" type="n"><phonetics>/ˈsteɪʃənri/</phonetics><example>You’ll find pens in the &lt;b&gt;stationery&lt;/b&gt; department.</example></word>
+<word str="statistics " type="n pl"><phonetics>/stəˈtɪstɪks/</phonetics><example>There are new &lt;b&gt;statistics&lt;/b&gt; on unemployment.</example></word>
+<word str="statue " type="n"><phonetics>/ˈstætjuː/</phonetics><example>There&apos;s a &lt;b&gt;statue&lt;/b&gt; of Nelson Mandela in London.</example></word>
+<word str="status" type="n"><phonetics>/ˈsteɪtəs/</phonetics><example>Although he has been there for five years, he still has the &lt;b&gt;status&lt;/b&gt; of an illegal immigrant.</example></word>
+<word str="steerage " type="n"><phonetics>/ˈstɪərɪdʒ/</phonetics><example>The poorer passengers sat in &lt;b&gt;steerage&lt;/b&gt;.</example></word>
+<word str="stepfather" type="n"><phonetics>/ˈstepfɑːðə(r)/</phonetics><example>My mother has remarried, so I have a &lt;b&gt;stepfather&lt;/b&gt;.</example></word>
+<word str="stick " type="v"><phonetics>/stɪk/</phonetics><example>I &lt;b&gt;stuck&lt;/b&gt; a stamp onto the envelope.</example></word>
+<word str="sticking point " type="n"><phonetics>/ˈstɪkɪŋ ˌpɔɪnt/</phonetics><example>The &lt;b&gt;sticking point &lt;/b&gt;was money – we just couldn&apos;t agree about that.</example></word>
+<word str="sticky " type="adj"><phonetics>/ˈstɪki/</phonetics><example>Glue is &lt;b&gt;sticky&lt;/b&gt;.</example></word>
+<word str="stiff" type="adj"><phonetics>/stɪf/</phonetics><example>He poured himself a &lt;b&gt;stiff&lt;/b&gt; whisky.</example></word>
+<word str="stitch " type="n"><phonetics>/stɪtʃ/</phonetics><example>I needed &lt;b&gt;stitches&lt;/b&gt; in my leg after the dog bit me.</example></word>
+<word str="stone" type="n"><phonetics>/stəʊn/</phonetics><example>I picked up a &lt;b&gt;stone&lt;/b&gt; and threw it into the sea.</example></word>
+<word str="stop dead " type="v"><phonetics>/ˌstɒp ˈded/</phonetics><example>He &lt;b&gt;stopped dead&lt;/b&gt; when he saw me.</example></word>
+<word str="storage " type="n"><phonetics>/ˈstɔːrɪdʒ/</phonetics><example>The sheds are useful for &lt;b&gt;storage&lt;/b&gt; – we keep all our tools there.</example></word>
+<word str="storm off " type="v"><phonetics>/ˌstɔːm ˈɒf/</phonetics><example>He &lt;b&gt;stormed off&lt;/b&gt; in a bad mood.</example></word>
+<word str="strict" type="adj"><phonetics>/strɪkt/</phonetics><example>My parents were very &lt;b&gt;strict&lt;/b&gt; – I wasn’t allowed out after dark.</example></word>
+<word str="strike " type="v"><phonetics>/straɪk/</phonetics><example>The tree was &lt;b&gt;struck&lt;/b&gt; by lightning.</example></word>
+<word str="strike " type="n"><phonetics>/straɪk/</phonetics><example>Postmen went on &lt;b&gt;strike&lt;/b&gt; for more money.</example></word>
+<word str="strip" type="v"><phonetics>/strɪp/</phonetics><example>He was &lt;b&gt;stripped&lt;/b&gt; of his prize because he had cheated.</example></word>
+<word str="struggle " type="n"><phonetics>/ˈstrʌgl/</phonetics><example>Life is a &lt;b&gt;struggle&lt;/b&gt; for poor families.</example></word>
+<word str="struggle " type="v"><phonetics>/ˈstrʌgl/</phonetics><example>We &lt;b&gt;struggled&lt;/b&gt; through the deep snow.</example></word>
+<word str="stuck" type="adj"><phonetics>/stʌk/</phonetics><example>Her car was &lt;b&gt;stuck&lt;/b&gt; in the mud and wouldn&apos;t move.</example></word>
+<word str="study" type="n"><phonetics>/ˈstʌdi/</phonetics><example>He did his work in the &lt;b&gt;study&lt;/b&gt;.</example></word>
+<word str="stuff" type="n"><phonetics>/stʌf/</phonetics><example>There was lots of nice &lt;b&gt;stuff&lt;/b&gt; in the shop.</example></word>
+<word str="stuff " type="v"><phonetics>/stʌf/</phonetics><example>I &lt;b&gt;stuffed&lt;/b&gt; the shopping into my bag.</example></word>
+<word str="stunned" type="adj"><phonetics>/stʌnd/</phonetics><example>He looked &lt;b&gt;stunned&lt;/b&gt; when I told him he’d won.</example></word>
+<word str="subscribe" type="v"><phonetics>/səbˈskraɪb/</phonetics><example>Do you &lt;b&gt;subscribe&lt;/b&gt; to any magazines?</example></word>
+<word str="suffer " type="v"><phonetics>/ˈsʌfə(r)/</phonetics><example>She &lt;b&gt;suffers&lt;/b&gt; from terrible headaches.</example></word>
+<word str="suffragette " type="n"><phonetics>/ˌsʌfrəˈdʒet/</phonetics><example>The &lt;b&gt;suffragettes&lt;/b&gt; wanted women to have the right to vote.</example></word>
+<word str="suffragist " type="n"><phonetics>/ˈsʌfrədʒɪst/</phonetics><example>&lt;b&gt;Suffragists&lt;/b&gt; believed that everyone should have the right to vote.</example></word>
+<word str="suicide" type="n"><phonetics>/ˈsuːɪsaɪd/</phonetics><example>He committed &lt;b&gt;suicide&lt;/b&gt; by hanging himself.</example></word>
+<word str="suit" type="v"><phonetics>/suːt/</phonetics><example>I don’t think this dress &lt;b&gt;suits&lt;/b&gt; me.</example></word>
+<word str="suitable" type="adj"><phonetics>/ˈsuːtəbl/</phonetics><example>Those jeans aren’t &lt;b&gt;suitable&lt;/b&gt; for an interview.</example></word>
+<word str="sumptuous " type="adj"><phonetics>/ˈsʌmptʃuəs/</phonetics><example>There was a &lt;b&gt;sumptuous&lt;/b&gt; feast at the banquet.</example></word>
+<word str="superior " type="adj"><phonetics>/suːˈpɪərɪə(r)/</phonetics><example>Her painting was &lt;b&gt;superior&lt;/b&gt; to mine.</example></word>
+<word str="supply" type="n"><phonetics>/səˈplaɪ/</phonetics><example>&lt;b&gt;Supplies&lt;/b&gt; of food were flown to the area.</example></word>
+<word str="supply " type="v"><phonetics>/səˈplaɪ/</phonetics><example>They grow fruit and &lt;b&gt;supply&lt;/b&gt; it to supermarkets.</example></word>
+<word str="support" type="n"><phonetics>/səˈpɔːt/</phonetics><example>He gives help and &lt;b&gt;support&lt;/b&gt; to all his staff.</example></word>
+<word str="surface " type="n"><phonetics>/ˈsɜːfɪs/</phonetics><example>Oil floats on the &lt;b&gt;surface&lt;/b&gt; of water.</example></word>
+<word str="surgeon " type="n"><phonetics>/ˈsɜːdʒən/</phonetics><example>A &lt;b&gt;surgeon&lt;/b&gt; performs operations in a hospital.</example></word>
+<word str="suspect " type="v"><phonetics>/səˈspekt/</phonetics><example>I don&apos;t know, but I &lt;b&gt;suspect&lt;/b&gt; he&apos;s in London.</example></word>
+<word str="suspicious " type="adj"><phonetics>/səˈspɪʃəs/</phonetics><example>The police &lt;b&gt;became suspicious&lt;/b&gt; because he kept changing his story.</example></word>
+<word str="swallow " type="v"><phonetics>/ˈswɒləʊ/</phonetics><example>He &lt;b&gt;swallowed&lt;/b&gt; the oyster whole.</example></word>
+<word str="swear" type="v"><phonetics>/sweə(r)/</phonetics><example>It’s true, I &lt;b&gt;swear&lt;/b&gt; to you!</example></word>
+<word str="sweat" type="v"><phonetics>/swet/</phonetics><example>He was &lt;b&gt;sweating&lt;/b&gt; because he was so hot.</example></word>
+<word str="sweaty " type="adj"><phonetics>/ˈsweti/</phonetics><example>I was hot and &lt;b&gt;sweaty&lt;/b&gt; after running.</example></word>
+<word str="sweetheart" type="n"><phonetics>/ˈswiːthɑːt/</phonetics><example>She’s a lovely girl – a real &lt;b&gt;sweetheart&lt;/b&gt;.</example></word>
+<word str="switch " type="v"><phonetics>/swɪtʃ/</phonetics><example>We &lt;b&gt;switched&lt;/b&gt; to BBC1 to watch the news.</example></word>
+<word str="sympathy " type="n"><phonetics>/ˈsɪmpəθi/</phonetics><example>When her mother died, I sent a card to express my &lt;b&gt;sympathy&lt;/b&gt;.</example></word>
+<word str="symptom " type="n"><phonetics>/ˈsɪmptəm/</phonetics><example>The main &lt;b&gt;symptom&lt;/b&gt; of measles is a rash all over your body.</example></word>
+<word str="tackle" type="v"><phonetics>/ˈtækl/</phonetics><example>The government must &lt;b&gt;tackle&lt;/b&gt; this problem.</example></word>
+<word str="tactic " type="n"><phonetics>/ˈtæktɪk/</phonetics><example>They discussed their &lt;b&gt;tactics&lt;/b&gt; before the match.</example></word>
+<word str="take after" type="v"><phonetics>/ˌteɪk ˈɑːftə(r)/</phonetics><example>I &lt;b&gt;take after&lt;/b&gt; my father.</example></word>
+<word str="take for granted" type=""><phonetics>/ˌteɪk fə ˈgrɑːntɪd/</phonetics><example>Children nowadays &lt;b&gt;take&lt;/b&gt; modern technology &lt;b&gt;for granted&lt;/b&gt;. </example></word>
+<word str="take up " type="v"><phonetics>/ˌteɪk ˈʌp/</phonetics><example>She&apos;s decided to &lt;b&gt;take up&lt;/b&gt; a new hobby.</example></word>
+<word str="take-away" type="adj"><phonetics>/ˈteɪkəˌweɪ/</phonetics><example>I don’t often cook - I buy &lt;b&gt;take-away&lt;/b&gt; meals.</example></word>
+<word str="talent " type="n"><phonetics>/ˈtælənt/</phonetics><example>She&apos;s got a real &lt;b&gt;talent&lt;/b&gt; for music.</example></word>
+<word str="tantrum" type="n"><phonetics>/ˈtæntrəm/</phonetics><example>He went into a &lt;b&gt;tantrum&lt;/b&gt; and started shouting at everyone.</example></word>
+<word str="task" type="n"><phonetics>/tɑːsk/</phonetics><example>Cleaning is a very boring &lt;b&gt;task&lt;/b&gt;.</example></word>
+<word str="tattoo " type="n"><phonetics>/tæˈtuː/</phonetics><example>He had a &lt;b&gt;tattoo&lt;/b&gt; of a bird on his arm.</example></word>
+<word str="tax" type="n"><phonetics>/tæks/</phonetics><example>Everyone pays &lt;b&gt;tax&lt;/b&gt; on money they earn.</example></word>
+<word str="tear" type="n"><phonetics>/tɪə(r)/</phonetics><example>A few &lt;b&gt;tears&lt;/b&gt; rolled down her cheeks.</example></word>
+<word str="tear down " type="phr v"><phonetics>/teə ˈdaʊn/</phonetics><example>The old buildings were &lt;b&gt;torn down&lt;/b&gt; last year.</example></word>
+<word str="technical" type="adj"><phonetics>/ˈteknɪkl/</phonetics><example>I need &lt;b&gt;technical&lt;/b&gt; advice on my computer.</example></word>
+<word str="telescope " type="n"><phonetics>/ˈtelɪˌskəʊp/]&gt;&lt;/phonetics&gt;&lt;example&gt;&lt;![CDATA[You can look at the moon through a &lt;b&gt;telescope&lt;/b&gt;.</phonetics></word>
+<word str="tell off" type="v"><phonetics>/ˌtel ˈɒf/</phonetics><example>His boss &lt;b&gt;told him off&lt;/b&gt; for being late.</example></word>
+<word str="temperature " type="n"><phonetics>/ˈtemprətʃə(r)/</phonetics><example>He&apos;s got a high &lt;b&gt;temperature&lt;/b&gt; – he must be ill.</example></word>
+<word str="tempting" type="adj"><phonetics>/ˈtemptɪŋ/</phonetics><example>The chocolate cake looked very &lt;b&gt;tempting&lt;/b&gt;.</example></word>
+<word str="tension" type="n"><phonetics>/ˈtenʃn/</phonetics><example>The argument caused &lt;b&gt;tension&lt;/b&gt; between us.</example></word>
+<word str="term-time" type="n"><phonetics>/ˈtɜːmtaɪm/</phonetics><example>She studies hard during &lt;b&gt;term-time&lt;/b&gt;.</example></word>
+<word str="terrace" type="n"><phonetics>/ˈterəs/</phonetics><example>We sat outside on the &lt;b&gt;terrace&lt;/b&gt;.</example></word>
+<word str="terrified " type="adj"><phonetics>/ˈterɪfaɪd/</phonetics><example>She is absolutely &lt;b&gt;terrified&lt;/b&gt; of spiders.</example></word>
+<word str="terror " type="n"><phonetics>/ˈterə(r)/</phonetics><example>She screamed with &lt;b&gt;terror&lt;/b&gt;.</example></word>
+<word str="testify" type="v"><phonetics>/ˈtestɪfaɪ/</phonetics><example>I had to &lt;b&gt;testify&lt;/b&gt; in court.</example></word>
+<word str="the big time " type=""><phonetics>/ðə ˈbɪg ˌtaɪm//</phonetics><example>Many singers dream of reaching &lt;b&gt;the big time&lt;/b&gt;.</example></word>
+<word str="the Ladies" type="n"><phonetics>/ðə ˈleɪdiz/</phonetics><example>She went into &lt;b&gt;the ladies&lt;/b&gt; to wash her hands.</example></word>
+<word str="the norm" type="n"><phonetics>/ðə nɔːm/</phonetics><example>Having a home computer is now &lt;b&gt;the norm&lt;/b&gt;.</example></word>
+<word str="theft " type="n"><phonetics>/θeft/</phonetics><example>He was sent to prison for the &lt;b&gt;theft&lt;/b&gt; of a car.</example></word>
+<word str="think straight" type=""><phonetics>/ˈθɪŋk ˌstreɪt/</phonetics><example>I was so tired I couldn’t &lt;b&gt;think straight&lt;/b&gt;.</example></word>
+<word str="threaten " type="v"><phonetics>/ˈθretn/</phonetics><example>They &lt;b&gt;threatened&lt;/b&gt; to kill the prisoners if the money was not paid.</example></word>
+<word str="threshold " type="n"><phonetics>/ˈθreʃhəʊld/</phonetics><example>£4,000 a year is the tax &lt;b&gt;threshold&lt;/b&gt; – if you earn more that that, you have to pay tax.</example></word>
+<word str="thrift" type="n"><phonetics>/θrɪft/</phonetics><example>She believes in &lt;b&gt;thrift&lt;/b&gt;, so she never wastes money.</example></word>
+<word str="thriving " type="adj"><phonetics>/ˈθraɪvɪŋ/</phonetics><example>Stamford is a busy, &lt;b&gt;thriving&lt;/b&gt; market town.</example></word>
+<word str="throne" type="n"><phonetics>/θrəʊn/</phonetics><example>Queen Elizabeth II came to the &lt;b&gt;throne&lt;/b&gt; in 1953.</example></word>
+<word str="throughout" type="prep"><phonetics>/θruːˈaʊt/</phonetics><example>It is very cold &lt;b&gt;throughout&lt;/b&gt; the winter.</example></word>
+<word str="thunderstorm" type="n"><phonetics>/ˈθʌndəstɔːm/</phonetics><example>There was a &lt;b&gt;thunderstorm&lt;/b&gt; with thunder and heavy rain.</example></word>
+<word str="tidy up " type="v"><phonetics>/ˌtaɪdi ˈʌp/</phonetics><example>It took us ages to &lt;b&gt;tidy up&lt;/b&gt; after the party.</example></word>
+<word str="tight" type="adj"><phonetics>/taɪt/</phonetics><example>This jacket is too &lt;b&gt;tight&lt;/b&gt; for me.</example></word>
+<word str="timid " type="adj"><phonetics>/ˈtɪmɪd/</phonetics><example>I was too &lt;b&gt;timid&lt;/b&gt; to ask his name.</example></word>
+<word str="tiny" type="adj"><phonetics>/ˈtaɪni/</phonetics><example>It’s a very small flat – the kitchen is &lt;b&gt;tiny&lt;/b&gt;!</example></word>
+<word str="to be honest " type=""><phonetics>/tə biː ˈɒnɪst/</phonetics><example>It&apos;s very kind of her to buy me wine, but &lt;b&gt;to be honest&lt;/b&gt; I never drink it.</example></word>
+<word str="to the full " type=""><phonetics>/tə ðə ˈfʊl/</phonetics><example>She believes in living life &lt;b&gt;to the full&lt;/b&gt;.</example></word>
+<word str="toiletries" type="pl n"><phonetics>/ˈtɔɪlətriz/</phonetics><example>They sell soap and other &lt;b&gt;toiletries&lt;/b&gt;.</example></word>
+<word str="token" type="n"><phonetics>/ˈtəʊkən/</phonetics><example>You need a &lt;b&gt;token&lt;/b&gt; for the machine.</example></word>
+<word str="tomb" type="n"><phonetics>/tuːm/</phonetics><example>He was buried in a large &lt;b&gt;tomb.&lt;/b&gt;</example></word>
+<word str="tonic" type="n"><phonetics>/ˈtɒnɪk/</phonetics><example>Drink this &lt;b&gt;tonic&lt;/b&gt; – it will help you feel better.</example></word>
+<word str="top floor" type="n"><phonetics>/ˈtɒp ˌflɔː(r)/</phonetics><example>We live on the fourth floor – the &lt;b&gt;top floor&lt;/b&gt;.</example></word>
+<word str="torch" type="n"><phonetics>/tɔːtʃ/</phonetics><example>It’s dark outside – take a &lt;b&gt;torch&lt;/b&gt; with you.</example></word>
+<word str="totally " type="adv"><phonetics>/ˈtəʊtəli/</phonetics><example>The two towns are&lt;b&gt; totally&lt;/b&gt; different.</example></word>
+<word str="trace " type="v"><phonetics>/treɪs/</phonetics><example>The police have not managed to &lt;b&gt;trace&lt;/b&gt; the witness yet.</example></word>
+<word str="track " type="n"><phonetics>/træk/</phonetics><example>We ran twice around the running &lt;b&gt;track&lt;/b&gt;.</example></word>
+<word str="trade" type="n"><phonetics>/treɪd/</phonetics><example>This agreement will encourage &lt;b&gt;trade &lt;/b&gt; between the two countries.</example></word>
+<word str="trademark " type="n"><phonetics>/ˈtreɪdmɑːk/</phonetics><example>All their products carry the company&apos;s &lt;b&gt;trademark&lt;/b&gt;.</example></word>
+<word str="traffic jam " type="n"><phonetics>/ˈtræfɪk ˌdʒæm/</phonetics><example>We were stuck in a &lt;b&gt;traffic jam&lt;/b&gt;.</example></word>
+<word str="traffic lights " type="pl n"><phonetics>/ˈtræfɪk ˌlaɪts/</phonetics><example>She stopped at the &lt;b&gt;traffic lights&lt;/b&gt;.</example></word>
+<word str="traffic warden " type="n"><phonetics>/ˈtræfɪk ˌwɔːdn/</phonetics><example>A &lt;b&gt;traffic warden&lt;/b&gt; gave me a parking ticket.</example></word>
+<word str="tragedy" type="n"><phonetics>/ˈtrædʒədi/</phonetics><example>His death was a terrible &lt;b&gt;tragedy&lt;/b&gt;.</example></word>
+<word str="tragic" type="adj"><phonetics>/ˈtrædʒɪk/</phonetics><example>This was a terrible &lt;b&gt;tragic&lt;/b&gt; accident.</example></word>
+<word str="training" type="n"><phonetics>/ˈtreɪnɪŋ/</phonetics><example>It takes five years of &lt;b&gt;training&lt;/b&gt; to be a doctor.</example></word>
+<word str="transfer " type="v"><phonetics>/trænsˈfɜː(r)/</phonetics><example>He was &lt;b&gt;transferred&lt;/b&gt; to a different hospital.</example></word>
+<word str="transform" type="v"><phonetics>/trænsˈfɔːm/</phonetics><example>They &lt;b&gt;transformed&lt;/b&gt; the old school into a house.</example></word>
+<word str="transistor " type="n"><phonetics>/trænˈzɪstə(r)/</phonetics><example>A &lt;b&gt;transistor&lt;/b&gt; is a small electronic device.</example></word>
+<word str="translation " type="n"><phonetics>/trænzˈleɪʃn/</phonetics><example>We have to do a &lt;b&gt;translation&lt;/b&gt; into English.</example></word>
+<word str="transplantation" type="n"><phonetics>/ˌtrænsplɑːnˈteɪʃn/</phonetics><example>There are not enough hearts available for &lt;b&gt;transplantation&lt;/b&gt;.</example></word>
+<word str="transport" type="v"><phonetics>/ˌtrænsˈpɔːt/</phonetics><example>The goods are &lt;b&gt;transported&lt;/b&gt; by sea.</example></word>
+<word str="treasure" type="n"><phonetics>/ˈtreʒə/</phonetics><example>The pirates were searching for buried &lt;b&gt;treasure&lt;/b&gt;.</example></word>
+<word str="treasure" type="v"><phonetics>/ˈtreʒə(r)/</phonetics><example>I &lt;b&gt;treasure&lt;/b&gt; our friendship.</example></word>
+<word str="treat" type="n"><phonetics>/triːt/</phonetics><example>We’re going out for a meal as a special &lt;b&gt;treat&lt;/b&gt;.</example></word>
+<word str="treat " type="v"><phonetics>/triːt/</phonetics><example>We can &lt;b&gt;treat&lt;/b&gt; this illness with modern drugs.</example></word>
+<word str="trek " type="n"><phonetics>/trek/</phonetics><example>I was tired after the three-day &lt;b&gt;trek&lt;/b&gt; through the mountains.</example></word>
+<word str="tremble " type="v"><phonetics>/ˈtrembl/</phonetics><example>I was&lt;b&gt; trembling&lt;/b&gt; all over with fear.</example></word>
+<word str="tribesmen " type="n pl"><phonetics>/ˈtraɪbzmən/</phonetics><example>Some &lt;b&gt;tribesmen&lt;/b&gt; on horses showed them the way.</example></word>
+<word str="trick " type="n"><phonetics>/trɪk/</phonetics><example>He loved playing &lt;b&gt;tricks&lt;/b&gt; on the other children.</example></word>
+<word str="triumph " type="n"><phonetics>/ˈtraɪʌmf/</phonetics><example>The players lifted the silver cup in &lt;b&gt;triumph&lt;/b&gt;.</example></word>
+<word str="tropical" type="adj"><phonetics>/ˈtrɒpɪkl/</phonetics><example>Barbados has a &lt;b&gt;tropical&lt;/b&gt; climate.</example></word>
+<word str="try one’s luck " type=""><phonetics>/traɪ wʌnz ˈlʌk/</phonetics><example>I went to the casino to &lt;b&gt;try my luck&lt;/b&gt;.</example></word>
+<word str="tube " type="n"><phonetics>/tjuːb/</phonetics><example>She rolled the photograph up and put it into a cardboard &lt;b&gt;tube&lt;/b&gt;.</example></word>
+<word str="tune " type="n"><phonetics>/tjuːn/</phonetics><example>I like the &lt;b&gt;tune&lt;/b&gt; of that song, but not the words.</example></word>
+<word str="turmeric" type="n"><phonetics>/ˈtɜːmərɪk/</phonetics><example>&lt;b&gt;Turmeric &lt;/b&gt;adds a lovely yellow colour to food.</example></word>
+<word str="tutor " type="n"><phonetics>/ˈtjuːtə(r)/</phonetics><example>The students all have a personal &lt;b&gt;tutor&lt;/b&gt;.</example></word>
+<word str="twinkly " type="adj"><phonetics>/ˈtwiŋkli/</phonetics><example>He had &lt;b&gt;twinkly&lt;/b&gt; blue eyes.</example></word>
+<word str="unbelievable " type="adj"><phonetics>/ˌʌnbɪˈliːvəbl/</phonetics><example>I find it &lt;b&gt;unbelievable&lt;/b&gt; that someone can behave in that way!</example></word>
+<word str="understanding" type="n"><phonetics>/ˌʌndəˈstændɪŋ/</phonetics><example>She has a good &lt;b&gt;understandin&lt;/b&gt;g of Chinese culture.</example></word>
+<word str="underwear " type="n"><phonetics>/ˈʌndəweə(r)/</phonetics><example>He was dressed only in his &lt;b&gt;underwear&lt;/b&gt;.</example></word>
+<word str="undivided " type="adj"><phonetics>/ˌʌndɪˈvaɪdɪd/</phonetics><example>The large office was left &lt;b&gt;undivided&lt;/b&gt; into smaller rooms.</example></word>
+<word str="undoubtedly " type="adv"><phonetics>/ʌnˈdaʊtɪdli/</phonetics><example>He is &lt;b&gt;undoubtedly&lt;/b&gt; the best swimmer in the world.</example></word>
+<word str="unfortunate" type="adj"><phonetics>/ʌnˈfɔːtʃənət/</phonetics><example>It was an &lt;b&gt;unfortunate&lt;/b&gt; accident.</example></word>
+<word str="uninvited" type="adj"><phonetics>/ˌʌnɪnˈvaɪtɪd/</phonetics><example>There were a lot of &lt;b&gt;uninvited&lt;/b&gt; guests.</example></word>
+<word str="unite" type="v"><phonetics>/juˈnaɪt/</phonetics><example>The leaders hope to &lt;b&gt;unite&lt;/b&gt; their two countries.</example></word>
+<word str="universe" type="n"><phonetics>/ˈjuːnɪvɜːs/</phonetics><example>Scientists believe the &lt;b&gt;universe&lt;/b&gt; started with a Big Bang.</example></word>
+<word str="unplug " type="v"><phonetics>/ˌʌnˈplʌg/</phonetics><example>Don&apos;t forget to &lt;b&gt;unplug&lt;/b&gt; the iron when you&apos;ve finished with it.</example></word>
+<word str="unrecognized" type="adj"><phonetics>/ˌʌnˈrekəgnaɪzd/</phonetics><example>This is a new disease which was &lt;b&gt;unrecognized&lt;/b&gt; until last year.</example></word>
+<word str="unsinkable " type="adj"><phonetics>/ʌnˈsɪŋkəbl/</phonetics><example>Everybody thought the Titanic was &lt;b&gt;unsinkable&lt;/b&gt; – people were shocked when it hit an iceberg and sank.</example></word>
+<word str="unsupported " type="adj"><phonetics>/ˌʌnsəˈpɔːtɪd/</phonetics><example>Some parts of the roof were left &lt;b&gt;unsupported&lt;/b&gt;.</example></word>
+<word str="upside down" type="adj"><phonetics>/ˌʌpsaɪd ˈdaʊn/</phonetics><example>Turn the picture round – it’s &lt;b&gt;upside down&lt;/b&gt;!</example></word>
+<word str="urban " type="adj"><phonetics>/ˈɜːbən/</phonetics><example>They live in an &lt;b&gt;urban&lt;/b&gt; area.</example></word>
+<word str="valet" type="n"><phonetics>/ˈvæleɪ/</phonetics><example>His &lt;b&gt;valet&lt;/b&gt; helps him to get dressed.</example></word>
+<word str="valuable" type="adj"><phonetics>/ˈvæljʊb(ə)l/</phonetics><example>Some of the paintings are quite &lt;b&gt;valuable&lt;/b&gt;.</example></word>
+<word str="vase" type="n"><phonetics>/vɑːz/</phonetics><example>She put the flowers in a &lt;b&gt;vase&lt;/b&gt;.</example></word>
+<word str="VAT " type="n"><phonetics>/ˌviː eɪ ˈtiː/</phonetics><example>The price includes &lt;b&gt;VAT&lt;/b&gt;.</example></word>
+<word str="vertebrate" type="n"><phonetics>/ˈvɜːtɪbrət/</phonetics><example>All &lt;b&gt;vertebrates&lt;/b&gt; have a backbone.</example></word>
+<word str="vial" type="n"><phonetics>/ˈvaɪəl/</phonetics><example>We heated the chemicals in a small &lt;b&gt;vial&lt;/b&gt;.</example></word>
+<word str="victim " type="n"><phonetics>/ˈvɪktɪm/</phonetics><example>He was the &lt;b&gt;victim&lt;/b&gt; of a violent attack.</example></word>
+<word str="Victorian" type="adj"><phonetics>/vɪkˈtɔːriən/</phonetics><example>Life was very different in &lt;b&gt;Victorian&lt;/b&gt; times.</example></word>
+<word str="video game " type="n"><phonetics>/ˈvɪdiəʊ ˌgeɪm/</phonetics><example>He spends hours playing &lt;b&gt;video games&lt;/b&gt;.</example></word>
+<word str="vigorous" type="adj"><phonetics>/ˈvɪgərəs/</phonetics><example>He gave the door a &lt;b&gt;vigorous&lt;/b&gt; push.</example></word>
+<word str="vineyard" type="n"><phonetics>/ˈvɪnjɑːd/</phonetics><example>The &lt;b&gt;vineyard&lt;/b&gt; is renowned for the wine it produces.</example></word>
+<word str="violence " type="n"><phonetics>/ˈvaɪələns/</phonetics><example>When a man tried to stop them, they reacted with &lt;b&gt;violence&lt;/b&gt;.</example></word>
+<word str="violent " type="adj"><phonetics>/ˈvaɪələnt/</phonetics><example>This was a very &lt;b&gt;violent&lt;/b&gt; crime.</example></word>
+<word str="VIP" type="n"><phonetics>/ˌviː aɪ ˈpiː/</phonetics><example>This room is only for &lt;b&gt;VIPs&lt;/b&gt;.</example></word>
+<word str="virtual" type="adj"><phonetics>/ˈvɜːtʃuəl/</phonetics><example>The government was so oppressive that it was a &lt;b&gt;virtual&lt;/b&gt; dictatorship.</example></word>
+<word str="voluntarily" type="adv"><phonetics>/ˌvɒlənˈteərəli/</phonetics><example>She offered money &lt;b&gt;voluntarily&lt;/b&gt;, before I asked.</example></word>
+<word str="waiting room " type="n"><phonetics>/ˈweɪtɪŋ ˌruːm/</phonetics><example>Please take a seat in the &lt;b&gt;waiting room&lt;/b&gt;.</example></word>
+<word str="wallpaper " type="n"><phonetics>/ˈwɔːlpeɪpə(r)/</phonetics><example>There was pink &lt;b&gt;wallpaper&lt;/b&gt; on the walls.</example></word>
+<word str="wardrobe" type="n"><phonetics>/ˈwɔːdrəʊb/</phonetics><example>I hung my coat in the &lt;b&gt;wardrobe&lt;/b&gt;.</example></word>
+<word str="warring" type="adj"><phonetics>/ˈwɔːrɪŋ/</phonetics><example>They hope to bring the &lt;b&gt;warring&lt;/b&gt; countries together.</example></word>
+<word str="waste ground " type="n"><phonetics>/ˈweɪst ˌgraʊnd/</phonetics><example>The supermarket will be built on &lt;b&gt;waste ground&lt;/b&gt; outside the city.</example></word>
+<word str="waste your breath " type="v"><phonetics>/ˌweɪst jɔː(r) ˈbreθ/</phonetics><example>Don&apos;t &lt;b&gt;waste your breath&lt;/b&gt; trying to persuade me – I&apos;ll never change my mind.</example></word>
+<word str="wavy" type="adj"><phonetics>/ˈweɪvi/</phonetics><example>She’s got dark &lt;b&gt;wavy&lt;/b&gt; hair.</example></word>
+<word str="wear" type="n"><phonetics>/weə(r)/</phonetics><example>They’ve got some lovely evening &lt;b&gt;wear&lt;/b&gt;.</example></word>
+<word str="wed" type="v"><phonetics>/wed/</phonetics><example>The couple plan to &lt;b&gt;wed&lt;/b&gt; next year.</example></word>
+<word str="wedding" type="n"><phonetics>/ˈwedɪŋ/</phonetics><example>They’re getting married – the &lt;b&gt;wedding&lt;/b&gt; is next month.</example></word>
+<word str="weed" type="v"><phonetics>/wiːd/</phonetics><example>Let’s &lt;b&gt;weed&lt;/b&gt; the garden, it looks a real mess.</example></word>
+<word str="weep" type="v"><phonetics>/wiːp/</phonetics><example>He &lt;b&gt;wept&lt;/b&gt; when his father died.</example></word>
+<word str="weigh" type="v"><phonetics>/weɪ/</phonetics><example>&lt;b&gt;Weigh&lt;/b&gt; the ingredients carefully.</example></word>
+<word str="weightlessness" type="n"><phonetics>/ˈweɪtləsnəs/</phonetics><example>They experienced the feeling of &lt;b&gt;weightlessness&lt;/b&gt; in space.</example></word>
+<word str="well-balanced" type="adj"><phonetics><![CDATA[/ˌwelˈbælənst/]]></phonetics><example><![CDATA[She seems happy and <b>well-balanced</b>.]]></example></word>	
+<word str="well behaved" type="adj"><phonetics>/ˌwel bɪˈheɪvd</phonetics><example>The children were polite and &lt;b&gt;well behaved&lt;/b&gt;.</example></word>
+<word str="well dressed" type="adj"><phonetics>/,wel &apos;drest/ </phonetics><example>She’s always smart and &lt;b&gt;well dressed&lt;/b&gt;.</example></word>
+<word str="well intentioned" type="adj"><phonetics>/ˌwel ɪnˈtenʃnd</phonetics><example>She is very &lt;b&gt;well intentioned&lt;/b&gt;, and never intends to upset people.</example></word>
+<word str="whisper" type="v"><phonetics>/ˈwɪspə(r)/</phonetics><example>‘Keep quiet,’ he &lt;b&gt;whispered&lt;/b&gt;.</example></word>
+<word str="whistle " type="v"><phonetics>/ˈwɪsl/</phonetics><example>He &lt;b&gt;whistled&lt;/b&gt; while he worked.</example></word>
+<word str="windowsill" type="n"><phonetics>/ˈwɪndəʊsɪl/</phonetics><example>There was a photograph on the &lt;b&gt;windowsill&lt;/b&gt;.</example></word>
+<word str="wireless" type="adj"><phonetics>/ˈwaɪələs/</phonetics><example>We’ve got a &lt;b&gt;wireless&lt;/b&gt; mouse for the computer.</example></word>
+<word str="wizard " type="n"><phonetics>/ˈwɪzəd/</phonetics><example>I don&apos;t believe in witches and &lt;b&gt;wizards&lt;/b&gt;.</example></word>
+<word str="wobbly " type="adj"><phonetics>/ˈwɒbli/</phonetics><example>This chair doesn&apos;t feel safe – it&apos;s &lt;b&gt;wobbly&lt;/b&gt;.</example></word>
+<word str="woe" type="n"><phonetics>/wəʊ/</phonetics><example>She told me all her problems and &lt;b&gt;woes&lt;/b&gt;.</example></word>
+<word str="woodwork" type="n"><phonetics>/ˈwʊdwɜːk/</phonetics><example>In &lt;b&gt;woodwork&lt;/b&gt; classes, you learn how to make things out of wood.</example></word>
+<word str="wool " type="n"><phonetics>/wʊl/</phonetics><example>Is that jumper made of &lt;b&gt;wool&lt;/b&gt;?</example></word>
+<word str="woollens" type="pl n"><phonetics>/ˈwʊlənz/</phonetics><example>You should wash &lt;b&gt;woollens&lt;/b&gt; separately.</example></word>
+<word str="work out " type="v"><phonetics>/ˌwɜːk ˈaʊt/</phonetics><example>Don&apos;t worry – things will &lt;b&gt;work out&lt;/b&gt; OK.</example></word>
+<word str="work sth out " type="v"><phonetics>/ˌwɜːk ... ˈaʊt/</phonetics><example>It&apos;s a difficult sum – I can&apos;t &lt;b&gt;work out&lt;/b&gt; the answer.</example></word>
+<word str="workforce" type="n"><phonetics>/ˈwɜːkfɔːs/</phonetics><example>The company wants to increase its &lt;b&gt;workforce&lt;/b&gt;.</example></word>
+<word str="wrapping paper " type="n"><phonetics>/ˈræpɪŋ ˌpeɪpə(r)/</phonetics><example>She bought some &lt;b&gt;wrapping paper&lt;/b&gt; to wrap up the present.</example></word>
+<word str="wretched" type="adj"><phonetics>/ˈretʃɪd/</phonetics><example>Where’s that &lt;b&gt;wretched&lt;/b&gt; boy gone?</example></word>
+<word str="yoga" type="n"><phonetics>/ˈjəʊgə/</phonetics><example>&lt;b&gt;Yoga&lt;/b&gt; is very relaxing.</example></word>
+<word str="young at heart" type=""><phonetics>/ˌjʌŋ ət ˈhɑːt/</phonetics><example>She’s 70, but she’s very &lt;b&gt;young at heart&lt;/b&gt;.</example></word>
+<word str="zillions " type="pl n"><phonetics>/ˈzɪliənz/</phonetics><example>There were &lt;b&gt;zillions&lt;/b&gt; of people at the party!</example></word>
+<word str="zoom" type="n"><phonetics>/zʊːm/</phonetics><example>Use the &lt;b&gt;zoom&lt;/b&gt; on your camera to bring things closer.</example></word>
+
+
+
+
+</exercise>
+<!--etc -->
